@@ -1,29 +1,33 @@
-# Ending: The Lord of Frenzied Flame
+# Ending Cinematic — Lord of Frenzied Flame (The Burning)
 
-## The Frenzied Flame Ending
+## The Mending (or Unmaking)
 
-> (Melina, if she survived by the player taking the Frenzied Flame before the Forge: "Lord of Frenzied Flame... I will find you. And I will kill you. As sure as night follows day.")
+[Visual: The Tarnished stands before the shattered Elden Ring. But they do not mend it. They do not sit on the throne. Instead, fire erupts — not the golden light of the Erdtree or the red fire of the Giants, but a chaotic, yellow-orange flame that moves like a living thing, consuming everything it touches.]
 
-The Tarnished, having been embraced by the Three Fingers in the depths beneath Leyndell, approaches the Elden Ring as a vessel of the Frenzied Flame. Instead of mending the ring, the Tarnished channels the Frenzied Flame through it, and the Erdtree ignites in a conflagration that consumes everything.
+[Visual: The Tarnished is engulfed. Their body cracks with frenzy flame, eyes blazing yellow-gold. They become a vessel of the Frenzied Flame, the manifestation of the Three Fingers' will. The fire spreads outward from them in all directions.]
 
-## Visual Description
+[Visual: The Erdtree burns. Not the controlled burn of Melina's sacrifice, but total, annihilating fire. The tree collapses inward, consumed. The golden light is replaced by manic, pulsing flame. The sky turns orange, then white.]
 
-This is the most visually dramatic ending. The Erdtree burns with a yellow-orange Frenzied Flame that is distinct from the red Flame of Ruin. The fire spreads outward from the tree, consuming the landscape. The camera pulls back to show the entire Lands Between being engulfed. The sky turns to fire. The earth cracks. Everything burns.
+[Visual: The Lands Between burn. The camera pulls back to show a continent consumed by fire. Cities, forests, mountains — all reduced to ash and flame. The fire does not stop. It is not destruction in service of renewal; it is destruction as an end in itself.]
 
-The Tarnished stands amid the conflagration, their body scarred with the Three Fingers' burn marks (three parallel lines across their torso and face, mirroring the Three Fingers' shape). They do not sit on a throne. They stand in the fire as it consumes everything, arms slightly raised, as though welcoming or directing the destruction.
+[Visual: The Tarnished sits on the throne, wreathed in flame. Their body is barely visible beneath the fire. They have become the Lord of Frenzied Flame — not a ruler, but an engine of annihilation. The throne room crumbles around them.]
 
-The final shot is the world in flames, the Erdtree a pillar of fire, the landscape reduced to ash and flame extending to every horizon.
+## The Post-Credits Scene
 
-If Melina survived (by the player inheriting the Frenzied Flame before she sacrifices herself at the Forge), a post-credits scene shows her with one open eye (her previously closed eye, which is dark/purple rather than golden), speaking her threat to find and kill the Lord of Frenzied Flame. Her tone is cold, determined, and personal. This is no longer a guide serving a purpose; this is a woman with a vendetta.
+[Visual: After the credits, a brief scene plays. A figure approaches the burning throne. It is Melina — alive. Her left eye, always closed throughout the game, is now open. It burns with a dark, violet-black flame. She speaks:]
 
-## Lore Implications
+> "Lord of Frenzied Flame... I will deliver thee thy destined death."
 
-The Frenzied Flame ending is annihilation. The Three Fingers represent the desire to return all of existence to the primordial, undifferentiated state that preceded creation. In the cosmology of Elden Ring, the Greater Will introduced order (separation, individuality, the Elden Ring as cosmic law) into chaos. The Frenzied Flame seeks to reverse this: to dissolve all distinction, all individuality, all life and death, back into the original oneness.
+[Visual: She turns and walks away from the camera. The implication is clear: Melina survived because the player took the Frenzied Flame before she could sacrifice herself at the Forge. Now she seeks vengeance, armed with what appears to be the power of Destined Death — the power to kill a god.]
 
-This is not merely destruction; it is existential dissolution. The fire does not just kill; it unmakes. Everything that exists as a separate thing ceases to be separate. This is why the Flame of Frenzy is associated with madness: perceiving the Frenzied Flame's truth (that all separation is suffering, that individuality is a curse) drives people insane because it is fundamentally incompatible with being a discrete entity.
+## Interpretation
 
-The Tarnished who chooses this ending has concluded that the Lands Between cannot be fixed. The Golden Order is corrupt. The alternatives (stars, death, perfect order) merely replace one system with another. The only true solution is to end everything. It is the ultimate expression of nihilism, but also, paradoxically, of compassion: if all suffering comes from separation, then ending separation ends all suffering.
+The Frenzied Flame ending is the game's nihilistic option. The Three Fingers (inverse of the Two Fingers) represent the belief that the world's suffering is so total that the only mercy is complete annihilation — return everything to the primordial chaos from which it emerged. "May chaos take the world. May chaos take the world!"
 
-The Shabriri connection (Shabriri, the NPC who advocates for this ending, was the first person to have the Frenzied Flame put in their eyes as punishment for a great betrayal) suggests that the Frenzied Flame exploits despair and grievance. The merchant/nomad people (whose persecution by the Golden Order led to the Frenzied Flame's summoning from underground) are the historical context: a people so thoroughly destroyed that their collective agony called forth a cosmic force of annihilation. The Frenzied Flame is grief made apocalyptic.
+This is not a restructuring of the Elden Ring or a new age within the existing framework. It is the end of the framework itself. The Erdtree, the Elden Ring, the gods, the demigods, the Tarnished, all of it — burned away. The Frenzied Flame does not distinguish between good and evil, order and chaos, life and death. It reduces everything to a single, undifferentiated state.
 
-Melina's post-credits threat, if she survives, is the only hint that this ending might not be permanent. She possesses the "kindling" purpose given by Marika, but with her dark eye open (associated with Ranni and the moon/darkness), she represents something outside both the Golden Order and the Frenzied Flame. Her survival as an antagonist to the Lord of Frenzied Flame is an unresolved thread that suggests even total annihilation may have opposition.
+The ending is explicitly framed as the worst outcome. Melina warns against it repeatedly. Hyetta (the Frenzied Flame's servant) welcomes it with ecstatic joy. The game positions these two reactions as a moral compass: the character who sacrifices herself for the world says this path is wrong; the character consumed by madness says it is right.
+
+Melina's survival and her vow to kill the Lord of Frenzied Flame is the game's only hint that this ending might be reversible — or at least that someone will try.
+
+[Visual: The final image, before the post-credits scene, is a world on fire. No Erdtree. No structures. Just flame, to the horizon, and beyond.]

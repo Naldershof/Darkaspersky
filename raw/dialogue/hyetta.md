@@ -1,119 +1,121 @@
 # Hyetta — Complete Dialogue
 
-## Liurnia — Lake-Facing Cliffs (First Meeting)
+## Liurnia — First Encounter (Lake-Facing Cliffs)
 
-> "Oh... please, could you help me? I am Hyetta. A maiden, without sight."
+> "Please... I am Hyetta. I am blind, you see. I cannot find my way."
 
-> "I can feel it... the guidance of grace. It pulls me forward. But I cannot see the path."
+> "Do you happen to have a Shabriri Grape? I was told they would guide me. That they hold the light I need."
 
-> "If you have a Shabriri Grape... I would be most grateful. They help me see. In a way."
+[Context: Hyetta is first encountered in Liurnia, on the path near the Lake-Facing Cliffs site of grace. She is blind and seeking Shabriri Grapes, which she believes will restore her sight or guide her to her purpose.]
 
-[Context: Hyetta is a blind maiden found at multiple locations throughout the game. She seeks Shabriri Grapes to "see" the path ahead. She follows the guidance of grace, moving from location to location.]
+### After Giving a Shabriri Grape
 
-### After Receiving a Shabriri Grape
+> "Thank you... thank you so much."
 
-> "Thank you. This grape... it helps me perceive. The world opens up, if only for a moment."
+> "Mmm... the flavour. So sweet. And yet... there is something else. Something beneath the sweetness."
 
-> "The flame... I can see a flame. Burning. Far away. But it calls to me."
+> "I can see... just a little. A faint light. It beckons me forward."
 
-> "I must continue. The guidance of grace pulls me onward."
+> "I must follow it. The light. It calls to me."
 
-[Context: Shabriri Grapes are actually eyeballs afflicted with the madness of the Three Fingers/Shabriri. By consuming them, Hyetta is gradually being drawn toward the Frenzied Flame. She does not know what the grapes truly are.]
-
----
-
-## Liurnia — Gate Town (Second Meeting)
-
-> "You again? How kind. You followed me."
-
-> "I have moved on. The grace guided me here. But I need another grape."
-
-> "Each one brings me closer. Closer to the flame. I can feel it. The warmth."
-
-### After Receiving the Second Grape
-
-> "Yes... the flame grows brighter. Closer."
-
-> "I was born without sight. I have never known the world as others do. But through the grapes, I perceive something others cannot."
-
-> "A great flame. Burning beneath the world. It calls to all who would listen."
+[Context: Shabriri Grapes are actually the eyes of people afflicted with the Frenzied Flame — they are literally human eyeballs. Hyetta does not know this. Each grape she consumes draws her closer to the Three Fingers.]
 
 ---
 
-## Bellum Church (Third Meeting)
+## Liurnia — Second Encounter (Gate Town Bridge)
 
-> "The guidance of grace... it led me here. To this church."
+> "Oh! You again. How fortunate."
 
-> "Please, another grape. The flame calls. I must answer."
+> "The light led me here. But it is fading. I need another grape. A Shabriri Grape."
 
-### After Receiving the Third Grape
+> "Please, if you have one... the light is all I have."
 
-> "I see it now. More clearly than ever. The flame beneath the world."
+### After Giving Another Grape
 
-> "It burns for those who have been forsaken. The blind. The mad. The forgotten."
+> "Yes... the light returns. Brighter than before."
 
-> "I think... I think I was meant for this. Born blind, so that I might see the truth."
+> "It speaks to me, you know. Not in words, but in... feeling. A warmth. A righteous warmth."
 
-> "But what is this grape, truly? It tastes of... something familiar. Something I cannot name."
+> "It tells me of suffering. Of injustice. Of a flame that burns away all distinction. All order."
 
-[Context: Hyetta begins to question the nature of the Shabriri Grapes. The "familiar" taste is the taste of eyes — of madness. She is being corrupted by Shabriri's influence but interprets it as divine guidance.]
+> "I think... I think I am being called. To something greater."
+
+---
+
+## Liurnia — Third Encounter (Bellum Church)
+
+> "You are kind to follow me. Or perhaps the light guides us both."
+
+> "I need another grape. The light is dimming again. It always dims between the grapes."
+
+### After Giving Another Grape
+
+> "The truth... I think I am beginning to understand."
+
+> "These grapes. They are not what I thought they were, are they?"
+
+> "They are eyes. Human eyes. I can taste it now. The salt of tears. The sting of madness."
+
+> "And yet I cannot stop. The light demands it. And the light... the light is righteous."
+
+[Context: Hyetta begins to realize the true nature of the Shabriri Grapes but is unable or unwilling to stop consuming them. The Frenzied Flame's influence is growing.]
 
 ---
 
 ## Subterranean Shunning-Grounds — Before the Three Fingers
 
-> "You've come. I knew you would."
+> "This is it. The end of my journey. The light has led me here."
 
-> "This is it. The place the flame guided me to. Beneath Leyndell. Beneath everything."
+> "Below this place... the Three Fingers await. The vessel of the Frenzied Flame."
 
-> "The Three Fingers are here. The vessel of the Frenzied Flame."
+> "I was blind, but now I see. The grapes — the eyes of the mad — they showed me the truth."
 
-> "The Shabriri Grapes... I understand now. They were eyes. The eyes of those who gazed upon the flame and were consumed."
+> "All the suffering in this world. All the cruelty. All the injustice. It exists because of ORDER. Because the Greater Will divided the One Great into many, creating distinction. Creating suffering."
 
-> "But I do not despair. The flame is not madness. The flame is TRUTH."
+> "The Frenzied Flame would undo it all. Return everything to the One Great. No more suffering. No more cruelty. Because there would be no more anything."
 
-> "All that exists was born from the One Great. And to the One Great, all must return. The flame would reduce everything to its original state. Before division. Before life and death. Before joy and suffering."
+> "I understand now. My purpose. I am to be the Finger Maiden of the Three Fingers. The maiden of the Frenzied Flame."
 
-> "This is the purpose I was born for. To guide you to the flame. To be the maiden of the Lord of Frenzied Flame."
+[Context: Hyetta has reached her final destination — the chamber before the Three Fingers in the deepest part of the Subterranean Shunning-Grounds beneath Leyndell.]
 
-[Context: Hyetta reveals the full theology of the Frenzied Flame at the entrance to the Three Fingers' chamber beneath the Cathedral of the Forsaken. She has embraced the flame entirely.]
+### Her Final Words
 
-### On the One Great
+> "Please. Go to the Three Fingers. Let them embrace you."
 
-> "Before the world was divided, there was the One Great. A single, undifferentiated being. Life and death, joy and suffering, light and dark — all were one."
+> "Let the Frenzied Flame take you. Become the Lord of Chaos."
 
-> "The Greater Will shattered the One Great. Divided it into the world we know. Created separation. Created suffering."
+> "I will be your maiden. Your guide. In the new world — the world without order, without distinction — I will be at your side."
 
-> "The Frenzied Flame would undo the division. Return everything to the One Great. End all suffering by ending all existence."
+> "This is my purpose. This is what the grapes showed me. What the light demanded."
 
-> "Is that not a mercy? To end the endless cycle of birth, death, and rebirth? To return to the peace of the undivided?"
+> "Go. Embrace the flame. And let this world... burn."
 
-[Context: This is the core theology of the Frenzied Flame faction. The One Great was the primordial state of existence before the Greater Will imposed order. The Three Fingers seek to burn away all division and return to that state.]
+[Context: Hyetta urges the player to accept the Three Fingers' embrace and become the Lord of Frenzied Flame. If the player does so, the Frenzied Flame ending becomes available — a nihilistic apocalypse that reduces the world to primordial chaos.]
+
+### After the Player Accepts the Three Fingers
+
+> "Yes... the flame... it is beautiful."
+
+> "You are the Lord of Chaos now. And I am your maiden."
+
+> "Together, we will unmake this world. And from the ashes... nothing. Beautiful, perfect nothing."
+
+[Context: After the Three Fingers' embrace, Hyetta dies — her body found nearby, her purpose fulfilled. She has become a martyr to the Frenzied Flame, having served as the vessel that guided the player to this apocalyptic choice.]
 
 ---
 
-## After the Player Accepts the Frenzied Flame
+## The Irina Connection
 
-> "You have done it. You have accepted the flame. You are the Lord of Frenzied Flame."
-
-> "I will serve you. As your maiden. Until all is consumed."
-
-> "The flame will spread. From you, to the Erdtree, to the world. Until nothing remains but the One Great."
-
-> "And then... peace. At last."
-
-> (Hyetta burns and dies, consumed by the Frenzied Flame she devoted herself to.)
-
-[Context: After the player accepts the Three Fingers' embrace, Hyetta serves as the Frenzied Flame's maiden — but the flame consumes her. She dies willingly, believing she has fulfilled her purpose. Her death parallels Melina's sacrifice at the Forge but in service of destruction rather than restoration.]
+[Context: Hyetta bears a strong physical resemblance to Irina, the blind girl found on the Weeping Peninsula who is later killed. Many players believe Hyetta is Irina reborn or reanimated — both are blind women found in similar areas of the world. If Irina dies before Hyetta appears, this strengthens the theory. The Shabriri Grapes that Hyetta consumes may be what animates her — she is a vessel being shaped by the Frenzied Flame from the start.]
 
 ---
 
 ## Notes on Hyetta's Lore Significance
 
-- Hyetta is heavily implied to be connected to Irina, the blind girl from the Weeping Peninsula. Both are blind maidens. After Irina's death, Hyetta appears. The connection is never explicitly confirmed but is strongly suggested by their identical character models.
-- The Shabriri Grapes are eyes — specifically, the eyes of people driven mad by the Frenzied Flame. The name "Shabriri" refers to a demon of blindness in Jewish mythology, and in-game, Shabriri is the most reviled figure in the Lands Between.
-- Hyetta's journey from blind maiden to prophet of the Frenzied Flame mirrors a religious conversion narrative: she interprets her disability as divine purpose, and the consuming of eyes (knowledge/sight) as enlightenment.
-- The Three Fingers are the counterpart to the Two Fingers. Where the Two Fingers serve the Greater Will (order, separation), the Three Fingers serve the Frenzied Flame (chaos, reunification).
-- The "One Great" is a crucial cosmological concept: before the Greater Will imposed order, everything was one. The Frenzied Flame would undo creation itself.
-- Hyetta's death upon the flame's acceptance mirrors the fate of all who serve the Frenzied Flame: consumed. The flame does not preserve — it reduces.
-- Her questline requires multiple Shabriri Grapes AND a Fingerprint Grape (found in the Chapel of the Forsaken) to complete the final stages.
+- Hyetta's quest is a slow descent into the Frenzied Flame's influence, disguised as a pilgrimage toward truth.
+- The Shabriri Grapes (human eyes) she consumes are a grotesque sacrament — each one brings her closer to becoming the Frenzied Flame's maiden.
+- Her blindness is symbolic: she cannot see the horror of what she consumes, and by the time she "sees" (through the Frenzied Flame's light), she has been fully indoctrinated.
+- Her philosophy — that suffering exists because of order and distinction — mirrors the Frenzied Flame's nihilistic theology. The cure for suffering is the obliteration of everything.
+- The connection to Irina suggests that the Frenzied Flame actively recruits and repurposes souls for its agenda.
+- Her role as Finger Maiden of the Three Fingers parallels Melina's role as Finger Maiden of the Two Fingers — two maidens, two paths, two possible fates for the world.
+- Her death after fulfilling her purpose mirrors the expendability of all maidens in the Lands Between — used as vessels and discarded.

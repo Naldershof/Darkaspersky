@@ -1,23 +1,19 @@
-# Ending: Age of the Duskborn
+# Ending Cinematic — Age of Duskborn (Fia's Ending)
 
-## Fia's Mending Rune
+## The Mending
 
-> (No unique narration. The visual shows the Elden Ring mended with a dark, spectral pattern associated with death and the Prince of Death's rune.)
+[Visual: The Tarnished stands before the shattered Elden Ring and presents the Mending Rune of the Death-Prince — Fia's creation, birthed from her union with Godwyn's soulless corpse in Deeproot Depths.]
 
-The Tarnished repairs the Elden Ring using the Mending Rune of the Death-Prince, born from Fia's union with Godwyn's corpse in the Deeproot Depths. The ring incorporates death back into its fundamental structure, reversing Marika's original removal of the Rune of Death.
+[Visual: The Elden Ring reforms with the Death-Prince rune woven into its structure. The golden light of the Ring is suffused with a pale, spectral glow — the light of death itself, no longer excluded but incorporated. The Ring accepts death as part of its design.]
 
-## Visual Description
+[Visual: The Tarnished sits upon the throne. The Erdtree's light shifts to an amber-twilight hue, a dusk that is neither full light nor full dark. The boundary between life and death becomes permeable, acknowledged rather than denied.]
 
-The throne room scene is tinged with a cooler, darker light compared to other endings. The Elden Ring's repair patterns are spectral and ethereal, suggesting the presence of death as a natural part of the cosmic order. The Erdtree's light takes on a twilight quality, golden mixed with dark blue-purple, evoking dusk.
+## Interpretation
 
-## Lore Implications
+Fia's ending restores death to the Elden Ring. The Golden Order's original sin — Marika's removal of Destined Death from the Ring, creating an immortality that led to stagnation and eventually to Godwyn's corrupted half-death — is corrected. In the Age of Duskborn, death exists as a natural part of the cycle. Those Who Live in Death (the undead persecuted by the Golden Order) are no longer abominations but a recognized state of being.
 
-The Age of the Duskborn restores death as a natural part of the cycle of life in the Lands Between. Marika's original act (removing the Rune of Death from the Elden Ring) was what created the Golden Order's defining characteristic: nothing truly died. Souls returned to the Erdtree and were recycled. This sounds benign, but its consequences were catastrophic: Those Who Live in Death (beings stuck between life and death because the system malfunctions), the Deathroot corruption (Godwyn's half-death spreading through the Erdtree's roots), and the Night of the Black Knives (which required stealing death back because it had been removed from the natural order).
+This ending transforms the meaning of Godwyn's tragedy. His half-death, which corrupted the Erdtree's roots and created the Deathroot plague, becomes the foundation of a new understanding rather than a catastrophe to be hidden. Fia's act of lying with his corpse, giving him the death he was denied (a complete death, or at least a dignified one), becomes a founding myth.
 
-By restoring death, the Duskborn ending addresses the root cause of many of the game's problems. Those Who Live in Death would no longer be aberrations but natural. The Deathroot corruption would presumably be resolved because death is no longer a foreign element in the system. The persecution of the undead by the Golden Order (D's entire purpose) becomes unnecessary.
+The name "Duskborn" evokes twilight — the boundary between day and night, life and death. This is an ending that embraces liminality, accepting that existence includes both states and that denying either leads to corruption.
 
-Fia's perspective is that of a Deathbed Companion: a figure who lies with the dead to grant them warmth and comfort. Her ending is not nihilistic; it is compassionate. Death is not a horror to be eliminated but a natural part of existence that deserves dignity. The "Duskborn" name suggests a world where beings are born into a cycle that includes death, twilight figures existing in the space between the golden day and the dark night.
-
-The cost is Fia's life (she dies in the Deeproot Depths after birthing the rune) and the end of the Golden Order's death-denying theology. Every system built on the assumption of immortality (the Erdtree's recycling of souls, the grace system, the entire structure of the Two Fingers' guidance) must be renegotiated.
-
-This ending is named for Godwyn, the Golden who became the Prince of Death, the first demigod to die. His half-death (soul killed, body alive) was the aberration that corrupted the Erdtree from within. The Age of the Duskborn, in a sense, completes what was started with his murder: if death had been part of the system, Godwyn could have died fully and cleanly, and none of the subsequent horror would have occurred.
+[Visual: The final shot shows the Erdtree at twilight, its light warm but fading at the edges into gentle darkness. Spectral figures — the dead, finally at peace — drift around its base. The world includes death, and is better for it.]

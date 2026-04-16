@@ -1,154 +1,135 @@
 # Roderika — Complete Dialogue
 
-## Stormhill Shack — First Meeting
+## Stormhill Shack — First Encounter
 
-> "Oh... hello. I'm Roderika. Just... Roderika."
+> "Please... be careful. If you're heading to the castle..."
 
-> "I came to Stormveil Castle with a group of Tarnished. We were going to challenge Godrick."
+> "Everyone who went... they were taken. Grafted. Godrick took them and used their bodies."
 
-> "But we failed. They were all taken. Grafted."
+> "Their arms. Their legs. Stitched onto his own flesh. My people... my whole company. All of them."
 
-> "Godrick took their limbs. Their arms. Their legs. Stitched them onto his own body."
+> "I was the only one who didn't go inside. I was too afraid. And now they're all..."
 
-> "I... I ran. I couldn't fight. I couldn't save anyone. I just ran."
+[Context: Roderika is found at the Stormhill Shack on the path to Stormveil Castle. She is a traumatized young woman whose entire company of Tarnished was grafted by Godrick. She was the only survivor because she was too frightened to enter the castle.]
 
-> "I'm a coward. A worthless, pathetic coward."
+### On the Chrysalids
 
-[Context: Roderika is found at the Stormhill Shack, traumatized after her group was captured and grafted by Godrick. She is one of the most sympathetic NPCs in the game — a person broken by the horrors of the Lands Between.]
+> "The chrysalids... have you seen them? In the castle?"
 
-### On Her Chrysalids
+> "Masses of grafted limbs. Writhing. Still alive, in a way. That's what became of them."
 
-> "The chrysalids... my companions. They were grafted. But I can still feel them."
+> "I can hear them. Even from here. Their spirits, crying out."
 
-> "Their spirits... they're still there. Inside Godrick's grafts. Suffering."
+> "That's my gift, you see. Or my curse. I can feel spirits. Hear them. Their pain, their longing."
 
-> "I have a gift, you see. I can sense spirits. Feel them. Hear them."
+[Context: Roderika can sense spirits — the essence of the dead. The chrysalids in Stormveil Castle are masses of grafted body parts, and Roderika can hear the trapped spirits within them. This ability is the foundation of her talent for spirit tuning.]
 
-> "That's why it hurts so much. I can feel their pain. And I can do nothing."
+### Her Shame
 
-### Her Request
+> "I was too scared to go with them. And now they're dead. Because I was a coward."
 
-> "Please... if you go to Stormveil. If you face Godrick."
+> "What good am I? I can hear the dead, but I couldn't save the living."
 
-> "Tell them... tell my friends... that I'm sorry. That I wasn't brave enough."
-
-> "And take this. A gift. I made it from the chrysalids. The spirits within... they would want to help you."
-
-> (She gives the player the Jellyfish Spirit Ashes.)
-
-[Context: The Jellyfish Spirit Ashes are one of the earliest spirit summons. The jellyfish is implied to be the spirit of one of Roderika's grafted companions.]
+> "I should go to the Roundtable Hold. Perhaps I can find some purpose there."
 
 ---
 
-## Roundtable Hold — Finding Her Purpose
+## Roundtable Hold — Arrival
 
-### Initial Arrival
+> "I made it here. The Roundtable Hold."
 
-> "I made it. To the Roundtable Hold. Someone told me to come here."
+> "It's... it's overwhelming. I can feel so many spirits. This place is saturated with them."
 
-> "But I don't know what to do. I have no strength. No skills. No purpose."
-
-> "The others here — they're all warriors. Champions. And I'm... nobody."
-
-### Speaking with Hewg
-
-> "The smithing master... Hewg. He's chained to that table. Forced to work."
-
-> "And yet he keeps going. Day after day. Never stopping."
-
-> "I asked him how. How he endures. He told me to stop bothering him."
-
-> "But then... he said something. He said: 'Find your purpose, and the chains don't matter.'"
+> "But I don't know what to do. I'm not a fighter. I'm not a scholar. I'm just... Roderika."
 
 ### Discovering Spirit Tuning
 
-> "I've been speaking with the spirits here. The ones in the ashes."
+> "Master Hewg mentioned something. Spirit tuning. The art of strengthening spirit ashes."
 
-> "They respond to me. They... talk to me. In feelings, not words."
+> "I've always been able to feel spirits. To communicate with them. Maybe I could..."
 
-> "The man at the Hold — the one who can tune spirits — he says I have a gift. A rare one."
+> "Could you speak to Master Hewg for me? He seems reluctant to teach me. But I think he knows I have the gift."
 
-> "Spirit tuning. The art of strengthening spirit ashes. Making the spirits within more powerful."
-
-> "He says I should learn. That I have the aptitude."
-
-> "Could I? Could this be my purpose?"
-
-### After Learning Spirit Tuning
-
-> "I did it! I can tune spirits now!"
-
-> "I can feel them. All of them. The spirits in the ashes. They're grateful. They want to grow stronger."
-
-> "This is... this is what I was meant to do. Not fight. Not die. But to nurture. To strengthen."
-
-> "Bring me your spirit ashes. I'll tune them. Make them stronger."
-
-> "It's the least I can do. For you. And for them."
+[Context: Roderika needs the player to speak to Hewg on her behalf. Hewg is initially dismissive but eventually agrees to let her work alongside him.]
 
 ---
 
-## Roundtable Hold — Growing Alongside Hewg
+## Roundtable Hold — Becoming Spirit Tuner
 
-### Early Conversations
+### Early Lessons
 
-> "Hewg lets me sit beside him while he works. He pretends to be annoyed, but I can tell he doesn't mind."
+> "Master Hewg is teaching me! Well... not teaching exactly. More like tolerating my presence."
 
-> "The rhythm of his hammer... it's soothing. And the spirits seem to like it too."
+> "But I'm learning. Spirit tuning — it's about understanding the spirit within the ashes. Its nature. Its desires."
 
-### On Her Growth
+> "When I touch the ashes, I can feel them. The warriors, the wolves, the jellyfish... they're all still there. Still aware, in their way."
 
-> "I'm getting better at this. Spirit tuning. I can feel the nuances now."
+### Growing Confidence
 
-> "Each spirit is different. They have memories. Feelings. Desires."
+> "I strengthened a spirit today! On my own! Master Hewg didn't even help."
 
-> "The jellyfish... she misses someone. A sister, I think. She floats and floats, searching."
+> "He grunted. I think that means he's impressed. Or annoyed. It's hard to tell with him."
 
-### On Hewg
+> "But I did it. I, Roderika, who was too scared to enter Stormveil Castle... I made a spirit stronger."
 
-> "Hewg is kind. He doesn't think so, but he is."
+### On the Spirits
 
-> "He growls and grumbles, but he always makes sure I've eaten. Always asks if I'm warm enough."
+> "Every spirit ash has a story. A life that was lived. A death that was died."
 
-> "He's been here so long. Chained. Forgotten. And yet he still cares about others."
+> "The jellyfish spirit — she's looking for her sister. She's been looking for so long."
 
-> "I won't leave him. Even if the Hold crumbles. I'll stay."
+> "The wolves — they run together, even in death. Pack loyalty that transcends life itself."
+
+> "When I tune them, I'm not just making them stronger. I'm honouring what they were."
 
 ---
 
-## As the Erdtree Burns — Roderika's Devotion
+## On Master Hewg
 
-> "The Erdtree is burning. The Hold shakes. I can feel the grace weakening."
+> "Master Hewg is... not what I expected. He's gruff. Forgetful. Sometimes he doesn't recognize me."
 
-> "Hewg... his memory is failing. He forgets things. My name, sometimes."
+> "But there's a kindness in him. Buried deep. Under the chains and the years."
 
-> "But I won't leave. I promised myself."
+> "He pretends not to care, but he corrects my work. Quietly. When he thinks I'm not looking."
 
-> "The spirits tell me it's time to go. That the Hold won't last."
+> "I worry about him. His memory gets worse every day. Sometimes he looks at me like I'm a stranger."
 
-> "But where would I go? This is my home. Hewg is my family."
+> "But then he'll say, 'The girl has talent,' to himself. And I know he remembers."
 
-### Final Dialogue
+### Late Game
 
-> "Hewg doesn't remember me anymore. But that's alright."
+> "Master Hewg... he's fading. I can see it. His mind is going."
 
-> "I remember him. I remember everything."
+> "I wish I could help him the way he helped me. But some things even spirit tuning cannot fix."
 
-> "When the fire comes... I'll be right here. Beside him."
+> "I will stay with him. Until the end. He gave me a purpose. The least I can do is make sure he's not alone."
 
-> "That's enough. More than I ever thought I'd have."
+---
 
-[Context: Roderika remains at the Roundtable Hold as it decays, staying beside the increasingly amnesiac Hewg. Her loyalty to him — despite his forgetting her — is one of the game's most emotionally resonant moments.]
+## Roundtable Hold — Endgame
+
+> "The world is falling apart, isn't it? The Erdtree burns. The Hold crumbles."
+
+> "But I'm not afraid anymore. Strange, isn't it? The girl who was too scared to enter a castle... now she sits calmly as the world ends."
+
+> "You gave me that. You and Master Hewg. You showed me that I have worth. That my gift matters."
+
+> "Whatever happens next... thank you. For believing in me when I couldn't believe in myself."
+
+### If Spoken to Before the Final Battle
+
+> "Go. Do what you must. I'll tend to the spirits. Keep them strong for you."
+
+> "And when it's over... come back. I'll be here. At the anvil. Where I belong."
 
 ---
 
 ## Notes on Roderika's Lore Significance
 
-- Roderika's gift for spirit tuning marks her as someone who can commune with the dead — specifically, the spirits trapped in Spirit Ashes. This connects to the broader theme of death and persistence in the Lands Between.
-- The Jellyfish Spirit she gives the player is implied to be searching for its "sister" — a spirit jellyfish found later in the Stargazer's Ruins. Reuniting them (by summoning the jellyfish near the ruins) is an optional, unmarked interaction.
-- Roderika's arc from broken survivor to purposeful spirit tuner is one of the game's most complete character transformations.
-- Her relationship with Hewg parallels Ranni and Blaidd, Malenia and Miquella — bonds that define and sustain both parties.
-- The "chrysalids" she mentions are cocoon-like growths found in Stormveil — grafted bodies in various states of transformation. The spirits within them are her companions.
-- Her choice to stay with Hewg as the Hold crumbles reflects the game's central question: what do you hold onto when everything is falling apart?
-- Spirit Tuning mechanically upgrades spirit ashes using Ghost Glovewort and Grave Glovewort. Roderika is the only NPC who can perform this service.
-- Roderika wearing her red hood at Stormhill and later removing it at the Hold symbolizes her transformation from hiding to openness.
+- Roderika's arc is one of the game's purest character development stories: from a traumatized coward to a confident spirit tuner who finds purpose and dignity.
+- Her ability to sense spirits connects her to a deeper understanding of death and the soul in the Lands Between — she can feel what others cannot.
+- Her relationship with Hewg is a mutual rescue: she gives him companionship and someone to care about; he gives her skills and purpose.
+- Spirit tuning as a mechanic is tied to Roderika — without her, the player cannot upgrade spirit ashes. This makes her mechanically essential, reinforcing her narrative importance.
+- Her presence at the Stormhill Shack, too afraid to enter Stormveil, is one of the game's most relatable moments — a reminder that not everyone in this world is a warrior.
+- The chrysalids she describes are among the game's most horrifying environmental details, and her ability to hear the spirits within them establishes the horror of Godrick's grafting on a personal level.
+- Her final scene, choosing to stay with the failing Hewg in the crumbling Hold, is an act of quiet heroism — loyalty to someone who needs her, even as the world ends.

@@ -1,87 +1,89 @@
-# The Underground Regions — Environmental Observations
+# The Underground — Environmental Observations
 
-## Siofra River
+## Siofra River — Ancestral Spirits and Starlight
 
-Siofra River is an enormous underground cavern accessible via a lift in Limgrave's Mistwood. The descent is dramatic: a long elevator ride down through geological strata, arriving in a space so vast that it has its own sky. The ceiling is dotted with glowing stars (possibly artificial, possibly a reflection of the real sky through magical means), creating a false night sky underground. The river itself flows through a landscape of ancient ruins, enormous pillars, and ghostly blue-green light.
+Siofra River is accessed via an elevator shaft in Limgrave (the Siofra River Well) that descends an impossible distance underground. The descent itself is narratively significant: the player drops for a long, long time, passing through geological strata, before emerging into a vast underground cavern with its own false sky. The ceiling is studded with what appear to be stars — not the sky, not the surface, but an artificial or magical firmament deep beneath the earth.
 
-The area is inhabited by the Ancestral Followers, a shamanic people who worship the spirits of animals (particularly deer and elk). They use horns, bone weapons, and spirit-calling magic. Their architecture is primitive compared to the surface civilizations but ancient and deeply integrated with the landscape. Massive elk spirits roam the area, ghostly and semi-transparent.
+The starlit ceiling of Siofra establishes the underground's central visual motif: these spaces have their own heavens. The implication is that the civilizations here rejected or were denied the surface world's sky (and by extension, the Erdtree's influence) and created their own. The stars underground may predate the stars above, or they may be a reflection, or a replacement. Their presence transforms what should be a cave into a cosmos.
 
-Siofra River represents a civilization that exists entirely outside the Erdtree's influence. The Ancestral Followers have no relationship with grace, the Golden Order, or any of the surface-world power structures. Their worship of animal spirits is a form of nature religion that predates everything above. The false starry sky and the immense scale of the cavern suggest this underground world was either created or claimed by a power independent of the Erdtree.
+Ancestral Followers inhabit Siofra: ghostly, tribal warriors who wield bows and worship at stone monuments. They are not undead in the Erdtree sense (not sustained by Grace) but spectral, tied to the land through a different form of persistence. Their worship centers on the Ancestor Spirit, a massive spectral deer wreathed in blue flame. This nature-worship predates the Erdtree — no golden light here, no Two Fingers, no Grace. The Ancestral Followers have their own connection to life and death that operates outside the Golden Order entirely.
 
-The Hallowhorn Grounds in Siofra require lighting flames to summon the Ancestor Spirit, a massive spectral deer that serves as a boss. This spirit is not hostile in the way most bosses are; it fights to defend itself, and its defeat feels more like a mercy killing than a victory. The Ancestor Spirit represents the pinnacle of the underground faith: a divine animal spirit, immense and beautiful and doomed.
+The Hallowhorn Grounds, where the Ancestor Spirit is fought, feature stone pillars and ritual spaces that suggest organized religion. These are not primitive people; they had theology, architecture, and social structure. Their spectral state implies they were pushed underground and died out, but their spirits persist in a land the Erdtree's roots never reached.
 
-[Context: Accessible via the Siofra River Well in Limgrave's Mistwood. An enormous underground region with its own ecosystem and civilization.]
+[Context: Siofra River, accessed via the well elevator in Mistwood, eastern Limgrave. The first underground area most players discover.]
 
 ## Ainsel River
 
-Ainsel River is a parallel underground waterway accessible via lifts in Liurnia. Like Siofra, it features a false starry ceiling and ancient ruins, but Ainsel has a more oppressive atmosphere. The area is infested with giant ants, claymen (animated stone figures), and Malformed Stars (lesser relatives of Astel). The architecture is more elaborate than Siofra's, featuring stone corridors and structured ruins suggesting a more developed civilization.
+Ainsel River is the second major underground waterway, accessed either through a separate well in Liurnia or via a coffin ride from Ranni's questline. The environment is similar to Siofra — a vast underground cavern with a false starlit ceiling — but the atmosphere is different. Ainsel feels more constructed, more architectural. Where Siofra has the rawness of a natural cavern claimed by tribal peoples, Ainsel has the polish of a planned city's infrastructure.
 
-The Ainsel River Main area connects to Ranni's questline, where the player carries a miniature Ranni doll through the underground. The doll eventually speaks, directing the player toward the Lake of Rot and ultimately to the Moonlight Altar. This use of the underground as a passage in Ranni's rebellion against the Golden Order is thematically significant: she operates literally beneath the surface of the established world.
+Giant ants inhabit much of Ainsel River, their colonies built into the rock. Clayman enemies (hulking, clay-like humanoids) patrol the waterways. The Claymen are particularly significant: they appear to be artificial beings, possibly golems created by the Nox civilization. Their presence throughout the underground suggests the Nox maintained a constructed labor force, much as the surface world uses spirit ashes and summons.
 
-The Uhl Palace Ruins in Ainsel represent a distinct architectural tradition from the surface. The stonework features designs associated with the eternal cities (Nokron and Nokstella), suggesting Ainsel was either connected to or part of those civilizations. The Clayman enemies appear to be ancient constructs, golems designed to serve or guard, now operating without direction.
+A miniature Ranni doll is found here during Ranni's questline, and speaking to it repeatedly eventually prompts Ranni to speak through it, providing lore about Nokstella and the underground. Her willingness to guide the player through the underground, using a doll as a vessel, reinforces her connection to these subterranean realms and her opposition to the surface world's order.
 
-[Context: Accessible via lifts in Liurnia and through connections to other underground areas. A parallel underground river system to Siofra.]
+The Dragonkin Soldier boss found in Ainsel River represents the underground's own version of draconic power — not the golden lightning dragons of the surface or the ancient dragons of Farum Azula, but something corrupted or adapted to the underground. Dragonkin Soldiers appear throughout the underground areas, suggesting the Eternal Cities had their own relationship with draconic beings.
 
-## Deeproot Depths
-
-Deeproot Depths is a subterranean space dominated by enormous tree roots, specifically the roots of the Erdtree (or the Greattree that the Erdtree may have supplanted). The roots are pale, thick, and create a tangled labyrinth of wooden tunnels and platforms. The area is dimly lit and filled with basilisks (the curse-breathing frog-like creatures) and Erdtree avatars in their corrupted forms.
-
-Fia, the Deathbed Companion, comes here to perform her ultimate ritual: lying with the body of Godwyn the Golden (specifically his deathroot-corrupted corpse) to birth the Rune of the Death-Prince. Godwyn's body has become the source of deathroot, his corpse growing into and through the roots of the Erdtree like a cancer. His face, frozen in the death mask of the Prince of Death, can be found on root surfaces throughout the underground.
-
-The Lichdragon Fortissax boss is found here, a dragon that once tried to fight the death blight consuming Godwyn and was itself corrupted. Fortissax's arena, within the tangle of Godwyn's deathroot-infused roots, places the player at the source of the undeath corruption that plagues the Lands Between. Everything wrong with death in this world originates from this point: Godwyn's soul died on the Night of the Black Knives, but his body lived on, and that living corpse has been corrupting the Erdtree from within.
-
-[Context: Deep underground, accessible from Siofra River Aqueduct after defeating a Gargoyle duo. Connected to the root system beneath the Erdtree.]
+[Context: Ainsel River, the underground region parallel to Siofra, accessible from Liurnia or through Ranni's questline progression.]
 
 ## Nokron, Eternal City
 
-Nokron is an underground city that becomes accessible after Radahn's defeat, when a star falls and opens a crater in Limgrave's Mistwood. The city is built in an enormous cavern, its architecture featuring elegant columns, flowing water features, and a false sky that mirrors the real one above. The Mimic Tear boss guards the entrance, a being that copies the player's exact equipment and appearance.
+Nokron is revealed when a meteor strikes after Radahn's defeat, opening a crater in Limgrave that leads underground. The city is built into the cavern walls and floor, a massive urban complex of stone, silver, and starlight. The architecture is elegant and advanced, featuring arched bridges, multi-story buildings, and public spaces that suggest a prosperous civilization.
 
-The Nox people who built Nokron were an advanced civilization that the Greater Will punished for heresy, specifically for attempting to create a Lord of Night (the Nox Swordstress and Nox Monk armor descriptions reference this). Their eternal cities were driven underground as punishment. The Nox civilization's technology (the Silver Tear mimics, the Mimic Tear ashes, the elaborate stone constructions) suggests they were at least as advanced as the surface civilizations and possibly more so.
+The city is abandoned. No living citizens remain. Instead, it is populated by Silver Tears (amorphous, mercury-like creatures that can mimic the player's form), Nox Monks, and Nox Swordstresses. The Silver Tears are the most lore-significant: they are mimic creatures, capable of copying any form. The Mimic Tear spirit ash — one of the game's most powerful summons — originates here. The ability to perfectly replicate another being is the Nox's signature technology.
 
-The Fingerslayer Blade, a key item in Ranni's questline, is found in a chest in Nokron. This blade is described as a weapon that can slay the Two Fingers, making it literally a tool for killing the agents of the Greater Will. That the underground heretics possessed such a weapon reinforces that their punishment was not for general wickedness but specifically for opposing the Greater Will's authority.
+The Nox civilization was punished by the Greater Will for a sin described only as an attempt to create a "Lord of Night" — an alternative to the Elden Lord who would rule under stars rather than the Erdtree's golden light. Their city was cast underground as punishment, denied the sky. The Fingerslayer Blade, found in Nokron, is their ultimate weapon: a blade specifically designed to kill the Two Fingers, the Greater Will's emissaries. Its existence proves the Nox were not merely punished for ambition but for active rebellion.
 
-The Night's Sacred Ground area in Nokron contains the remains of Nox worship spaces, featuring moon and star imagery. The Nox faith appears to have been stellar/lunar in orientation, directly connecting to Ranni's Age of Stars ending. Ranni's revolution is not new; it continues an ancient rebellion that the Nox began and were destroyed for attempting.
+Nokron's architectural beauty, even in ruin, suggests the Nox civilization was equal to or greater than the surface world's. Their punishment was not because they were lesser but because they were a threat.
 
-[Context: Accessible via the crater in Limgrave's Mistwood after defeating Radahn. An underground city in a vast cavern above the Siofra River area.]
+[Context: Nokron, accessed through the crater in Limgrave created by the falling star after Radahn's defeat. Part of Ranni's questline.]
 
 ## Nokstella, Eternal City
 
-Nokstella is the second eternal city, accessible through the Ainsel River. It is larger and more elaborate than Nokron, with a distinctive architectural style featuring moon motifs and elaborate silver decorations. The city is populated by Silver Tears (shapeshifting liquid metal beings) and Nox warriors.
+Nokstella is the sister city to Nokron, reached through Ainsel River. Where Nokron has a martial, defensive character, Nokstella is more scholarly and religious. Enormous moon-themed architecture dominates the skyline (such as it is, underground), and the city features observatories and temples oriented toward the false stars above.
 
-The city features a massive throne room with a view of the false starry sky, suggesting this was the seat of Nox political power. The Moon of Nokstella talisman found here enhances memory (intelligence), connecting the city to the pursuit of cosmic knowledge. The Nox civilization's emphasis on stars and moons positions them as the original followers of the path Ranni now champions.
+The Moon of Nokstella talisman is found here, reinforcing the city's lunar focus. The Nox civilization worshipped the moon and stars as alternatives to the Erdtree and the Greater Will. This lunar worship connects directly to Ranni, who seeks to replace the Erdtree with the moon in her Age of Stars ending. Ranni's plan is, in effect, the fulfillment of what the Nox were punished for attempting.
 
-Nokstella contains extensive waterworks, aqueducts, and engineered systems that demonstrate sophisticated civic planning. The Silver Tears are unique to the eternal cities, apparently created as servants or soldiers. Their ability to mimic other forms (the Mimic Tear being the ultimate expression of this ability) represents a technology that surface civilizations never achieved.
+Nokstella's population of Silver Tears, Nox warriors, and puppet soldiers indicates a city that replaced its living citizens with constructs and mimics. Whether the living Nox died out or transformed into these entities is unclear. The result is a city that functions, after a fashion, but is devoid of genuine life — a civilization of copies and automata maintaining the forms of a society whose substance is gone.
 
-The overall impression of Nokstella is melancholy grandeur: a magnificent city, empty of its original inhabitants, populated only by their constructs and the remnants of their faith. The false sky above, with its unmoving stars, is a heaven the Nox built for themselves when they were denied the real one.
+The Ant Queens found in the passages between Nokstella and other underground areas are enormous, grotesque insect monarchs who serve as obstacle bosses. Their presence in the connective tunnels suggests they colonized the infrastructure after the Nox fell, nature reclaiming what civilization abandoned.
 
-[Context: Accessible through Ainsel River, a large underground city. The second of the two eternal cities.]
+[Context: Nokstella, accessed through Ainsel River, deeper underground than Nokron. Part of Ranni's questline progression.]
 
-## Lake of Rot
+## Deeproot Depths — Godwyn's Corpse Growing
 
-The Lake of Rot is an enormous underground lake of pure Scarlet Rot, accessible through the Ainsel River area as part of Ranni's questline. The lake is a vast expanse of toxic rot-water, with only narrow platforms and raised areas providing safe footing. Basilisks and rot-creatures inhabit the area, and the environment inflicts rapid rot buildup on the player.
+Deeproot Depths is the lowest point of the underground network that connects to the Erdtree's root system. Here, at the absolute bottom, where the Erdtree's roots reach their deepest, the player finds Godwyn the Golden's body.
 
-At the lake's far shore, the Grand Cloister area features the most concentrated rot outside of the Haligtree. The architecture here is partially Nox-derived (suggesting the lake was once part of the eternal cities' territory) and partially organic, with rot-growths integrated into the stone.
+Godwyn was the first demigod to die, assassinated on the Night of the Black Knives. But his death was only a half-death: his soul was killed while his body lived on. His soulless corpse was interred among the Erdtree's roots, and it has been growing. Godwyn's body has fused with the roots, expanding into a massive, fish-eyed, tumor-like growth that spreads through the root network. His face — enormous, pale, with dead eyes that stare at nothing — is visible in the root mass.
 
-The Naturalborn of the Void (Astel) is accessible from this area, connecting the Lake of Rot to the cosmic/void entities. The implication that the Scarlet Rot's underground presence is connected to void-born creatures suggests that the Outer God of Rot may itself be a void entity, and that the Lake of Rot represents a point where the void's influence bleeds into the underground world.
+This is the source of Deathroot, the corruption that spreads through the Erdtree's root system and creates Those Who Live in Death (undead that the Golden Order considers abominations). Godwyn's half-death infected the tree itself. Every instance of Deathroot the player finds throughout the game traces back to this: a dead prince's soulless body, growing like a cancer in the roots of a divine tree.
 
-[Context: Deep underground, accessible through Ainsel River Main. A massive lake of Scarlet Rot in an underground cavern.]
+Fia, the Deathbed Companion, comes here to lie with Godwyn's corpse, seeking to birth the Mending Rune of the Death-Prince. Her ritual in Deeproot Depths is an attempt to give Godwyn's death meaning — to transform his corruption into a new principle that could be incorporated into the Elden Ring. Fortissax, the ancient dragon who was Godwyn's friend, has been here too, fighting the death corruption from within but slowly losing.
 
-## The Naturalborn of the Void (Astel)
+The Erdtree's roots in Deeproot Depths are dark and diseased, nothing like the golden roots above. The contrast between the Erdtree's surface beauty and this rotting foundation is perhaps the game's starkest example of hidden corruption. The tree's literal roots are poisoned by the death it tried to deny.
 
-Astel, Naturalborn of the Void, is a cosmic horror boss found in a chamber beyond the Lake of Rot (and another copy, Astel Stars of Darkness, in the Consecrated Snowfield's cave). Astel is an enormous insectoid-celestial creature with a skull-like head, a segmented body that trails off into nothingness, and attacks that involve gravitational manipulation, teleportation, and summoning meteor showers.
+[Context: Deeproot Depths, accessed through a coffin in Siofra Aqueduct or through the hidden path from the Subterranean Shunning-Grounds. The deepest accessible point of the Erdtree's root system.]
 
-Astel is described as the being that destroyed the eternal cities, sent by the Greater Will (or another cosmic force) as punishment for the Nox civilization's heresy. Its alien appearance, massive scale, and void-based attacks position it as something entirely outside the Lands Between's normal cosmology. This is not a creature of the world; it came from outside, from the void between stars.
+## The Lake of Rot — The Sealed Outer God
 
-The Naturalborn's arena is a dark cave with a ceiling that resembles deep space, complete with distant stars. The setting reinforces that this creature brought the void with it; its mere presence warps the local reality toward cosmic emptiness. Defeating Astel in Ranni's questline opens the path to the Moonlight Altar and Ranni's ending, symbolically removing the punishment that the Greater Will inflicted on those who sought to follow the stars.
+The Lake of Rot is an enormous underground body of Scarlet Rot, a vast lake of infectious corruption that the player must cross. Standing in the rot inflicts rapid Scarlet Rot buildup. Platforms and raised paths offer partial respite, but much of the crossing requires wading through the rot itself.
 
-[Context: A boss chamber accessible from the Grand Cloister area beyond the Lake of Rot. Also found in the Yelough Anix Tunnel area.]
+This is not a natural lake but a sealed prison. The Grand Cloister at the lake's far end contains architecture suggesting organized worship, and the Scorpion's Stinger talisman and other items found here reference a sealed outer god of rot. The Lake of Rot is where the Scarlet Rot's outer god was imprisoned — sealed underground by some ancient power (possibly the Greater Will, possibly an older force) to prevent it from consuming the surface world.
 
-## General Underground Observations
+The seal is failing. The rot that afflicts Malenia and infects Caelid originates from this outer god, whose influence seeps upward through the underground. The pests (centipede-like creatures) that serve the Rot Goddess are most concentrated here, near their deity's prison. Malenia's existence as a vessel for the Rot and her eventual transformation into the Goddess of Rot represent the outer god's ongoing attempt to break free through a mortal host.
 
-The underground regions of the Lands Between collectively represent everything that the surface world (dominated by the Erdtree and the Golden Order) has either buried, punished, or forgotten. The Ancestral Followers' nature worship, the Nox civilization's stellar faith, the deathroot corruption of Godwyn's corpse, and the Scarlet Rot's underground reservoirs are all things that exist below because they were driven below or because they were never acknowledged by the powers above.
+The coffin at the far end of the Grand Cloister carries the player to Astel, Naturalborn of the Void, a cosmic entity found in a separate underground chamber. Astel's presence near the Lake of Rot connects two buried threats: the Rot's outer god below and the void's cosmic horrors in the spaces between underground chambers. The underground is not merely an alternative to the surface — it is a prison system, containing the things the surface world sealed away.
 
-The false skies in Siofra and Ainsel are the most poignant symbol: civilizations so thoroughly exiled that they had to build their own heavens. The stars in these underground skies do not move (Radahn held the real stars, but these were always still), creating a static eternity that mirrors the frozen collapse of Farum Azula. Underground time, like underground civilization, is suspended and forgotten.
+[Context: The Lake of Rot, accessed through Ainsel River, a vast underground lake of Scarlet Rot. Part of Ranni's questline.]
 
-The consistent presence of lifts (Siofra River Well, various Ainsel access points) that descend enormous distances reinforces the physical and metaphorical depth of what was buried. The Lands Between has an entire world beneath it, and the surface dwellers prefer not to think about it.
+## Connections and Themes
 
-[Context: Thematic observations applicable across all underground regions.]
+The underground regions share several unifying themes:
+
+**Rejection of the Erdtree:** None of the underground civilizations worshipped the Erdtree. The Ancestral Followers had their own nature spirits. The Nox had their moon and stars. The Lake of Rot's denizens served the Rot outer god. The underground is where everything the Golden Order excluded or defeated ended up.
+
+**Alternative cosmologies:** Each underground area has its own sky. Siofra and Ainsel have starlit ceilings. Deeproot Depths has the Erdtree's roots as a canopy. The Lake of Rot has its own oppressive atmosphere. These artificial heavens represent rejected futures — cosmologies that could have been, had the Erdtree not won.
+
+**Imprisonment:** The underground is not just an alternative space but a prison. The Nox were cast down as punishment. The Rot outer god was sealed here. Godwyn's corpse was buried here to hide it. The underground contains the Lands Between's secrets, mistakes, and sealed evils.
+
+**Vertical descent as truth:** Throughout the game, descending reveals truth. Leyndell's beauty gives way to its sewers. The Erdtree's golden trunk gives way to diseased roots. The surface world's order gives way to the underground's chaos. Down is where the answers are, and the answers are always worse than the questions.
+
+[Context: Thematic observations connecting all underground regions in the game.]

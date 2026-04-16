@@ -5,12 +5,15 @@ tags:
   - the-shattering
   - golden-order
   - crucible
+  - grafting
 related:
   - demigods/marika-radagon.md
   - demigods/godfrey.md
   - demigods/morgott.md
+  - demigods/malenia.md
   - lore-concepts/the-golden-order.md
   - lore-concepts/the-shattering.md
+  - lore-concepts/the-great-runes.md
   - locations/limgrave.md
 sources:
   - raw/item-descriptions/remembrances/all-remembrances.md

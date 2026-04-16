@@ -1,120 +1,90 @@
-# Shabriri (in Yura's Body) — Complete Dialogue
+# Shabriri — Complete Dialogue
 
-## Bloody Finger Hunter Yura — Prior to Shabriri's Takeover
+## Mountaintops of the Giants — In Yura's Body
 
-### First Meeting (Limgrave, Near Agheel Lake)
+> "Ah, a Tarnished. I am Shabriri. I speak with this body, borrowed though it is."
 
-> "Hold. You don't want to cross that bridge. Not yet. A dragon roosts beyond — Agheel, they call it."
+> "The man who owned it — Yura, I believe his name was — he has no further use for it. So I have taken it upon myself to... repurpose him."
 
-> "I am Yura. Hunter of Bloody Fingers. Those who invade the worlds of others, drunk on the blood of their hosts."
+[Context: Shabriri appears at the Zamor Ruins in the Mountaintops of the Giants, wearing the body of Bloody Finger Hunter Yura. Yura's questline ends with his death, and Shabriri inhabits his corpse. His eyes glow with the golden-yellow flame of madness.]
 
-> "The Bloody Fingers are servants of the Lord of Blood. They kill. They defile. They spread his influence."
+### On the Frenzied Flame
 
-> "I hunt them. It is my purpose."
+> "You seek to reach the Erdtree, yes? To mend the Elden Ring? But the thorns of the Erdtree bar your way."
 
-### On the Bloody Fingers
+> "There is another path. A path that requires no sacrifice. No burning of the Erdtree."
 
-> "The Bloody Fingers serve Mohg, the Lord of Blood. They invade the worlds of other Tarnished, seeking to spill blood in his name."
+> "The Three Fingers. Beneath the capital, in the deepest depths of the Subterranean Shunning-Grounds. They await you."
 
-> "Mohg offers them power in exchange for blood. A vile pact. And I will see every last one of them brought to justice."
+> "Accept their embrace, and the flame will be yours. The Frenzied Flame. It will burn the Erdtree, the thorns, everything. Without the need for kindling."
 
-### At the Academy Gate (Second Meeting)
+> "Your maiden need not die. Melina need not sacrifice herself. Is that not worth considering?"
 
-> "We meet again. I tracked a Bloody Finger here. Nerijus. A vicious one."
+[Context: Shabriri's pitch is cunningly framed. He presents the Frenzied Flame as a way to SAVE Melina, who would otherwise burn herself to kindle the Erdtree. This makes his offer tempting — a way to avoid tragedy. But the price is the destruction of the entire world.]
 
-> "Be wary. The Bloody Fingers grow bolder. Mohg's influence spreads."
+### On Suffering
 
-### At the Second Church of Marika (After Multiple Meetings)
+> "This world is built on suffering. You've seen it, haven't you? The wars. The curses. The rot. The madness."
 
-> "I grow weary, Tarnished. The hunt takes its toll."
+> "The Golden Order promised peace, but delivered oppression. The Erdtree promised grace, but delivered hierarchy."
 
-> "There are always more Bloody Fingers. Always more blood. I wonder, sometimes, if the hunt will ever end."
+> "The Frenzied Flame promises nothing. It simply... ends. All of it. The pain. The cruelty. The distinction between great and small, blessed and cursed."
 
-> "I was wounded. Badly. By Eleonora. Another Bloody Finger. A dangerous one."
-
-> "She wields the Violet Bloody Finger. A weapon of terrible power."
-
-[Context: Yura is progressively worn down through his quest. He fights Bloody Finger invaders and is eventually mortally wounded by Eleonora, Violet Bloody Finger.]
-
----
-
-## Shabriri — Taking Over Yura's Body
-
-### Mountaintops of the Giants (Zamor Ruins)
-
-> (The player finds Yura's body — but he is no longer Yura. His eyes glow with the yellow madness of the Frenzied Flame.)
-
-> "Yura is dead. His body is mine now."
-
-> "I am Shabriri. The most reviled man in the history of the Lands Between. They gouged out my eyes for the sin of slander. Or so they claim."
-
-> "In truth, they gouged out my eyes because I spoke the truth. The truth about the Three Fingers. The truth about the Frenzied Flame."
-
-> "And the truth is this: the Frenzied Flame is the only path."
-
-[Context: Shabriri has possessed Yura's corpse. Shabriri is a historical figure who was punished for spreading knowledge of the Frenzied Flame. His eyes were gouged out — and the Shabriri Grapes found throughout the game are literally his eyes, or eyes cursed in his image.]
-
-### Advocating for the Frenzied Flame
-
-> "Listen to me, Tarnished. The world is broken. The Elden Ring is shattered. The Golden Order is a lie."
-
-> "Every path before you leads to suffering. Become Elden Lord? You'll be a puppet of the Greater Will. Follow the stars? You'll trade one yoke for another."
-
-> "But the Frenzied Flame offers something none of the others can: an END. A true end. To suffering. To division. To everything."
-
-> "The Three Fingers wait beneath Leyndell. In the Cathedral of the Forsaken. Accept their embrace, and you will become the Lord of Frenzied Flame."
-
-> "Burn it all. The Erdtree. The Elden Ring. The gods. Burn it all, and return the world to the One Great."
-
-### On the One Great and the Greater Will
-
-> "Before the world was divided, there was only the One Great. A single being, undifferentiated. No life, no death. No joy, no suffering. Only unity."
-
-> "The Greater Will came and shattered the One Great. Created separation. Created ORDER. But order is just another word for suffering."
-
-> "The Frenzied Flame would undo the Greater Will's work. Return everything to the One Great. End the cycle."
-
-> "Is that not mercy? To end all suffering, forever?"
+> "When everything is reduced to one, there can be no more suffering. Because there is nothing LEFT to suffer."
 
 ### On Melina
 
-> "Your little maiden, Melina. She plans to sacrifice herself at the Forge of the Giants. To burn the Erdtree."
+> "Your maiden, Melina. She intends to burn herself alive to kindle the Erdtree. A noble sacrifice, she would say."
 
-> "But if you accept the Frenzied Flame, there is no need for her sacrifice. The Three Fingers' flame will burn the Erdtree in her stead."
+> "But why should she die? Why should anyone die for a world that was broken from the start?"
 
-> "Save your maiden. Accept the flame. It is the kinder path."
+> "Accept the Frenzied Flame. Spare her. Let the flame do what needs to be done."
 
-[Context: Shabriri uses Melina's impending sacrifice as a manipulation tactic. He frames the Frenzied Flame as a way to save Melina. And technically, he is correct — the Frenzied Flame path IS the only way to keep Melina alive (though she becomes an enemy).]
-
-### On His Own Fate
-
-> "They called me a slanderer. A madman. They gouged out my eyes and cast me into the depths."
-
-> "But I SAW. Even without eyes, I saw the truth. The Three Fingers showed me. The Frenzied Flame showed me."
-
-> "And now I see through Yura's eyes. Or rather, through the flame that burns where his eyes once were."
-
-> "The irony is not lost on me."
+[Context: This is Shabriri's most persuasive argument. Melina will indeed sacrifice herself at the Forge of the Giants if the player follows the standard path. The Frenzied Flame path avoids this — but at the cost of everything else. If the player accepts the Three Fingers BEFORE reaching the Forge, Melina will leave the player in disgust, swearing to deliver Destined Death upon them.]
 
 ---
 
-## Shabriri — If the Player Attacks
+## Shabriri's History
 
-> "You would strike me down? Ha! I have already died a thousand deaths."
+[Context: Shabriri is not merely an NPC — he is a figure from the deep history of the Lands Between. According to lore found on items and in descriptions:]
 
-> "But very well. This body is not truly mine, anyway."
+> "Shabriri, the most reviled man in all history."
 
-[Context: If attacked, Shabriri fights using Yura's combat style but infused with Frenzied Flame. Upon defeat, the body crumbles — Shabriri is a spirit possessing a corpse, and destroying the body does not truly destroy him.]
+[Context: The Shabriri's Woe talisman describes him as the most reviled man in history. He was blamed for the sealing of the nomadic merchants underground — the Great Caravan that was buried alive in the catacombs beneath the capital. Whether he was truly responsible or merely a scapegoat is debated.]
+
+> "His eyes were gouged out as punishment. But the Frenzied Flame found him even in darkness."
+
+[Context: Shabriri was blinded — his eyes removed — as punishment for his crimes or perceived crimes. The Frenzied Flame reached him in his blindness, and he became its prophet. The Shabriri Grapes found throughout the game are named after him — eyes afflicted with the flame of frenzy.]
+
+---
+
+## If the Player Has Already Accepted the Three Fingers
+
+> "Ahh... you already bear the flame. Good. Very good."
+
+> "Then you know. You understand. This world must end."
+
+> "I have nothing more to offer you. Go. Become the Lord of Chaos. Burn it all."
+
+---
+
+## If the Player Attacks Shabriri
+
+> "Ahahaha! You think killing this body will stop me? I am not this flesh. I am the flame. The frenzy."
+
+> "I will find another body. Another voice. The flame always finds a way."
+
+[Context: Killing Shabriri yields Yura's equipment. Shabriri himself, as an avatar of the Frenzied Flame, is implied to be unkillable — he will simply possess another vessel.]
 
 ---
 
 ## Notes on Shabriri's Lore Significance
 
-- Shabriri is the historical architect of the Frenzied Flame's spread in the Lands Between. He was punished by having his eyes gouged out — and the Shabriri Grapes are his curse made manifest. Every eye consumed to "see" the Frenzied Flame carries his name.
-- His possession of Yura's body demonstrates that the Frenzied Flame can corrupt even the dead. Yura, a noble hunter, becomes the vessel for the most reviled being in history.
-- The name "Shabriri" derives from Jewish demonology — a demon associated with blindness and cursed sight. This is fitting: the Frenzied Flame offers "vision" at the cost of sanity.
-- Shabriri's argument for the Frenzied Flame is surprisingly coherent: he points out that every other path perpetuates some form of suffering or control. Only the Frenzied Flame offers a true end.
-- His claim that accepting the Frenzied Flame would save Melina is technically true — and this makes his manipulation all the more insidious.
-- The Frenzied Flame's theology (the One Great, the Greater Will's division, etc.) is primarily communicated through Shabriri and Hyetta. Without these NPCs, the cosmology of the Frenzied Flame remains opaque.
-- Shabriri represents the game's recurring theme of truth-tellers being punished: he claims he was silenced for speaking the truth about the Three Fingers. Whether his "truth" is genuine insight or madness is deliberately left ambiguous.
-- His possession of Yura's body parallels other body-theft in the lore: Radagon inhabiting Marika, Ranni inhabiting a doll, Mohg attempting to make Miquella's body into a vessel for a blood god.
+- Shabriri is the prophet and primary advocate of the Frenzied Flame, one of the Outer Gods vying for control of the Lands Between.
+- His possession of Yura's body demonstrates the Frenzied Flame's ability to spread through corpses — a form of spiritual parasitism.
+- The Frenzied Flame's philosophy (end all suffering by ending all existence) is the most nihilistic of the game's ideologies, yet Shabriri presents it with genuine conviction.
+- His historical connection to the buried merchants suggests that the Frenzied Flame was born from — or attracted to — the suffering of the Great Caravan, sealed alive underground.
+- The merchants' song (heard from nomadic merchants who sit by campfires) is a lament for the buried caravan, and the Frenzied Flame's presence in the deepest depths of Leyndell connects directly to where the merchants were entombed.
+- Shabriri's offer to save Melina is the game's most effective temptation — a genuine moral dilemma framed by a nihilist.
+- His name derives from a demon of blindness in Talmudic tradition, connecting to his themes of gouged eyes and the Shabriri Grapes.
+- The cycle of blinding and seeing through flame parallels Hyetta's journey — both were blind, both found "sight" through the Frenzied Flame.

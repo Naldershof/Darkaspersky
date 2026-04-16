@@ -1,138 +1,119 @@
-# The Dung Eater — Complete Dialogue
+# Dung Eater — Complete Dialogue
 
-## Roundtable Hold — The Defiled Corpse
+## Roundtable Hold — The Phantom
 
-> (The Dung Eater's presence is first felt through a message left at the Roundtable Hold, and then through encounters with his phantom.)
+> "Have you seen it? The red phantom. In the corridor beyond the Twin Maiden Husks."
 
-### First Contact (Message / Phantom)
+[Context: Other NPCs at the Roundtable Hold mention a red phantom that appears in the back corridor. This is the Dung Eater's spectral form.]
 
-> "I am the Loathsome Dung Eater. Have you heard of me? Of course you have."
+### The Phantom Speaks
 
-> "I have been cursing. Defiling. Body after body. Soul after soul."
+> "I know you. Tarnished. I can see it in you. That light. That grace."
 
-> "Cursed them to become seedbed. To sprout the Omen's curse. So that all the world might share in the blessing of the reviled."
+> "I'm going to defile it. All of it. Everything you are."
 
-[Context: The Dung Eater is a serial defiler whose "curse" transforms people into Omen — beings born with horns and tails, reviled by the Golden Order. He is one of the most disturbing NPCs in the game.]
+> "I am the Loathsome Dung Eater. And I will curse this world. Every last soul in it."
 
----
+> "Find me. Find my body. In the sewers beneath the capital. The Subterranean Shunning-Grounds."
 
-## Roundtable Hold — His Room
+> "I'll be waiting. Bring Seedbed Curses. Feed me the curses. And I will show you... the true shape of this world."
 
-> "You've come. Looking for me, were you? The Loathsome Dung Eater."
-
-> "I defile the corpses of the dead. I curse their souls. So that they are reborn as Omen."
-
-> "The Golden Order despises the Omen. Shuns them. Locks them beneath the earth. Cuts off their horns. Treats them as filth."
-
-> "But the Omen are not filth. The curse is not a curse. It is a BLESSING. The only honest thing in this wretched world."
-
-> "Everyone deserves it. Every man, woman, and child. To sprout horns. To grow tails. To be reviled. To be TRUE."
-
-[Context: The Dung Eater believes the Omen curse should be spread to all people. He sees the Golden Order's rejection of the Omen as the true curse — and he seeks to make everyone an Omen, so that the distinction between blessed and cursed ceases to exist.]
-
-### On His Method
-
-> "I defile the dead. Their bodies become seedbed for the curse. And when they are reborn — through the Erdtree's cycle of rebirth — they are reborn as Omen."
-
-> "The Seedbed Curse. That is what they call it. Each cursed body becomes a seedbed, spreading the curse further."
-
-> "I have been doing this for... a very long time. Body after body. Soon, the curse will be everywhere."
-
-### His Demand
-
-> "Bring me Seedbed Curses. The more you bring, the stronger the blessing becomes."
-
-> "Find the bodies I have defiled. Take the curses from them. And bring them to me."
-
-> "With enough Seedbed Curses, I can create something magnificent. A rune to mend the Elden Ring. A rune of the Omen's blessing."
-
-[Context: The player must collect Seedbed Curses from defiled corpses found throughout the game world. These are used to fuel the Dung Eater's Mending Rune of the Fell Curse.]
+[Context: The Dung Eater's phantom appears at the Roundtable Hold after the player acquires a Seedbed Curse. He is threatening, vile, and utterly convinced of his purpose. His phantom form has glowing red eyes.]
 
 ---
 
-## Capital Outskirts — The Dung Eater's Gaol
+## Subterranean Shunning-Grounds — The Gaol
 
-### Invading the Gaol
+> "You came. Good."
 
-> "You found me. In the flesh this time. Not just the phantom."
+> "Look at me. Chained. Imprisoned. They locked me away because they fear what I am."
 
-> "I am imprisoned here. The Golden Order's justice. They caught me. Locked me away."
+> "The Omen. You know of them? Born with horns. With tails. Cursed from birth. Shunned. Mutilated. Their horns sawn off. Cast into the sewers to rot."
 
-> "But the curse cannot be stopped. Not by walls. Not by chains."
+> "I was not born an Omen. I CHOSE it. I chose to take the curse upon myself. To become what this world despises."
 
-### If the Player Frees Him
+> "And now I will share that blessing with everyone."
 
-> "Free? You'd set me free? Ha! You're either brave or mad."
+[Context: The Dung Eater is found imprisoned in a gaol in the Subterranean Shunning-Grounds beneath Leyndell. He is chained but lucid and defiant.]
 
-> "Very well. I will continue my work. Body after body. Soul after soul."
+### On Seedbed Curses
 
-> "The whole world will know the blessing of the Omen."
+> "Seedbed Curses. Do you have them? Give them to me."
 
-### If Given Seedbed Curses in the Gaol
+> "Each curse is a seed. A seed of defilement. I plant them in the bodies of the dead, and from those seeds, the Omen curse grows."
 
-> "Yes... yes! The Seedbed Curses. Give them to me!"
+> "The Golden Order despises the Omen. Treats them as abominations. But I will make EVERYONE an Omen. Every soul in the Lands Between."
 
-> "Each one is a soul I have touched. A life I have changed. A blessing I have bestowed."
+> "No more persecution. No more mutilation. When everyone is cursed, the curse becomes the norm."
 
-> "More. I need MORE."
+[Context: The player can feed Seedbed Curses to the Dung Eater. Each one empowers him further. Seedbed Curses are found on defiled corpses throughout the game — victims of the Dung Eater's previous rampages.]
 
-[Context: The Dung Eater can be found physically in the Subterranean Shunning-Grounds beneath Leyndell. The player can either fight him, free him, or feed him Seedbed Curses.]
+### After Receiving Multiple Curses
 
----
+> "Yes... yes! I can feel it. The curse growing. Spreading."
 
-## The Dung Eater — Given All Seedbed Curses
+> "More. Bring me more. I need more Seedbed Curses."
 
-> "It is done. The curses are complete."
+> "When I have enough... when the curse is complete... I will defile every soul in the Lands Between. Living and dead. Past and future."
 
-> "The Mending Rune of the Fell Curse. A rune to change the very nature of the Elden Ring."
-
-> "With this, every soul born into the Lands Between will carry the Omen's curse. Every child will sprout horns. Every life will be reviled."
-
-> "And when all are reviled... none are. The curse becomes the norm. The Omen become the standard. The Golden Order's precious hierarchy of grace... destroyed."
-
-> "Take it. Use it. Let the whole world be blessed."
-
-[Context: When given enough Seedbed Curses, the Dung Eater produces the Mending Rune of the Fell Curse. This can be used at the Elden Ring to create an ending where all life is cursed with the Omen blessing — a world where everyone is equally damned/blessed.]
+> "The blessing of despair. That is what I offer this world."
 
 ---
 
-## The Dung Eater — If Fed Seluvis's Potion
+## The Dung Eater — Released
 
-> "What... what is this? What have you done to me?"
+### If Freed from the Gaol
 
-> "I can't... move... My body... it's..."
+> "Free at last. Now the real work begins."
 
-> "No... NO! I am the Dung Eater! I will not be made into a puppet! I will not—"
+> "I will defile. I will curse. Every corpse, every spirit, every soul."
 
-> (He becomes a puppet. His will is extinguished.)
+> "You cannot stop me. No one can. The blessing of despair will cover this land."
 
-[Context: If the player gives Seluvis's puppet potion to the Dung Eater instead of to Nepheli, he is turned into a puppet spirit summon. This is one of the only ways to permanently stop his curse — by removing his will entirely. The Dung Eater puppet is one of the strongest spirit summons in the game.]
-
----
-
-## The Dung Eater — Combat Encounters
-
-### As an Invader (Various Locations)
-
-> "I'll defile you. Every inch of you."
-
-> "Your body will become seedbed. Your soul will sprout the curse."
-
-> "DIE! And be reborn as something TRUE!"
-
-### Upon Defeat (Invasion)
-
-> "Curse you... this changes nothing. The curse spreads. With or without me."
+[Context: If the player frees the Dung Eater from his cell, he becomes hostile and must be fought. He is a formidable opponent.]
 
 ---
 
-## Notes on The Dung Eater's Lore Significance
+## The Mending Rune of the Fell Curse
 
-- The Dung Eater's curse is the Seedbed Curse — it transforms people into Omen upon rebirth. The Omen are born with horns and tails, and the Golden Order considers them abominations.
-- Notable Omen include Morgott and Mohg — twin sons of Marika, born cursed. Morgott was imprisoned beneath Leyndell; Mohg was cast into the sewers. Despite being royalty, the Omen curse made them outcasts.
-- The Dung Eater's twisted logic: if everyone is Omen, the stigma disappears. It is a form of radical equality through universal cursing.
-- His Mending Rune of the Fell Curse creates arguably the most horrific ending — a world where every being carries the Omen's curse. Whether this is liberation or damnation depends on perspective.
-- The name "Dung Eater" itself is deliberately repulsive. He embodies the reviled — the lowest of the low — and seeks to make everyone share that status.
-- His imprisonment in the Subterranean Shunning-Grounds (the sewers beneath Leyndell) mirrors the Omen's fate: cast below, out of sight, reviled.
-- The option to turn him into a puppet via Seluvis's potion is darkly ironic: the one who would deny others their will is himself denied his.
-- His red phantom invasions mark him as a persistent threat throughout the game world, reinforcing his role as a serial predator.
+> "It is done. The curse is complete."
+
+> "Take it. The Mending Rune of the Fell Curse. Use it to mend the Elden Ring."
+
+> "When you do, every soul in the Lands Between will bear the Omen curse. Every child born will be born with horns. With tails. With the curse the Golden Order tried to eradicate."
+
+> "No more persecution. No more chosen. No more grace. Only the curse. For everyone. Forever."
+
+[Context: If the player feeds the Dung Eater enough Seedbed Curses (five), he produces the Mending Rune of the Fell Curse. This is one of the game's alternate endings — the Blessing of Despair ending, where the player mends the Elden Ring with the Omen curse baked into it, transforming all of humanity into Omens.]
+
+---
+
+## The Dung Eater — Seluvis's Potion Path
+
+### If Given Seluvis's Potion
+
+> "What... what is this? What are you—"
+
+> "No... my body... I can't... move..."
+
+> "You... you've turned me into... a puppet?"
+
+[Context: If the player gives Seluvis's Potion to the Dung Eater while he is in his cell, he is turned into a puppet. He becomes available as a spirit ash summon. Many players consider this the most fitting fate for him — his agency is stripped away just as he sought to strip away the identities of others.]
+
+---
+
+## On the Dung Eater's Crimes
+
+[Context: The Dung Eater's "defilement" of corpses is never fully described but is strongly implied to be a form of spiritual violation. He defiles the bodies of the dead in such a way that their souls are cursed — they and their descendants bear the Omen curse forever. The Seedbed Curses found on his victims are physical manifestations of this violation. His armor, the Omen Set, includes sawn-off horn stumps — he deliberately emulates the mutilated Omens of the sewers.]
+
+---
+
+## Notes on the Dung Eater's Lore Significance
+
+- The Dung Eater is one of the game's most disturbing NPCs. His quest involves feeding him curses harvested from his own victims, and his ending spreads universal suffering.
+- His motivation, however, has a twisted logic: the Omen are persecuted, so he will make everyone an Omen, eliminating the basis for persecution. It is equality through universal damnation.
+- The Omen are born of the Crucible — the primordial life force that predates the Erdtree. The Golden Order stigmatizes Crucible traits as impure, leading to the Omens' persecution. The Dung Eater's curse is, in a sense, a return to the Crucible.
+- His title "Loathsome" is one of the epithets given alongside "the ever-brilliant Goldmask, Sir Gideon Ofnir, the All-Knowing," etc. — he is recognized among the most notable Tarnished, despite being reviled by all.
+- The Blessing of Despair ending is the darkest of the game's endings (aside from the Frenzied Flame), as it curses all of humanity permanently.
+- His phantom appearing at the Roundtable Hold demonstrates that even sanctified spaces are not immune to his presence.
+- The choice to puppet him with Seluvis's Potion creates a dark symmetry: the defiler becomes the defiled.

@@ -4,66 +4,72 @@ category: endings
 tags:
   - rebellion-against-the-golden-order
   - outer-god-influence
+  - the-dark-moon
   - the-empyreans
 related:
   - npcs/ranni-questline.md
   - npcs/blaidd.md
-  - demigods/ranni.md
-  - lore-concepts/the-dark-moon.md
-  - lore-concepts/the-greater-will.md
+  - endings/age-of-fracture.md
   - endings/age-of-order.md
+  - endings/lord-of-frenzied-flame.md
+  - lore-concepts/the-greater-will.md
+  - lore-concepts/the-dark-moon.md
+  - locations/siofra-ainsel-river.md
+  - demigods/miquella.md
 sources:
   - raw/dialogue/ranni.md
   - raw/item-descriptions/key-items/mending-runes.md
+  - raw/item-descriptions/remembrances/all-remembrances.md
 last_updated: 2026-04-16
 ---
 
 # Age of Stars
 
-> Ranni's ending. The player becomes her consort. The moon replaces the Erdtree. The Lands Between are freed from the Greater Will's influence and enter a "thousand-year voyage" under the stars -- into fear, doubt, and loneliness, but also into freedom.
+> Ranni's ending. The player becomes her consort lord, and together they depart on a thousand-year voyage into the stars. The moon replaces the Erdtree. The Greater Will's influence is severed. The Lands Between are freed from divine micromanagement -- left to a chill night, and the certainty of distant, unknowable stars.
 
 ## Overview
 
-The Age of Stars is achieved by completing [Ranni's questline](../npcs/ranni-questline.md) in its entirety and summoning her at the end of the game. Rather than mending the Elden Ring with a rune, the player summons Ranni, who establishes a new order -- not of gold, but of the stars and moon. She takes the Ring and departs into the sky with her consort, removing the divine apparatus from the Lands Between entirely.
+The Age of Stars is unlocked by completing [Ranni's questline](../npcs/ranni-questline.md) -- the longest in the game -- and choosing her summon sign after defeating the Elden Beast. Rather than mending the Elden Ring, the player places the Dark Moon Ring on Ranni's finger, and she speaks the ending's defining words: "I would keep them far from the Lands Between. Mine will be an order not of gold, but the stars and moon of the chill night. I doubt you will find the path, but I bid you travel under my guidance, into fear, doubt, and loneliness... into the dark, unknown."
 
-This is the most radical departure from the Golden Order. Every other ending -- even the Frenzied Flame -- responds to the Ring as it exists. Ranni removes the Ring from the equation. The Lands Between must find their own way, without divine governance, under a distant and unknowable moon.
+The Erdtree's golden light is replaced by the pale glow of a moon rising over the Lands Between. Ranni and the player depart on a thousand-year journey. The lands are left to themselves.
 
 ## Lore Details
 
-**Ranni's monologue.** "Mine will be an order not of gold, but the stars and moon of the chill night. I would keep them far from this land. Here beginneth the chill night that encompasses all, reaching the great beyond. Into fear, doubt, and loneliness. As the path stretcheth into darkness." This is not a promise of paradise. It is a promise of freedom, with all its attendant uncertainties.
+**Ranni's order.** She does not destroy the concept of divine order; she replaces it. The Golden Order governed through proximity -- the Erdtree at the center, grace flowing outward, the Two Fingers interpreting the Greater Will's commands. Ranni's order governs through distance. The moon and stars are far away. Their influence is ambient, not directive. No Two Fingers. No Erdtree. No grace selecting who is worthy and who is not.
 
-**The chill night.** Ranni's order is defined by distance. She takes the Ring away from the Lands Between, placing it under the moon's governance -- far, cold, and unreachable. The Erdtree imposed itself on the world; the moon withdraws from it. The inhabitants of the Lands Between are left to govern themselves, without divine intervention.
+**The thousand-year voyage.** Ranni and the player leave the Lands Between. This is not abandonment -- it is the deliberate removal of divine presence. Ranni understands that gods who stay too close become tyrants. Her solution is to take the seat of cosmic power and carry it as far from mortal life as possible, so that people can live without divine interference.
 
-**The consort's role.** The player becomes Ranni's Lord Consort -- her eternal companion on the "dark path." Unlike the Elden Lord, who rules from a throne, the consort journeys. The role is relational rather than authoritative. The player rules nothing; they accompany.
+**The Dark Moon.** Ranni's power derives from the Dark Moon, a celestial entity associated with the Carian royal family and the sorcerers of [Raya Lucaria](../locations/liurnia.md). The Moon's nature is ambiguous. It may be an Outer God -- a cosmic patron analogous to the Greater Will but oriented toward cold, darkness, and mystery rather than golden order. If so, Ranni's ending does not free the Lands Between from Outer God influence; it exchanges one patron for another.
 
-**The Dark Moon Ring.** The engagement ring that seals the pact is described as "cold, dark blue, like the moon that guides the chill night." It is both a love token and a cosmic instrument. The marriage is personal and metaphysical simultaneously.
+**What the player becomes.** The Tarnished becomes Ranni's consort lord -- not Elden Lord, not a ruler of the Lands Between, but a companion on a journey into the unknown. This is the only ending where the player's role is defined by partnership rather than sovereignty. Every other ending seats the player on a throne. This one sends them into the dark.
 
 ## Connections & Analysis
 
-**The most radical departure from the Golden Order.** The Age of Fracture reinstates the Order. The Age of Order perfects it. The Age of Duskborn reforms it. The Blessing of Despair defiles it. The Frenzied Flame destroys it. Ranni's ending does something none of the others do: it replaces the Order with something genuinely new. The moon is not a corrected Erdtree -- it is a fundamentally different principle of governance, defined by distance rather than dominance.
+**The most radical departure.** Every other ending modifies the existing system. The [Age of Fracture](age-of-fracture.md) preserves it. The [Age of Order](age-of-order.md) perfects it. The [Age of Duskborn](age-of-duskborn.md) reforms it. The [Lord of Frenzied Flame](lord-of-frenzied-flame.md) destroys everything. The Age of Stars replaces the system entirely with something fundamentally different: an order based on distance, mystery, and the absence of visible divine authority. It is the only ending that changes the metaphysical architecture of the world rather than modifying its contents.
 
-**Freedom is not comfort.** Ranni explicitly describes her order as one of "fear, doubt, and loneliness." This is honest in a way no other ending is. [Goldmask](../npcs/goldmask.md) promises perfection. [Fia](../npcs/fia.md) promises natural balance. The Frenzied Flame promises unity. Ranni promises nothing except the absence of control. The Lands Between will be free, and freedom is terrifying. This honesty is what distinguishes the Age of Stars from utopian alternatives.
+**Ranni's honesty.** Her ending speech is unique in its transparency. She promises "fear, doubt, and loneliness" -- not salvation, not paradise, not justice. She offers freedom from divine control, but freedom in this context means uncertainty. No grace to guide. No Erdtree to shelter. No Fingers to interpret. The Lands Between will be free, but freedom without structure is terrifying. Ranni does not pretend otherwise.
 
-**But is the Dark Moon an Outer God?** Ranni claims her order will keep the Outer Gods far from the Lands Between. But the [Dark Moon](../lore-concepts/the-dark-moon.md) is itself a cosmic entity, and Ranni draws her power from it. If the Moon is an Outer God, then Ranni has not freed the world from divine influence -- she has exchanged the Greater Will's dominance for the Moon's. The key difference may be in the nature of the influence: the Greater Will governs through control (the Two Fingers, the Erdtree, the Golden Order), while the Moon governs through distance (the "chill night," the withdrawal, the journey into darkness). A distant god is still a god, but a god that leaves you alone may be the best anyone can hope for.
+**The Dark Moon problem.** This is the ending's central tension. Ranni claims her order will keep the Outer Gods far from the Lands Between. But the Dark Moon is itself a cosmic entity of unknown nature and agenda. If the Moon is an Outer God, Ranni's promise is self-contradicting -- she expels the Greater Will only to install the Moon in its place. The difference may be one of degree (the Moon governs from greater distance) or it may be illusory. The game does not resolve this, and the ambiguity appears intentional.
 
-**Ranni's rebellion has a cost.** [Blaidd](../npcs/blaidd.md) goes mad. Iji is assassinated. Seluvis is found dead. Radahn must fall to open Nokron. The player fights through the Lake of Rot and defeats Astel. Ranni's freedom is purchased with the suffering and death of everyone who helped her. The Age of Stars is not a peaceful ending -- it is a hard-won one, and its architect knows the price.
+**Contrast with Miquella.** Ranni and [Miquella](../demigods/miquella.md) are structural opposites among the Empyreans. Both rejected the Two Fingers. Both pursued paths outside the Golden Order. But Ranni sought to remove divine presence from the world, while Miquella sought to become a new divine presence within it. Ranni preserved her identity by transferring her soul to a doll; Miquella systematically destroyed his identity to achieve godhood. The Age of Stars sends the gods far away. Miquella's plan would install a new god up close. The DLC's [revelation about Miquella's ascension](../dlc/miquella-journey.md) makes Ranni's choice to leave look wiser -- and lonelier -- by comparison.
 
-**The "thousand-year voyage."** Ranni and her consort depart on a journey measured in millennia. This temporal scale dwarfs every other ending, which are all concerned with the immediate reconfiguration of the Lands Between. Ranni is not fixing the present -- she is launching the future. What the Lands Between become during that thousand years, without divine guidance, is entirely unknown.
+**The Nox legacy fulfilled.** [Ranni's questline runs through the underground Eternal Cities](../locations/siofra-ainsel-river.md), and the Fingerslayer Blade she needs was forged by the Nox. The Age of Stars is the completion of a rebellion the Nox began and were destroyed for: the overthrow of the Greater Will's authority and the installation of a stellar, lunar order in its place. The Nox built a false sky of stars underground. Ranni gives the surface the real thing.
 
-**Contrast with Miquella's ascension.** The DLC reveals that [Miquella](../demigods/miquella.md) also sought to become a god and replace the existing order. But Miquella's method required stripping away his empathy, his memories, his connections -- everything that made him himself. Ranni's method required sacrifice but not self-annihilation. She remains Ranni throughout. The contrast suggests that gods who retain their identity may be more trustworthy than those who shed it.
+**What is left behind.** The Lands Between without the Erdtree, without grace, without divine guidance -- what does that world look like? The game never shows us. This is the ending's most profound quality: it trusts the world to figure itself out. Every other ending imposes a vision. The Age of Stars imposes an absence, and absence is its own kind of freedom.
 
 ## Unresolved Mysteries
 
-!!! question "What happens to the Lands Between without the Ring?"
-    Ranni takes the Elden Ring into the sky. The Erdtree's power fades. What governs reality in its absence? Do the natural laws hold, or does chaos fill the vacuum?
+!!! question "Is the Dark Moon an Outer God?"
+    If the Moon is an Outer God, Ranni's ending trades one cosmic patron for another. If it is not -- if it is merely a celestial body or a symbol -- then Ranni's order is genuinely free of external divine influence. The answer determines whether the Age of Stars is liberation or substitution.
 
-!!! question "Is the player consort or captive?"
-    The "thousand-year voyage" is romantic in framing but ambiguous in practice. The player leaves the Lands Between forever. Is this a willing departure, or has Ranni chosen her consort as the Fingers once chose her shadow -- binding someone to her will?
+!!! question "What happens during the thousand-year voyage?"
+    Ranni and the player depart. For a thousand years. What occurs during that journey? Is it literal travel through cosmic space, or a metaphorical withdrawal of divine presence? And what happens when the thousand years end -- do they return?
 
-!!! question "Will Ranni's order last?"
-    Every previous order -- the dragons under Placidusax, the Nox civilization, the Golden Order -- eventually fell. The Age of Stars introduces yet another cosmic regime. A thousand years is a long time, but not forever.
+!!! question "Can the Lands Between survive without an order?"
+    The Golden Order, for all its cruelty, provided structure: grace, resurrection, the cycle of life funneled through the Erdtree. Without it, do people simply die? Do souls go nowhere? The Age of Stars frees the world from divine tyranny but may also free it from divine protection.
 
 ## Sources
 
 - [Ranni Dialogue](../raw/dialogue/ranni.md)
 - [Mending Runes](../raw/item-descriptions/key-items/mending-runes.md)
+- [All Remembrances](../raw/item-descriptions/remembrances/all-remembrances.md)

@@ -1,146 +1,115 @@
 # Tanith — Complete Dialogue
 
-## Volcano Manor — First Meeting
+## Volcano Manor — Introduction
 
-> "Welcome to Volcano Manor. I am Tanith. I preside here, in the name of our lord, Rykard."
+> "Welcome, Tarnished. I am Tanith. Mistress of the Volcano Manor."
 
-> "Volcano Manor is a home for the recusants. Those who have turned against the Erdtree. Against the Golden Order."
+> "We serve Lord Rykard, Praetor of the Volcano Manor. And we extend an invitation to you."
 
-> "We do not seek the Elden Ring. We seek to devour the gods themselves."
+> "Join us. Become a recusant. Hunt the Tarnished who seek the Erdtree. In return, you will have our protection. Our resources. Our purpose."
 
-> "If you would join our cause, I would welcome you."
+[Context: Tanith is the leader of the Volcano Manor, a faction of Tarnished who have allied with the demigod Rykard. She is elegant, composed, and persuasive. She invites the player to join as a recusant — a Tarnished who hunts other Tarnished.]
 
-[Context: Tanith is the leader of Volcano Manor, located on Mt. Gelmir. She serves as Rykard's consort and manages the Manor's operations — primarily, assassinating Tarnished who remain loyal to the Erdtree.]
+### On the Volcano Manor's Purpose
 
----
+> "The Erdtree. The Golden Order. The Greater Will. They have failed the Lands Between."
 
-## On Rykard and the Serpent
+> "The Tarnished who seek to become Elden Lord... they would simply perpetuate the same broken system. The same hierarchy. The same oppression."
 
-> "Lord Rykard was once a Praetor of the Lands Between. A demigod of the Golden Lineage."
+> "Lord Rykard offers an alternative. Devour the gods. Consume the very foundations of the old order. And from its ashes, build something new."
 
-> "But he saw the corruption at the heart of the Golden Order. And he chose a different path."
+> "That is the mission of the Volcano Manor. To tear down what must be torn down."
 
-> "He allowed himself to be devoured by the God-Devouring Serpent. A creature of ancient, terrible power."
-
-> "Now, Rykard and the serpent are one. They share a body, a will, a hunger."
-
-> "Together, they will devour the gods. One by one. Until the Golden Order is nothing but ash."
-
-### On Rykard's Vision
-
-> "Rykard dreams of a world without gods. Without the Greater Will. Without the Erdtree."
-
-> "A world where power is earned, not bestowed. Where strength is the only law."
-
-> "The serpent's hunger is insatiable. It devours champions, and with each one, it grows stronger."
-
-> "In time, it will be strong enough to devour even the Greater Will itself."
-
-### On the Blasphemous Act
-
-> "To allow oneself to be eaten by a serpent... many call it blasphemy. Madness."
-
-> "But Rykard understood. The serpent is a weapon. By becoming one with it, he gained its power."
-
-> "All who serve the serpent — all who are devoured — add their strength to the whole."
-
-> "It is not death. It is... communion. A joining. A family, bound in flesh."
+[Context: Tanith presents the Manor's ideology as revolutionary — an organized resistance against the Golden Order and the Erdtree. The reality is more complex.]
 
 ---
 
 ## Assassination Contracts
 
-### Explaining the Contracts
+### First Contract
 
-> "As recusants, we have a duty. To hunt the Tarnished who serve the Erdtree."
+> "Your first assignment. A letter of introduction, of sorts."
 
-> "They are our enemies. Agents of the Golden Order, whether they know it or not."
+> "The target is a Tarnished. One who seeks the Elden Ring. Eliminate them."
 
-> "I will provide you with letters. Each one bears the name and location of a target."
+> "Do not concern yourself with morality. They would do the same to you, given the chance. The Erdtree's grace breeds ambition, and ambition breeds violence."
 
-> "Hunt them down. End them. And return to me for your reward."
+### Subsequent Contracts
 
-### After the First Contract
+> "Another letter. Another target. You are proving yourself admirably."
 
-> "Well done. Another servant of the Erdtree, silenced."
+> "Each Tarnished you eliminate is one less threat to our cause. One less pawn of the Greater Will."
 
-> "Here is your reward. And your next assignment."
+### After Completing All Contracts
 
-### After Multiple Contracts
+> "You have served the Manor well. Every target eliminated. Every threat removed."
 
-> "You have proven yourself a capable recusant. Lord Rykard would be pleased."
+> "Lord Rykard will be pleased. And now... it is time for you to meet him."
 
-> "But the work is not yet done. There are always more servants of the Erdtree."
+> "He resides in the depths below the Manor. In the volcano's heart. Go to him."
 
----
-
-## Before the Rykard Fight
-
-> "You wish to see Lord Rykard? Truly?"
-
-> "He resides in the depths of the manor. Beyond the temple of the serpent."
-
-> "Be warned: Lord Rykard is... not as he once was. The serpent has changed him."
-
-> "But his vision remains. His purpose endures."
+[Context: After completing all assassination contracts, Tanith directs the player to confront Rykard. She presents this as a reward — but Rykard intends to devour the player, as he devours all who come before him.]
 
 ---
 
-## After Defeating Rykard
+## On Lord Rykard
 
-> "Lord Rykard... is fallen."
+> "Lord Rykard. A demigod. Son of Rennala and Radagon."
 
-> "You... you killed him. The serpent. My lord."
+> "He was consumed by the God-Devouring Serpent. Willingly. He fed himself to the beast, and in return, gained its power."
 
-> "Why? We offered you a home. A purpose. A family."
+> "Now he is... both. Man and serpent. Demigod and monster."
 
-> "...Leave. Leave Volcano Manor. And never return."
+> "His goal is singular: to devour the gods themselves. Every demigod. Every Outer God. Every being that claims dominion over the Lands Between."
 
-[Context: After the player defeats Rykard, Tanith is devastated. She dismisses the player from Volcano Manor.]
+> "He grows stronger with each being he consumes. Tarnished, champions, warriors — all become part of him."
 
----
+> "Together... we will devour the very gods."
 
-## Tanith — Devouring Rykard
+[Context: Rykard deliberately allowed himself to be consumed by the God-Devouring Serpent, merging with it. His plan is to grow endlessly by consuming champions, eventually becoming powerful enough to devour the gods themselves. Tanith genuinely believes in this vision.]
 
-> (If the player returns to the Rykard boss arena after his defeat, they find Tanith kneeling beside Rykard's remains... eating his flesh.)
+### On Her Relationship with Rykard
 
-> "Lord Rykard... I will not let you die."
+> "I love him. Is that so strange? To love a serpent? A monster?"
 
-> "If the serpent can be sustained through consumption... then I will consume."
+> "He was a man, once. Noble. Brilliant. He saw the corruption of the Golden Order before anyone else."
 
-> "Your flesh. Your power. Your vision."
-
-> "I will carry you within me. As you carried the serpent."
-
-> "We will never be apart."
-
-[Context: Tanith is found eating Rykard's corpse in an attempt to absorb his power and keep him alive within her — just as Rykard absorbed the God-Devouring Serpent. It is an act of love, devotion, and horror in equal measure. Her Crucible Knight bodyguard stands nearby and attacks the player if they interfere.]
-
-### If the Player Attacks Tanith
-
-> "You would deny me even this? Even the right to mourn?"
-
-> "So be it. I will devour you as well."
-
-[Context: Tanith fights back if attacked, though she is not a formidable combatant. Her Crucible Knight bodyguard is the real threat.]
+> "His method is... extreme. But his vision is clear. A world free from the tyranny of gods."
 
 ---
 
-## Tanith's Knight — The Crucible Knight
+## After Rykard's Defeat
 
-> (The Crucible Knight that guards Tanith does not speak but is fiercely protective. He attacks any who approach her during her vigil.)
+### Devouring Rykard's Remains
 
-[Context: The Crucible Knight's loyalty to Tanith mirrors the Manor's theme of devotion beyond death.]
+> "Lord Rykard... my lord..."
+
+> "He is not gone. He cannot be gone. The serpent's power endures in his flesh."
+
+> "If I consume him... take his remains into myself... perhaps I can preserve him. Carry him within me."
+
+> "I will not let him die. Not truly."
+
+[Context: After the player defeats Rykard, returning to the Manor's throne room reveals Tanith kneeling before Rykard's remains, eating his flesh. She is attempting to continue his legacy by consuming him — the same method by which Rykard grew powerful. A Crucible Knight stands guard over her.]
+
+### If Spoken To
+
+> "Leave me. This is... between us."
+
+> "He gave everything. For the cause. For the Manor. For me."
+
+> "I will not abandon him in death. If the serpent's way is to consume and grow... then I will consume. And he will live on. Within me."
+
+[Context: Tanith cannot be reasoned with. If the player kills her in this state, she drops her items. The Crucible Knight attacks the player in retaliation.]
 
 ---
 
 ## Notes on Tanith's Lore Significance
 
-- Tanith is a dancer — her attire and movements suggest a performer's background. How she came to serve Rykard is not fully explained, but her devotion is absolute.
-- Volcano Manor represents one of the game's factions: the recusants, who oppose the Erdtree. Unlike the Frenzied Flame faction (which seeks to destroy everything), the recusants seek to replace the Golden Order with rule by strength.
-- Rykard's strategy — devouring champions to grow stronger — is a perversion of the warrior jar concept. Where jars honor the fallen by carrying them, the serpent simply consumes.
-- Tanith eating Rykard's flesh is one of the game's most disturbing scenes. It mirrors the serpent's nature: consumption as communion, devouring as love.
-- The God-Devouring Serpent is an ancient being that predates the Erdtree. It may be connected to an Outer God of devouring/consumption.
-- Tanith's Crucible Knight bodyguard connects to the ancient Crucible — the primordial form of the Erdtree, before it became the golden tree of the current age.
-- The assassination contracts Tanith provides target real NPCs in other players' worlds (invasion quests). This is the game's primary PvP quest mechanic.
-- Rya/Zoraya, Tanith's "daughter," represents the next generation of Volcano Manor — and the possibility of rejecting the serpent's path.
+- Tanith represents the true believer — someone so devoted to an ideology (and a person) that she will go to any extreme, including cannibalism, to preserve it.
+- The Volcano Manor's ideology is genuinely revolutionary: they oppose the Golden Order, reject the Erdtree's hierarchy, and seek to destroy the gods. But their method (endless consumption) is its own form of horror.
+- Tanith's love for Rykard humanizes what is otherwise a monstrous arrangement. She saw the man before the serpent and remains loyal to both.
+- The devouring of Rykard's remains is one of the game's most disturbing scenes — and one of its most poignant. Tanith's grief is real, even as her method of expressing it is grotesque.
+- Her role as quest-giver for the assassination contracts makes her complicit in the Manor's violence, but she frames it as a necessary evil in service of a greater cause.
+- The Crucible Knight guarding her as she eats suggests deep loyalty from the Manor's retainers — or perhaps the knight is simply following standing orders.
+- Tanith's fate mirrors Rykard's philosophy taken to its logical conclusion: if you believe that consuming the powerful makes you stronger, then consuming the one you love to preserve them is an act of faith.

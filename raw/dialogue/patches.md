@@ -2,145 +2,134 @@
 
 ## Murkwater Cave — First Encounter
 
-> (Patches is found as a boss encounter in Murkwater Cave. He attacks the player upon opening his treasure chest.)
+> "Wait! WAIT! I yield! I yield, I say!"
 
-### During the Fight (At Low HP)
+> "It was just a bit of fun! A harmless prank! You weren't supposed to fight BACK!"
 
-> "Wait! Wait wait wait! I yield! I YIELD!"
+> "I'm Patches. A humble merchant. Please, have mercy! I was only testing your mettle!"
 
-> "I'm sorry! It was a misunderstanding! I thought you were a bandit! Or a thief! You can understand, can't you?"
-
-> "Please, spare me. I'll make it worth your while. I'm a merchant, you see. A purveyor of fine goods!"
-
-[Context: Patches surrenders when reduced to low HP. The player can choose to spare him or kill him. Sparing him turns him into a merchant at the cave.]
+[Context: Patches is encountered as a boss in Murkwater Cave. He ambushes the player after they open a chest, but when reduced to low health, he surrenders and begs for mercy. If the player spares him, he becomes a merchant. If killed, he drops his items and does not return.]
 
 ### After Being Spared
 
-> "Oh, thank you! Thank you! You won't regret this!"
+> "Ahh, you're a sporting one, aren't you? I knew I liked you."
 
-> "The name's Patches. I'm a traveling merchant. Deals and steals — that's my motto. Well, mostly deals."
+> "Now then, as thanks for not killing me, I'll set up shop right here. Patches' Emporium! Best deals in the Lands Between!"
 
-> "Have a look at my wares. Top quality, every one. Definitely not stolen."
+> "...Just don't look in that chest behind me. It's, uh, private."
 
-> "And if you ever need advice... well, I'm full of it. In every sense of the word."
+[Context: The chest behind Patches is a trap chest that teleports the player to a dangerous area in Caelid. This is classic Patches behavior — acting friendly while setting traps.]
 
----
+### If the Player Opens the Trap Chest
 
-## Murkwater Cave — The Chest Trap
+> "Bahahaha! Off you go! Have a nice trip!"
 
-> "Say, have you seen that chest over there? Go ahead, open it. I insist."
-
-> "There's something truly special inside. A treasure beyond compare."
-
-[Context: If the player opens the chest Patches indicates, it is a transporter trap that teleports them to a dangerous area. This is Patches being Patches — the classic trickster.]
+[Context: Patches laughs as the player is transported. This is a series tradition dating back to Demon's Souls.]
 
 ---
 
-## Scenic Isle — Liurnia
+## Scenic Isle — The Cliff
 
-> "Fancy meeting you here! Small world, isn't it?"
+> "Oh! Tarnished! Good to see you! Come, come, look at this. A truly magnificent view."
 
-> "I'm expanding my business. Setting up shop in scenic locations."
+> "Just come to the edge here. You can see the whole of Liurnia from this spot."
 
-> "Watch your step around the cliffs, by the way. Terribly slippery. Wouldn't want anyone to... fall."
+[Context: Patches appears at Scenic Isle in Liurnia and encourages the player to approach a cliff edge. If the player does, Patches kicks them off. This is another Patches tradition — he kicked players off a cliff in Dark Souls and Demon's Souls as well.]
 
-[Context: Patches can be found at the Scenic Isle in Liurnia. He may kick the player off a cliff if they approach certain edges. This is a callback to his behavior in previous FromSoft games.]
+### After Kicking the Player
 
----
-
-## Mt. Gelmir — Volcano Manor
-
-> "Oh, you're here too? At Volcano Manor? What a coincidence."
-
-> "Lady Tanith runs a tight ship here. Recusants, they call us. Enemies of the Erdtree."
-
-> "I'm not really one for ideology, mind you. But the pay is good. And the company is... interesting."
-
-### On the Assassination Contracts
-
-> "Tanith's got contracts. Assassinations. Other Tarnished who need to be... dealt with."
-
-> "I took one myself. Great Horned Tragoth. Big fellow. Tough as nails."
-
-> "Actually... would you mind handling that one for me? I'm more of a delegator."
-
-### Patches' Own Contract
-
-> "Look, between you and me, I'm not much of a fighter. I know, shocking."
-
-> "But I am an excellent judge of talent. And you, my friend, have talent in spades."
-
-> "Handle the contracts, I'll handle the profits. Fair deal, right?"
+> "Nothing personal! Just can't help myself!"
 
 ---
 
-## Shaded Castle — The Ambush
+## Volcano Manor — Recusant Patches
 
-> "Ah, you found me again! I was just... scouting the area."
+> "Ah, Tarnished! Fancy meeting you here. I've, uh, joined up with the Volcano Manor. Recusant Patches, at your service."
 
-> "Say, there's a lovely item just up ahead. Through that fog gate. Go on, take a look."
+> "The Manor has its perks. Good pay. Interesting work. And Lady Tanith is... persuasive."
 
-> "What? Me? Go first? Don't be ridiculous. I'm providing tactical support. From a safe distance."
+> "I've got a job for you, actually. A letter. One of those assassination contracts the Manor hands out."
 
-[Context: Patches leads the player toward dangerous encounters, always staying safely behind.]
+[Context: Patches appears at Volcano Manor as one of the recusants (Tarnished who hunt other Tarnished on behalf of the Manor). He gives the player one of the assassination contracts.]
 
----
+### On His Contract
 
-## Crumbling Farum Azula — The Coward's End
+> "The target? Oh, just some Tarnished. A Great Horned Tragoth, I believe."
 
-> "This place... it's falling apart. Literally. Crumbling."
+> "Don't feel too bad about it. It's kill or be killed out here. Might as well get paid for it."
 
-> "I've had it with this adventure business. I should have stayed in my cave."
+### After the Player Completes the Contract
 
-> "Listen, I'm going to level with you. I'm scared. There, I said it."
+> "You did it? Wonderful! Here's your reward."
 
-> "But if there's treasure here... well, fear is temporary. Treasure is forever."
-
-### Near the End of Farum Azula
-
-> "I'm done. I can't go any further."
-
-> "Take this. My last treasure. A gift from Patches."
-
-> "Don't give me that look. I know when I'm outclassed."
-
-> "You go on ahead. I'll... guard the rear."
-
-[Context: Patches gives up near the end of Crumbling Farum Azula. Despite his cowardice, his survival instinct has carried him farther than most.]
+> "You know, you're quite the killer. I say that as a compliment."
 
 ---
 
-## Patches — Summon Sign (Various Bosses)
+## Shaded Castle — Patches' Betrayal
 
-### Radahn Festival
+> "Tarnished! There you are! Listen, I've found something incredible. A treasure beyond measure."
 
-> (Patches has a summon sign during the Radahn fight. If summoned, he appears, sees Radahn, and immediately uses a Finger Severer to leave the fight.)
+> "Just through there. Past the castle. You can't miss it."
 
-> "Nope. NOPE. Not doing this."
+> "...What? Would I lie to you? Perish the thought!"
 
-[Context: One of the game's funniest moments. Patches is summonable for Radahn but immediately retreats upon seeing the demigod. He is the only NPC summon who abandons the fight.]
+[Context: Patches sends the player toward a dangerous encounter. If approached from certain angles, this leads to an ambush. Patches is never where he says he'll be when trouble arrives.]
 
 ---
 
-## Patches — If Killed
+## Murkwater Cave — Late Game Return
 
-> "You... you'd kill me? After all we've been through?"
+> "Back again? I suppose you know me well enough by now."
 
-> "Curse you... I was just about to turn over a new leaf..."
+> "Look, I won't pretend I haven't tricked you. A few times. But that's just who I am. Patches. Trickster. Survivor."
 
-> "Who am I kidding... I wouldn't have..."
+> "In this world, you've got two choices: trick or be tricked. I know which I prefer."
 
-[Context: If the player kills Patches at any point, he drops Patches' Bell Bearing and his leather armor set. He does not return.]
+> "But I will say this — you're the first person who didn't kill me for it. And that... that means something."
+
+### On the State of the World
+
+> "The Lands Between are falling apart. Demigods killing each other. Tarnished scrambling for power. The Erdtree on fire."
+
+> "Me? I'm just trying to survive. Same as always."
+
+> "I've survived the Shattering, the wars, the rot, the madness. You know why? Because I don't fight fair. And I don't fight at all if I can help it."
+
+---
+
+## Patches — On Other NPCs
+
+### On Tanith
+
+> "Lady Tanith? Terrifying woman. Beautiful, mind you. But terrifying."
+
+> "She's got Rykard wrapped around her finger. Or... he's got her wrapped around his. Hard to tell with those two."
+
+### On Other Tarnished
+
+> "The other Tarnished? Don't trust any of them. Not a single one."
+
+> "That goes for me too, by the way. Don't trust me either. But at least I'm honest about it."
+
+---
+
+## Patches at the Erdtree (Endgame)
+
+[Context: Near the end of the game, Patches can be encountered one final time. If the player approaches him, he acts as a summon for certain late-game encounters but immediately runs away when the fight begins — classic Patches cowardice.]
+
+> "Right then, I'm off! You've got this! I believe in you!"
+
+[Context: Patches' summon sign appears but he flees almost immediately after being summoned. His idea of "helping" is showing up and then leaving.]
 
 ---
 
 ## Notes on Patches' Lore Significance
 
-- Patches is a recurring character across ALL FromSoft Soulsborne games (Demon's Souls, Dark Souls 1-3, Bloodborne, and Elden Ring). He is always a trickster merchant who betrays the player but can be spared.
-- In Elden Ring, his role is primarily comedic relief, but he also serves as a commentary on survival: in a world of warriors and demigods, Patches survives through cowardice, cunning, and self-preservation.
-- His chest trap in Murkwater Cave is a franchise tradition — he always leads the player into danger for his own amusement or profit.
-- His immediate departure from the Radahn fight is both hilarious and telling: Patches knows his limits. He is perhaps the most self-aware character in the game.
-- His connection to Volcano Manor ties him to the recusant faction — those who oppose the Erdtree. But Patches has no ideology; he goes where the profit is.
-- In the DLC (Shadow of the Erdtree), Patches appears again, continuing his tradition of cowardice and treachery.
-- Patches' leather armor and spear are his consistent equipment across games. He is always a rogue-type character, never a warrior.
-- His surname "the Untethered" in some From games reflects his nature: he is bound to no faction, no cause, no loyalty. He is the eternal survivor.
+- Patches is a recurring character across all FromSoftware Souls games — from Demon's Souls to Elden Ring. He is always a trickster, always a coward, and always survives.
+- In Elden Ring, his tricks include: a trap chest to Caelid, kicking the player off a cliff, sending them into ambushes, and fleeing from boss fights.
+- Despite his treachery, Patches has a strange code: he always surrenders when beaten, always comes back, and never attempts anything truly lethal (from his perspective — the trap chest and cliff kick could kill, but he seems to consider them pranks).
+- His survival across multiple games and multiple apocalypses makes him arguably the most persistent character in FromSoftware's catalogue.
+- His Volcano Manor involvement shows his opportunism — he goes wherever the profit is.
+- His presence is always a mix of comic relief and genuine threat, depending on the player's awareness.
+- The tradition of Patches kicking players off cliffs is so established that many veteran players see it coming — and walk to the cliff edge anyway, out of tradition.

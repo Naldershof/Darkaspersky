@@ -6,6 +6,8 @@ tags:
   - rebellion
   - destined-death
   - the-shattering
+  - outer-god-influence
+  - age-of-stars
 related:
   - demigods/marika-radagon.md
   - demigods/radahn.md
@@ -13,10 +15,13 @@ related:
   - demigods/rennala.md
   - demigods/melina.md
   - lore-concepts/destined-death.md
+  - lore-concepts/the-greater-will.md
   - lore-concepts/the-dark-moon.md
+  - lore-concepts/the-fingers.md
   - lore-concepts/the-golden-order.md
   - npcs/blaidd.md
   - npcs/ranni-questline.md
+  - locations/liurnia.md
   - endings/age-of-stars.md
 sources:
   - raw/dialogue/ranni.md

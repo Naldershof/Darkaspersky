@@ -3,7 +3,8 @@ title: "Rennala, Queen of the Full Moon"
 category: demigods
 tags:
   - golden-order
-  - empyrean
+  - academy
+  - outer-god-influence
 related:
   - demigods/marika-radagon.md
   - demigods/ranni.md
@@ -11,6 +12,8 @@ related:
   - demigods/rykard.md
   - lore-concepts/the-dark-moon.md
   - lore-concepts/the-golden-order.md
+  - lore-concepts/the-great-runes.md
+  - lore-concepts/the-greater-will.md
   - locations/liurnia.md
 sources:
   - raw/item-descriptions/remembrances/all-remembrances.md

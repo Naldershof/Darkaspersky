@@ -1,30 +1,35 @@
-# Ending: Age of Stars
+# Ending Cinematic — Age of Stars (Ranni's Ending)
 
-## Ranni's Ending
+## The Mending
 
-> "Mine will be an order not of gold, but the stars and moon of the chill night. I would keep them far from the earth beneath our feet. As it is now, life, and souls, and order are bound tightly together, but I would have them at a great remove. And have the certainties of sight, emotion, faith, and touch... All become impossibilities. Which is why I
+[Visual: The Tarnished stands before the shattered Elden Ring, but the scene is different. Ranni manifests — her four-armed doll body, her witch's hat, her spectral blue presence. She reaches for the Ring.]
 
+[Visual: The Elden Ring does not reform in its golden state. Instead, it transforms. The golden runes become silver-blue, infused with moonlight. The Ring's structure changes from solar to lunar, from golden warmth to cool, distant starlight.]
 
- would abandon this place. I would have all of it... drift into fear, doubt, and loneliness. As a dark moon, cold and unfeeling, I would be. But this I swear: I will not abandon thee."
+[Visual: Ranni rises. The Erdtree's golden light fades, replaced by the cold light of the moon. The great golden tree dims, its dominance ending not in fire but in twilight. The moon rises where the Erdtree's crown once blazed.]
 
-Ranni speaks these words to the Tarnished after the completion of her questline, before the final ritual. The ending cinematic shows the Tarnished and Ranni together, Ranni in her doll form (now four-armed, empowered by the Dark Moon), as she places the Dark Moon over the Lands Between. The Erdtree's golden light fades, replaced by cold moonlight.
+[Visual: Ranni speaks, her voice calm and resolute:]
 
-## Visual Description
+> "Upon the order I envision."
 
-The throne room is transformed. Instead of golden light, a blue-silver moonlight fills the space. The Erdtree's glow dims to near-darkness. Ranni stands beside the Tarnished (who becomes her consort/Lord), her four arms outstretched, the Dark Moon rising behind them. The sky shifts from the perpetual golden haze of the Erdtree to a vast, star-filled night.
+> "Mine will be an order not of gold, but the stars and moon of the chill night. I would keep them far from this land."
 
-The final image is of the Dark Moon ascending over the Lands Between, the stars visible and moving freely (Radahn's death having already released them). The world is illuminated by starlight and moonlight rather than the Erdtree's gold. It is beautiful, cold, and vast.
+> "Mine will be an order of the chill night. A thousand year voyage under the wisdom of the Moon. Here, I bid thee farewell."
 
-## Lore Implications
+> "I set my course. To the night sky."
 
-The Age of Stars is Ranni's revolution realized. She has been working toward this since before the game began: orchestrating the Night of the Black Knives (to sever herself from the Erdtree by killing her Empyrean body), discarding her flesh, seeking the Fingerslayer Blade (to kill the Two Fingers), and traveling to the depths to overcome the void creatures that the Greater Will used to punish previous attempts at stellar rebellion (the Nox civilization).
+[Visual: Ranni and the Tarnished (now her consort and Elden Lord) rise from the Lands Between. The camera pulls back to show the moon ascending, replacing the Erdtree's golden glow. The Lands Between is bathed in silver moonlight. Stars emerge, visible for the first time since Radahn held them at bay.]
 
-Ranni's speech is one of the most debated texts in the game. Her stated goal is to remove the influence of gods and cosmic powers from the daily lives of mortals. She would place her order "at a great remove," making the divine inaccessible. This means no more direct divine intervention: no grace, no Two Fingers guidance, no Outer God influence. Mortals would live without certainty of faith, without the comfort of knowing a cosmic order governs their lives.
+[Visual: The final shot shows the Lands Between from above, under a vast night sky. The moon hangs where the Erdtree's golden crown once was. The world is quiet, cold, and free.]
 
-This is both liberating and terrifying. Liberation: no more persecution by divine mandate, no more Omen cast into sewers because a god says they are cursed, no more Albinaurics denied grace because an Erdtree excludes them. Terror: no more divine protection either, no safety net of rebirth, no assurance that death leads anywhere. Ranni would give the world freedom by giving it uncertainty.
+## Interpretation
 
-Her promise ("I will not abandon thee") is personal, directed at the Tarnished who has been her companion through the quest. She will be a cold, distant moon, but she will still be there. The relationship between the Tarnished and Ranni is the emotional core of this ending: a cosmic revolution grounded in a personal bond.
+Ranni's ending is the game's most radical departure from the existing order. Rather than mending the Elden Ring within the Golden Order's framework (as the other endings do), Ranni replaces the entire system. The Erdtree's golden order — the Greater Will's influence, the Two Fingers' guidance, Grace, the cycle of death and rebirth — is removed and replaced by an order of stars and moon.
 
-The Nox civilization attempted something similar and was destroyed by the Greater Will (via Astel). Ranni succeeds where they failed because she has done what they could not: killed her own divine body, obtained the tools to slay the Greater Will's agents, defeated the void-creature punishing such rebellion, and secured a consort powerful enough to become Lord. Her revolution required the entire game's worth of effort.
+Her declaration that she would keep the moon and stars "far from this land" is often interpreted as removing the gods' direct influence from mortal affairs. Where the Golden Order placed the divine at the center of every life (through Grace, the Erdtree, the Two Fingers), Ranni's order places the divine at a remove — present as the moon is present (visible, influential on tides and cycles) but not intimate, not controlling.
 
-The Dark Moon itself is an entity (perhaps an Outer God, perhaps something else) that Ranni serves or allies with. Her ending replaces the Greater Will's golden order with the Dark Moon's stellar order. Whether this is genuinely better or merely a different cosmic master is one of the community's central debates.
+This is the Nox civilization's dream fulfilled. The Eternal Cities were punished for seeking a "Lord of Night" to replace the Elden Lord, and Ranni — who uses the Fingerslayer Blade from Nokron, who journeys through Nokstella, who allies with the Nox's legacy — completes what they started. Her ending is a vindication of the underground: the alternative order that was buried is finally raised to the sky.
+
+The "thousand year voyage" suggests this is not a static new order but a journey — an evolving, exploratory age rather than a fixed dogma. Ranni and her consort will chart a course through the unknown, which is itself a radical departure from the Golden Order's insistence on eternal, unchanging truth.
+
+[Visual: The moon over the Lands Between, full and silver. Stars visible. The golden age is over. Something colder, freer, and stranger has begun.]

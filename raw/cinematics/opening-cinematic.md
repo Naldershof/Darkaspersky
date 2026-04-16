@@ -1,53 +1,97 @@
-# Opening Cinematic — The Shattering and the Return of the Tarnished
+# Opening Cinematic — "The Elden Ring... Shattered"
 
 ## Full Narration
 
-> "The Elden Ring. The source of the Erdtree. Long ago, the Greater Will sent a golden star bearing a beast to the Lands Between, which would later become the Elden Ring. And Queen Marika was its sole vessel."
+> "The Elden Ring. The source of the Erdtree."
 
-The cinematic opens with a golden, illuminated view of the Erdtree dominating a vast landscape. Golden light radiates from its canopy. The camera slowly pulls back to reveal the Lands Between spread beneath it. The narration is delivered in an aged, weary voice (later identifiable as the narrator who provides various exposition throughout the game).
+[Visual: The Erdtree dominates the landscape, golden and luminous, towering over the Lands Between. The camera slowly descends toward its base, where Leyndell gleams.]
 
-> "Ah, but Queen Marika the Eternal was nowhere to be found, and in the Night of the Black Knives, Godwyn the Golden was the first to perish."
+> "It was shattered."
 
-The visuals shift to a dark, rain-soaked scene. A hooded assassin (one of the Black Knife Assassins) plunges a blade into a golden-armored figure (Godwyn). Godwyn's face contorts in agony. The blade pulses with a reddish-black energy (the Rune of Death). This is the inciting event of the entire game: the first death of a demigod, an event that should have been impossible because Marika had removed the concept of Destined Death from the Elden Ring.
+[Visual: A close-up of the Elden Ring — an intricate, luminous construct of golden runes — fracturing violently. Pieces fly outward in all directions. The image is both beautiful and catastrophic.]
 
-> "Soon, Marika's offspring, demigods all, claimed the shards of the Elden Ring."
+> "And the demigods, each of whom claimed a shard of the shattered Elden Ring, are warring. The Shattering."
 
-A rapid montage shows the demigods:
+[Visual: Silhouettes of armored figures turning on one another. War erupts across the Lands Between. Armies clash. The golden light of the Erdtree dims.]
 
-**Godrick the Grafted** is shown in a hall, multiple grafted arms writhing from his body. He roars with rage and grasps at the air, a small, desperate figure surrounded by stolen limbs. His Great Rune glows in his hands.
+## The Demigods Shown
 
-**Rennala, Queen of the Full Moon** sits in a dim library, cradling her amber egg, her face lit by its glow. She is serene but vacant, already retreated into her grief. She does not hold a Great Rune in the conventional sense; her power is the egg Radagon gave her.
+> "The first demigods were all the offspring of Queen Marika the Eternal."
 
-**General Radahn** is shown in his prime, armored and massive, astride his tiny horse Leonard, commanding an army. The red of Caelid is not yet present; this is before his battle with Malenia. He holds his Great Rune aloft, a warrior at the peak of his power.
+[Visual: Marika shown briefly, radiant and distant, a figure of immense power.]
 
-**Praetor Rykard** is shown partially consumed by the serpent, his face emerging from its body. Lava flows around him. He grins, or the serpent grins through him. The Great Rune of Blasphemy glows within the serpent's coils.
+### Godrick the Grafted
 
-**Malenia, Blade of Miquella** is shown in full armor, her prosthetic arm gleaming, standing in a field of flowers. She is beautiful and lethal, her presence serene. One eye is closed or missing, a hint of the rot within.
+[Visual: Godrick crouches over a pile of severed limbs, grafting them to his body. His face is twisted with desperate ambition. Arms protrude from his shoulders and back at grotesque angles. He holds up a grafted arm and flexes it experimentally.]
 
-**Mohg, Lord of Blood** appears briefly in shadow, red light emanating from his body, the vague outline of horns visible. He is the most obscured of the demigods, his domain still hidden.
+> "Godrick the Grafted. Great-grandson of the golden lineage. His strength, stolen from the corpses of heroes."
 
-**Morgott, the Omen King** is shown in silhouette atop a wall, overlooking the capital. His horns are visible, and he holds a golden cane-sword. He is presented as a defender, watching over what remains.
+### Rennala, Queen of the Full Moon
 
-> "The mad taint of their newfound strength triggered a war. The Shattering."
+[Visual: Rennala sits in a dark chamber surrounded by floating sweetings (the crawling students). She clutches an amber egg to her chest, rocking gently, her eyes vacant. The moon glows outside the academy windows.]
 
-Battle scenes flash across the screen: armies clashing, golden order soldiers fighting beast-men, massive siege weapons firing, the landscape being torn apart. The Erdtree's light flickers. The world breaks.
+> "Rennala, Queen of the Full Moon. Cradling the amber egg... her beloved's parting gift."
 
-> "A war from which no lord arose."
+[Visual: The gift is from Radagon, who left her to become Marika's consort. The egg holds the power of rebirth, and Rennala clings to it as a mother clings to a memory.]
 
-Silence. A battlefield, empty except for corpses. No victor.
+### Starscourge Radahn
 
-> "And a war that led to the absence of the Elden Ring. Oh, Erdtree. Thou'st shorn of thy grace. And the Greater Will hath long since abandoned thee."
+[Visual: Radahn, enormous in scale, sits astride his tiny horse Leonard on the battlefield of Caelid. The sky burns red. His body is swollen with power and rot. He holds the stars in place through sheer gravitational will, his arms spread wide.]
 
-The Erdtree dims. Its golden light fades to a pale, sickly glow.
+> "Starscourge Radahn, mightiest of the demigods, locked in an eternal stalemate with the stars. His mind lost to the Scarlet Rot."
 
-> "Now, the guidance of grace will be seen once more by followers of the Lands Between. Ye dead who yet live, your grace long lost, follow the path to the Lands Between beyond the foggy sea, to stand before the Elden Ring. And become the Elden Lord."
+### Rykard, Lord of Blasphemy
 
-The camera descends into a dark crypt. Stone coffins line the walls. A hand bursts from one, armored and grasping. This is the Tarnished, recalled from death/exile to attempt what the demigods could not: reassemble the Elden Ring and become Lord.
+[Visual: The God-Devouring Serpent writhes in a lake of lava. Rykard's face is visible emerging from the serpent's body, his crown still on his head. He grins.]
 
-## Visual Analysis
+> "Praetor Rykard, who fed himself to the God-Devouring Serpent, becoming the Lord of Blasphemy."
 
-The opening cinematic establishes the complete narrative framework in under three minutes. Every demigod shown will be a boss encounter. The visual hierarchy (Erdtree dominant, then Marika absent, then demigods in conflict, then the Tarnished rising from a coffin) establishes the game's structure: the player begins at the bottom and must work up through the demigods to reach the absent god.
+### Malenia, Blade of Miquella
 
-The color language is established here: gold for the Erdtree and the Golden Order, red for blood and war, grey for death and loss, darkness for the unknown. Each demigod's brief appearance communicates their essential character. Godrick is grasping and desperate. Rennala is withdrawn. Radahn is martial glory. Rykard is consumed. Malenia is graceful danger. Mohg is hidden. Morgott is vigilant.
+[Visual: Malenia stands in a field of scarlet flowers (Scarlet Aeonia blooms). Her prosthetic arm gleams. Her eyes are covered by a winged helmet. She radiates both beauty and disease. One arm drips with rot.]
 
-The narrator's tone shifts from reverent (describing the Elden Ring's creation) to mournful (the Shattering) to almost commanding (directing the Tarnished to arise). This emotional arc mirrors the game itself: wonder, then loss, then purpose.
+> "Malenia, Blade of Miquella, the undefeated swordswoman. Scarlet Rot courses through her veins."
+
+### Morgott, the Omen King
+
+[Visual: Morgott, cloaked and hooded, stands before the Erdtree with a twisted staff. His Omen horns are visible beneath his cowl. He defends the capital alone, as he always has.]
+
+> "And Morgott, the Omen King, last of all who held the capital. Ever the defender. Ever alone."
+
+## The Tarnished Reviving
+
+> "The Tarnished. Those who lost the grace of the Erdtree, and were driven from the Lands Between."
+
+[Visual: A graveyard. Stone coffins. Gray, dead land. Figures lie still in their coffins — warriors, knights, common people. They are corpses.]
+
+> "Now, the guidance of grace will be felt once more. Rise, Tarnished. Ye dead, who yet live."
+
+[Visual: A golden light — Grace — touches the coffins. One by one, the dead open their eyes. They sit up. They are gaunt, scarred, and confused, but alive. The first Tarnished stands, looking toward the horizon where the Erdtree glows.]
+
+> "The call of long-lost grace speaks to us all."
+
+[Visual: The Tarnished begins walking. Behind them, more rise. An army of the returned dead, drawn by golden light toward a shattered world.]
+
+> "Hoarah Loux, chieftain of the badlands."
+
+[Visual: A massive, feral warrior rises from his coffin, his muscles scarred from countless battles. He was the first Elden Lord, stripped of that title and grace, now returned.]
+
+> "The ever-brilliant Goldmask."
+
+[Visual: A thin, still figure, arms outstretched in an eternal gesture of contemplation. He does not move or speak. Golden light plays across his body.]
+
+> "Fia, the Deathbed Companion."
+
+[Visual: A woman in a dark cloak holds a dead body tenderly. She communes with the dead, drawing warmth from their corpses. Her embrace is both intimate and unsettling.]
+
+> "The loathsome Dung Eater."
+
+[Visual: A figure in a grotesque horned helmet sits in a dark cell. His presence is menacing, wrong. The narration's disgust is palpable.]
+
+> "And Sir Gideon Ofnir, the All-Knowing."
+
+[Visual: An armored scholar in a helm shaped like an owl. He sits surrounded by books and artifacts, accumulating knowledge as a weapon.]
+
+> "Rise now, ye Tarnished. Ye dead, who yet live. The call of long-lost grace speaks to us all. Follow the path to the Lands Between, beyond the fog sea, to stand before the Elden Ring. And become the Elden Lord."
+
+[Visual: The Erdtree, seen from across a vast ocean of fog. The Tarnished stands at a cliff's edge, looking across. The tree is beautiful, golden, and impossibly distant. The journey begins.]

@@ -1,21 +1,19 @@
-# Ending: Age of the Stars... of Order (Perfect Order)
+# Ending Cinematic — Age of Order (Goldmask's Ending)
 
-## Goldmask's Mending Rune
+## The Mending
 
-> (No unique narration beyond the base ending visuals, with the addition of the Mending Rune of Perfect Order's golden geometric patterns appearing over the restored ring.)
+[Visual: The Tarnished stands before the shattered Elden Ring. Instead of simply reassembling it, they present the Mending Rune of Perfect Order — Goldmask's life work, a rune that corrects the fundamental flaw in the Golden Order: the fickleness of the gods themselves.]
 
-The Tarnished repairs the Elden Ring using the Mending Rune of Perfect Order, derived from Goldmask's research into the Golden Order's fundamentals. The ring is restored with golden geometric rune patterns that seal its fractures, creating a mathematically perfect structure where there were cracks.
+[Visual: The Elden Ring reforms, but its structure is different. The golden light is purer, more mathematical, more rigid. The runes lock into place with geometric precision. Where the Age of Fracture leaves scars, the Age of Order fills them with perfect, unbending structure.]
 
-## Visual Description
+[Visual: The Tarnished sits upon the throne. The Erdtree blazes with renewed light, but the light feels cold — precise rather than warm, orderly rather than alive.]
 
-The ending shares the same throne room scene as the Age of Fracture, but the Elden Ring's restoration is visually distinct: the golden patterns that seal the cracks suggest a logical, orderly repair. The Erdtree's light is slightly brighter, suggesting a more complete restoration. The overall tone is one of intellectual triumph: the Golden Order's flaws were identified and corrected through study and understanding.
+## Interpretation
 
-## Lore Implications
+Goldmask's ending removes the influence of the gods (specifically Marika) from the Golden Order, replacing divine caprice with logical perfection. The Mending Rune of Perfect Order addresses the fact that Marika herself shattered the Ring — the system's flaw was not in its design but in the unreliability of its divine administrator. Goldmask's solution is to make the Order self-sustaining, independent of any god's whims.
 
-Goldmask's research discovered that the flaw in the Golden Order was the gods themselves. Marika's influence (her doubts, her emotional decisions, her eventual shattering of the ring) introduced imperfection into a system that was meant to be immutable. The Mending Rune of Perfect Order removes divine caprice from the equation, creating a Golden Order that functions on pure principle rather than the will of a fallible god.
+This is both the most intellectually satisfying and the most quietly terrifying ending. A perfect order that cannot be influenced by its gods is an order that cannot change, cannot adapt, cannot show mercy. Goldmask's silence throughout the game — his refusal to speak, his pure contemplation — is now the voice of the new world: an order that does not explain itself, does not negotiate, and does not bend.
 
-This ending is the Golden Order perfected: a system of absolute cosmic law with no room for divine whim or mortal error. It addresses the theological flaw (gods can make mistakes and damage the system) but does not address the moral flaws (persecution of Omen, Albinaurics, etc.). The Order becomes more perfect and potentially more oppressive: a system run on pure logic with no divine mercy to temper it.
+The Age of Order is a world governed by law without a lawgiver, structure without spirit. Whether this is utopia or prison depends on your theology.
 
-Goldmask himself is a mute figure who communicates only through gestures, and his final revelation (that the gods are the problem) kills him. The architect of this ending did not live to see it, and his single disciple (Corhyn) either follows or abandons him depending on the player's actions. The Age of Order is built on one silent man's dying insight, implemented by a Tarnished who may or may not have understood what Goldmask meant.
-
-Corhyn's potential crisis of faith (if he follows Goldmask's conclusions, he realizes his entire theological framework was flawed) mirrors the ending's implications: perfect order is achieved by acknowledging that the thing you worshipped was broken.
+[Visual: The Erdtree stands perfectly straight, perfectly luminous, perfectly still. Nothing moves in the final shot. The world is ordered.]
