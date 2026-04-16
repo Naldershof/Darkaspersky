@@ -47,7 +47,9 @@ The Hornsent were a civilization that built their entire culture around what the
 
 Critically, the Hornsent did not merely tolerate horns; they cultivated them. Their Shaman Towers were sites of spiritual practice connected to the Crucible's cycle. Environmental evidence in the Land of Shadow confirms their relationship with the Crucible predated any contact with the Greater Will. They were, in essence, a Crucible civilization -- people who never stopped revering what the Golden Order suppressed.
 
-Their practices were not purely benign. The jar rituals -- the Hornsent NPC's anguished testimony that Marika "took our children and sealed them in jars" -- reveal a culture with its own capacity for disturbing transformation. But the DLC does not present their destruction as justified. Marika did not conquer the Hornsent because they were dangerous. She conquered them because they represented a competing metaphysical framework -- one rooted in the Crucible rather than the Golden Order.
+Their practices were not purely benign. The jar rituals -- the Hornsent NPC's anguished testimony that Marika "took our children and sealed them in jars" -- reveal a culture with its own capacity for disturbing transformation. The DLC refuses to portray the Hornsent as innocent martyrs; their own rites involved flesh, compression, and ritual violence. But the DLC equally refuses to present their destruction as justified. Marika did not conquer the Hornsent because they were dangerous. She conquered them because they represented a competing metaphysical framework -- one rooted in the Crucible rather than the Golden Order.
+
+The Revered Spirit Ash found in the Land of Shadow confirms this older cosmology: the spirits of that land "remember the age before the Erdtree -- when death was governed by the Crucible's cycle and the shadow was not yet severed from the light." The Hornsent lived inside the Crucible's cycle. The Golden Order replaced that cycle. The horns are the visible marker of which cycle a body belongs to.
 
 ## The Omen Evidence
 
@@ -73,7 +75,9 @@ The chain of evidence runs as follows:
 
 **Morgott and Mohg are the ultimate expression of this pattern.** Marika's own sons are born with the horns of the people she exterminated. If the Hornsent heritage runs through the population of the Lands Between, then it runs through Marika's bloodline too -- especially if she originated among the Hornsent. Her children's bodies betray the history she buried. She responds by imprisoning them in the same sewers where the Golden Order dumps everything it considers abominable.
 
-**The Dung Eater's Mending Rune completes the circle.** His Fell Curse makes everyone Omen -- spreads the horn-growth to every soul in the Lands Between. If the Omen curse is Hornsent heritage, then the Dung Eater's ending is not damnation but universalization: everyone inherits what Marika tried to erase. The "Blessing of Despair" is only despair from the Golden Order's perspective. From the Hornsent's, it is the return of what was stolen.
+**The Omenkillers are the surgical wing of the same genocide.** In the Land of Shadow, Messmer used fire. In Leyndell, the Golden Order uses scalpels. The Omenkillers' saw-cleavers and their designation as medical practitioners reframe horn-removal as treatment rather than persecution. This is the final stage of cultural erasure: the victims' own bodies are classified as a disease, and their mutilation is reclassified as healthcare. The Hornsent had shamans who cultivated horns. The Golden Order has surgeons who cut them off. The two professions are mirror images of each other across a genocide.
+
+**The Dung Eater's Mending Rune completes the circle.** His Fell Curse makes everyone Omen -- spreads the horn-growth to every soul in the Lands Between. If the Omen curse is Hornsent heritage, then the Dung Eater's ending is not damnation but universalization: everyone inherits what Marika tried to erase. The "Blessing of Despair" is only despair from the Golden Order's perspective. From the Hornsent's, it is the return of what was stolen. The Mending Rune description states that "the blessing of the Erdtree is the Golden Order's greatest grace, and its defiling will mean an end to all things sacred." Read through the lens of this investigation, the "sacred" thing being ended is not holiness itself but the hierarchy that declared horns profane. The Dung Eater does not defile the world -- he levels it.
 
 ## Proposed Theory
 
@@ -83,11 +87,15 @@ The Omen are the Crucible's refusal to be overwritten. Each horn-bearing child b
 
 Marika knows this. Her persecution of the Omen is not superstition -- it is damage control. She persecutes both the Hornsent and the Omen because they are the same problem: the Crucible's legacy, which she cannot kill. The genocide and the Shunning-Grounds are not separate policies. They are the same policy, applied across centuries, to the same unkillable inheritance.
 
+This framework also explains a detail that otherwise seems like narrative cruelty for its own sake: why Marika allowed her own sons to be imprisoned. A mother casting her children into a sewer is monstrous in any reading. But if Morgott and Mohg's horns are not random but ancestral -- if they connect Marika to the Hornsent she destroyed -- then their imprisonment is not neglect. It is containment. She is not punishing her children. She is hiding the evidence that the god-queen of the Golden Order shares blood with the people she exterminated.
+
 ## Verdict
 
 **The Omen are the Hornsent's legacy, and Marika knows it.** The evidence is not explicit -- no single item description states "the Omen descend from the Hornsent." But the convergence is too dense to be coincidental. Identical physical traits. Identical persecution. The same woman ordering both. A civilization built on horn-reverence destroyed by the same order that cuts horns from its own children. The Crucible as the shared root. The Land of Shadow sealed to hide the connection.
 
 This is the DLC's central lore contribution to the base game: it transforms the Omen from an unexplained curse into the residue of a genocide. Morgott defended an order built on his people's graves. Mohg rejected an order that rejected his heritage before he was born. The Omenkillers are not doctors -- they are the last soldiers in a war Marika started in the Land of Shadow and has been fighting, generation after generation, ever since.
+
+The Dung Eater, despised by every character in the game, may be the only figure who understood the truth -- even if he arrived at it through madness and violation rather than scholarship. His ending does not curse the world. It returns to the world something Marika stole from it. That this act of restoration looks like damnation is the final measure of how thoroughly the Golden Order rewrote reality.
 
 ## Remaining Gaps
 
@@ -96,6 +104,8 @@ This is the DLC's central lore contribution to the base game: it transforms the 
 - **Marika's origin remains unconfirmed.** The theory is strongest if Marika is herself Hornsent or Hornsent-adjacent. Environmental evidence in the Land of Shadow suggests this but does not prove it. If she has no Hornsent connection, the theory still holds through the Crucible as shared root, but loses the layer of personal guilt.
 - **The Crucible Knights' relationship to the Hornsent.** The Knights revered the Crucible and bore its aspects. Were they in contact with the Hornsent? Were they Hornsent allies, or an independent tradition? Their sidelining by the Golden Order mirrors the Hornsent destruction but no direct link is established.
 - **Why Radagon/Marika's children specifically.** If the Omen trait is rare and quasi-random, why did it express in two of Marika's own children? Coincidence, divine irony, or evidence that Marika's bloodline is closer to the Hornsent than anyone knows?
+- **The Misbegotten as parallel evidence.** The Misbegotten -- bestial, Crucible-touched laborers enslaved throughout the Lands Between -- share traits with both the Omen and the Crucible Knights. If the Omen are Hornsent heritage, what are the Misbegotten? Another branch of the same suppressed lineage, or a separate Crucible population? Their existence suggests the Crucible's resurgence is broader than the Omen alone.
+- **The Three Fingers' proximity to the Omen.** The Three Fingers reside in the same Subterranean Shunning-Grounds where Omen are imprisoned. Is this coincidence, or does the Golden Order recognize a kinship between the Omen and the Frenzied Flame -- both representing primordial forces that the Golden Order failed to eradicate? The merchants were buried alive in those same tunnels for heresy. The pattern of burying inconvenient peoples beneath Leyndell may connect the Omen, the merchants, and the Three Fingers as parallel victims of the same suppressive logic.
 
 ## Sources
 

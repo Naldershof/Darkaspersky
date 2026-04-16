@@ -58,6 +58,8 @@ If Placidusax served a god before the Greater Will's arrival, who was it?
 
 **Candidate 4: A primordial force connected to the Crucible.** Not an Outer God in the conventional sense, but the animating principle of the Crucible itself -- the raw, undifferentiated life-force that preceded all order. It "fled" when the Greater Will imposed differentiation and structure. This reading treats the fled god not as a being but as a cosmic state that was displaced.
 
+Of these, Candidate 1 is the most popular but the weakest under scrutiny. Candidate 2 is unfalsifiable. Candidate 3 fails on the details. Candidate 4 is the most thematically resonant -- the Crucible's suppression under the Golden Order mirrors the fled god's displacement -- but lacks any direct textual support linking the Crucible to divine personhood.
+
 ## Cross-Reference Analysis
 
 This is where the evidence converges on a critical conclusion.
@@ -70,14 +72,19 @@ The Eternal Cities were destroyed for heresy -- specifically, for trying to crea
 
 The Beastmen, the Crucible, the Greattree, the Eternal Cities, Dragon Communion -- all of these pre-Erdtree elements share one trait: the Greater Will suppressed, displaced, or demonized every one of them. This is not the behavior of an entity that filled a vacuum. This is the behavior of a conqueror erasing the previous regime.
 
+Consider the pattern of suppression in detail. The Omen -- people born with Crucible traits like horns and tails -- are shunned, imprisoned in the Shunning-Grounds beneath Leyndell, and subjected to horn-shaving. Crucible Knights, who wield the old life-force, are marginalized despite their strength. The Fire Giants were nearly exterminated, their survivor cursed to guard the very flame that defined his people. The Nox were cast into the earth, their cities sealed beneath artificial skies, their Fingerslayer Blade left as mute testimony to a war the Golden Order won. Every pre-Erdtree power was not merely superseded but actively punished for existing.
+
+Farum Azula itself may be the most telling case. It was not destroyed -- it was abandoned to temporal decay. The Greater Will did not need to conquer the dragons' seat because the seat was already crumbling once its god fled. Farum Azula is what happens to a civilization when its cosmic patron is removed: not a sudden collapse, but an eternal, frozen disintegration. The Greater Will did not need to raze it. It simply needed to wait.
+
 ## Proposed Timeline of the Ages
 
-1. **The Age of the Crucible.** The primordial state. Life is undifferentiated. The Greattree grows. The Crucible's power suffuses the world. A god -- Placidusax's god -- governs through a proto-Elden Ring, with the Dragonlord as its Elden Lord and the Beastmen as its civilization.
+1. **The Age of the Crucible.** The primordial state. Life is undifferentiated. The Greattree grows. The Crucible's power suffuses the world. A god -- Placidusax's god -- governs through a proto-Elden Ring, with the Dragonlord as its Elden Lord and the Beastmen as its civilization. The Eternal Cities may flourish during this era, their star-worship a natural theology under a non-Erdtree sky.
 2. **The Fled God departs.** The god flees. The cause is unrecorded, but the Greater Will's arrival is the most compelling explanation. Whether the Greater Will drove it out through direct conflict or whether the fled god retreated from an approaching superior force, the result is the same: a vacancy in cosmic governance.
 3. **Placidusax enters his vigil.** The Dragonlord refuses to accept his god's departure. Farum Azula begins its temporal collapse. The Beastmen continue their rituals in a crumbling temple, serving a power that no longer answers.
 4. **The Greater Will sends the Elden Beast.** The Beast descends carrying the Elden Ring -- the Greater Will's version of cosmic law. It plants itself in the Lands Between, and the Erdtree grows (or the Greattree is transformed).
-5. **The Erdtree age begins.** Marika is chosen as vessel. The Golden Order is established. The Nox are cast underground for heresy. The Giants are subjugated. The dragons are conquered. Every remnant of the prior age is suppressed.
-6. **The Shattering.** Marika breaks the Ring, shattering the very order the Greater Will installed. The cycle of cosmic governance destabilizes again.
+5. **Consolidation and conquest.** Godfrey, the first Elden Lord under Marika, wages war on the remaining powers of the old age. The Fire Giants are subjugated. The dragons who resist are killed or forced into submission; those who ally with the new order (like Fortissax, who befriended Godwyn) receive golden lightning as a mark of conversion. The Nox are cast underground. The Crucible is rebranded as impurity.
+6. **The Golden Order at its height.** Destined Death is removed from the Ring. The Erdtree burns the dead and absorbs their souls. The system appears eternal and self-sustaining -- but it is built on the suppression of everything that came before, and Marika herself begins to doubt.
+7. **The Shattering.** Marika breaks the Ring, shattering the very order the Greater Will installed. The cycle of cosmic governance destabilizes again. The question the game poses to the player is not whether to restore order, but whose order -- and whether any cosmic patron deserves the Lands Between's loyalty.
 
 ## Verdict
 
@@ -87,6 +94,8 @@ Placidusax's god did not simply leave. It was outcompeted, overpowered, or threa
 
 This reframes the entire game. Every ending, from [Ranni's Age of Stars](../endings/age-of-stars.md) to the [Lord of Frenzied Flame](../endings/lord-of-frenzied-flame.md), is not a rebellion against the natural order. It is a continuation of the same pattern: cosmic powers struggling over the Lands Between, installing and removing their systems, while the Dragonlord waits at the bottom of a crumbling ruin for a god that was driven away long ago.
 
+Ranni's ending gains particular weight under this reading. She does not merely reject the Greater Will -- she explicitly seeks to remove cosmic influence from the mortal world entirely: *"I would keep them far from the earth beneath our feet."* If the Lands Between has been passed from one Outer God to another like territory in a war, Ranni's solution is to end the war by making the territory ungovernable. She may be the first figure in the Lands Between's history to propose that no god should rule at all.
+
 ## Remaining Gaps
 
 - **The fled god has no name, no description, and no confirmed identity.** Every candidate is inference. The game may be deliberately withholding this to preserve the mystery of what came before.
@@ -94,6 +103,8 @@ This reframes the entire game. Every ending, from [Ranni's Age of Stars](../endi
 - **The Eternal Cities' timeline is uncertain.** Were Nokron and Nokstella part of Placidusax's age, the transitional period, or the early Erdtree age? Their star-worship could place them in any of these.
 - **Whether the Elden Ring existed under the fled god** or whether "Elden Lord" is a retroactive title applied to Placidusax using Erdtree-age terminology remains unresolved.
 - **The fled god's current location.** It fled, but fled where? Is it dead, dormant in another world, or waiting -- like Placidusax -- for conditions to change?
+- **Placidusax's lost heads.** Three of five heads were severed. Was this the result of battles during the transition between ages -- a war between the old order's champion and the Greater Will's forces -- or did the heads wither through the sheer duration of his vigil? The answer determines whether there was a violent conquest or a slow decline.
+- **The DLC's implications.** The Shadow of the Erdtree reveals Messmer's conquest of the Land of Shadow as a precondition for the Erdtree's planting. If the Greater Will required military conquest to establish the Erdtree, the same pattern may have applied to Placidusax's age -- the fled god may have been driven out not by cosmic force alone but by war on the ground.
 
 ## Sources
 
