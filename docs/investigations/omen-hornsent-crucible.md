@@ -31,13 +31,15 @@ last_updated: 2026-04-16
 
 Why does the Golden Order treat horns as an abomination? Before the DLC, the Omen curse seemed like a random mutation -- a Crucible throwback the Golden Order found distasteful. But Shadow of the Erdtree reveals an entire horn-bearing civilization, the Hornsent, that Marika personally ordered exterminated. She then sealed their homeland behind the Erdtree's roots. And in the Lands Between, she allowed her own Omen-born sons to be thrown into a sewer.
 
-Two parallel persecutions. One target: horns. The question is whether these are coincidental or sequential -- whether the Omen curse is the Hornsent heritage refusing to stay buried.
+Two parallel persecutions. One target: horns. This investigation maps the chain from the Crucible's sacred biology, through the Hornsent civilization that revered it, through Marika's destruction of that civilization, to the Omen children born under the Golden Order with the same traits the Hornsent cultivated. The question is whether these are coincidental or sequential -- whether the Omen curse is the Hornsent heritage refusing to stay buried.
 
 ## The Crucible Evidence
 
 The Crucible is the primordial form of the Erdtree, the state where "everything was in a state of perfect wholeness" and "all life was once blended together" (Crucible Knot Talisman). In this era of abundance, horn-growth, wing-growth, and tail-growth were not aberrations but expressions of primal vitality. The Crucible Knights -- champions of the earliest Erdtree -- bore these aspects with pride. Their armor is "engraved with a pattern of the Crucible of life" (Crucible Axe Set), and their incantations channel horns, tails, and wings as weapons.
 
 The Golden Order reversed this valuation. What was sacred became cursed. The Crucible Knights were sidelined, their traditions reclassified as primitive. But the Crucible's biology did not stop expressing itself. It kept producing horns in newborns -- the Omen -- long after the Golden Order declared those horns profane.
+
+The Crucible Feather Talisman reinforces this: feathered wings are "a vestige of the ancient age of plenty." The language is elegiac, not clinical. These were not mutations to be corrected but inheritances to be honored.
 
 The Crucible establishes the baseline: horn-growth is the oldest, most fundamental expression of life in the Lands Between. It predates the Erdtree, predates the Golden Order, predates Marika.
 
