@@ -8,6 +8,23 @@ Chronological record of ingests, queries, and maintenance passes.
 
 ---
 
+## 2026-04-16 — Investigation: The Moral Weight of Every Ending
+
+**Scope:** Full moral analysis of all six endings plus DLC context.
+
+**Created:**
+- `docs/investigations/endings-morality.md` — Comprehensive moral ledger for each ending: who benefits, who suffers, the philosophical argument for and against, and a ranked verdict
+
+**Key findings:**
+1. **Age of Duskborn** is the most restorative — it addresses the deepest systemic wound (removal of death) without creating new tyranny
+2. **Age of Order** is the most insidious — it looks wise but perfects an oppressive system, making it impossible to reform
+3. **Lord of Frenzied Flame** is the only ending Melina explicitly condemns — she survives specifically to oppose it
+4. **Blessing of Despair** is the only ending that directly addresses the Omen persecution, but through involuntary universal affliction
+5. **Age of Stars** is the most radical liberation, but Ranni's path has the highest NPC body count after the Frenzied Flame
+6. Miquella's DLC arc proves that even compassion, taken to its logical extreme, produces horror — recontextualizing every ending
+
+---
+
 ## 2026-04-16 — Investigations: The Four Biggest Unsolved Questions
 
 **Scope:** Identified 130+ unresolved mysteries across the wiki, selected the top 4 by cross-cutting significance, and launched deep investigations.

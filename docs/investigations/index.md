@@ -18,6 +18,7 @@ Unlike the wiki pages (which catalog what is known), investigations take positio
 | [The Omen-Hornsent-Crucible Connection](omen-hornsent-crucible.md) | Are the Omen descended from the Hornsent? What is the true origin of the "curse"? | **The Omen are the Crucible heritage re-emerging — and Marika persecutes them because they remind her of the civilization she destroyed** |
 | [Placidusax's Fled God](placidusax-fled-god.md) | Who was the Dragonlord's god, and what happened to the pre-Erdtree age? | **The Greater Will displaced an earlier cosmic order, and Placidusax's god was driven out rather than leaving voluntarily** |
 | [The Erdtree and the Greattree](erdtree-greattree-identity.md) | Is the Erdtree the same organism as the ancient Greattree, or a parasite? | **The Erdtree is the Greattree colonized by the Greater Will — a living organism repurposed as a control mechanism** |
+| [The Morality of Every Ending](endings-morality.md) | Which ending is "best"? What are the moral costs of each? | **Age of Duskborn is the most restorative; no ending is without harm. The ranking depends on your moral framework — and Miyazaki designed it that way.** |
 
 ## How Investigations Work
 
