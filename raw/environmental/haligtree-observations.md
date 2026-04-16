@@ -1,61 +1,67 @@
 # Miquella's Haligtree — Environmental Observations
 
-## The Haligtree Itself
+## The Approach and Loretta's Vigil
 
-Miquella's Haligtree is a massive, pale-white tree growing in a hidden chasm beyond the Consecrated Snowfield. Unlike the golden Erdtree, the Haligtree is silver-white, its branches bare and ghostly. It is visibly incomplete: the canopy is sparse, the trunk thinner than the Erdtree, and its growth appears to have stalled or been interrupted. This is a tree that was meant to rival the Erdtree but never reached maturity.
+Access to the Haligtree is hidden, requiring assembly of the Haligtree Secret Medallion (two halves, scattered across distant locations) and passage through the Consecrated Snowfield. The difficulty of reaching this place is itself a statement: Miquella built his sanctuary in secret, far from the Golden Order's reach, and protected it with layers of misdirection.
 
-Miquella, the most talented of the demigod children, created the Haligtree as an alternative to the Erdtree. His unalloyed gold could repel the influence of Outer Gods, and he intended the Haligtree to be a refuge for all those rejected by the Erdtree's grace: the Albinaurics, the Misbegotten, the cursed and the abandoned. He watered the tree with his own blood and eventually embedded himself within it in a cocoon, attempting to grow the tree by offering his own divine body.
+Loretta, Knight of the Haligtree, guards the entrance. She is a Carian knight who abandoned Raya Lucaria to serve Miquella, judging his cause more worthy. Her presence at the sole entry point means she chose to be a gatekeeper rather than a warrior at the front lines. The fact that she is fought earlier as a spirit projection in Caria Manor (and here in her true form) suggests her spirit was stationed at multiple locations to screen potential allies and threats. Her loyalty to Miquella transcends conventional allegiance.
 
-The Haligtree's incomplete state tells its own story. Miquella was abducted by Mohg before the tree could mature, ripped from his cocoon while still in his chrysalis state. Without its creator's nurturing presence, the tree stalled. What the player finds is an abandoned project, a sanctuary that never quite became what it was meant to be.
+The approach via the Consecrated Snowfield itself is notable: a whiteout blizzard with near-zero visibility, populated by invisible enemies (the Black Knife assassins) and wandering spectral figures. The Snowfield feels like a no-man's-land, a buffer zone between the known world and Miquella's hidden realm.
 
-[Context: The entire Haligtree region, accessible from the Consecrated Snowfield via Ordina. The tree serves as both the landscape and the dungeon.]
+[Context: Liturgical Town and the upper canopy of the Haligtree, reached via the Grand Lift of Rold using the Haligtree Secret Medallion.]
 
-## The Town of Prayer (Elphael, Brace of the Haligtree)
+## The Prayer Town (Elphael, Brace of the Haligtree)
 
-Built into and around the Haligtree's trunk and branches, Elphael is a town constructed for worship and habitation. The architecture is beautiful: white stone, flowing water features, carefully designed walkways and buttresses integrated with the tree's natural form. This was not a hastily constructed refuge but a planned community, designed with aesthetic care and civic purpose.
+Elphael is a town built into and around the Haligtree's branches, constructed by and for those who followed Miquella. The architecture is delicate, ornate, and distinctly different from Leyndell's golden bombast. Where Leyndell is triumphant, Elphael is devotional. The buildings are white and gold, but softer, with flowing organic designs that echo the tree's natural forms.
 
-The town's inhabitants are largely hostile: Haligtree soldiers, Cleanrot Knights, and various rot-touched enemies. The soldiers wear distinctive armor with Haligtree motifs and fight with disciplined formations, suggesting a military that was organized and well-trained. The Cleanrot Knights, Malenia's personal order, are the elite defenders. Their name acknowledges their relationship with rot (they serve Malenia, who is cursed with Scarlet Rot) while asserting their purity of purpose.
+The town is populated by Haligtree soldiers, Haligtree Knights, and Cleanrot Knights — all loyal to Miquella and Malenia. Many of the soldiers show signs of rot, fighting through visible infection. Their continued service despite the Scarlet Rot consuming them speaks to the depth of their devotion or the desperation of their cause.
 
-The presence of crystallized snow and frozen elements in the upper canopy transitions to warmer, more organic environments as one descends. Prayer rooms and worship spaces are scattered throughout, where the town's inhabitants apparently venerated Miquella. The "town of prayer" designation is literal: this was a place where an alternative faith was practiced, centered on Miquella rather than the Erdtree.
+Prayer rooms and small chapels are found throughout, oriented toward the Haligtree's trunk. These are not Erdtree churches. Miquella's faithful worship a different tree, one he grew himself as an alternative to the Erdtree. The prayers here are directed at a god who is absent — Miquella has been stolen by Mohg, and the tree he was nurturing has been left incomplete. The faithful pray to an empty throne.
 
-[Context: The settlement built within the Haligtree's structure, primarily in the trunk and major branches. The upper and middle sections of the dungeon.]
+The town also shows evidence of daily life: residential areas, storehouses, and gathering spaces. People lived here. Families may have existed here. This was not merely a military outpost but a genuine settlement, a new civilization Miquella was founding. Its current state — half-ruined, rot-infested, defended by the dying — is the tragedy of an interrupted utopia.
 
-## The Roots Growing and Structural Decay
+[Context: The middle section of the Haligtree, the primary legacy dungeon area accessed after the canopy walkways.]
 
-As the player descends through the Haligtree, the pristine white architecture gives way to increasing decay. The roots of the tree are visible, tangled and growing without direction. Unlike the Erdtree's purposeful golden roots, the Haligtree's roots seem aimless, growing in on themselves, sometimes breaking through the architecture they are meant to support.
+## The Unfinished Tree
 
-This directionless growth reflects Miquella's absence. The tree is growing but has no guiding intelligence. It is a living thing without purpose, its biological imperatives (grow, spread, seek light) continuing without the divine will that shaped them. The structural damage to Elphael from the roots' unchecked growth suggests the town is slowly being destroyed by the very tree it was built to serve.
+The Haligtree itself is the central environmental feature. It is enormous, rivaling the Erdtree in scale, but visibly incomplete. Its branches extend but do not fully leaf. Its bark is pale, almost white, lacking the golden luminance of the Erdtree. In places, the tree's growth appears stunted or malformed, branches reaching out and then stopping abruptly.
 
-In the lower sections, rot begins to appear alongside the root growth. The Scarlet Rot has infiltrated the Haligtree, spreading through its roots and corrupting the sanctuary from within. Miquella's unalloyed gold was meant to repel the rot (and all Outer God influence), but without Miquella actively maintaining the protection, the rot is winning.
+Miquella grew this tree as an alternative to the Erdtree, using his own blood as nourishment. The Haligtree was meant to be free of the Golden Order's influence, a new divine tree that could shelter those the Erdtree rejected — particularly the Omen, the Misbegotten, and those afflicted by the Scarlet Rot. Miquella's Needle, a tool he created to ward off Outer God influence, was part of this same project: building a world independent of all Outer Gods, including the Greater Will.
 
-[Context: Visible throughout the descent from the Haligtree canopy to the roots, increasingly severe in lower sections.]
+The tree's incomplete state is directly tied to Miquella's abduction by Mohg. Without Miquella's blood and presence, the Haligtree stopped growing. What remains is a monument to interrupted ambition. The tree is large enough to hold a city in its branches but not mature enough to provide the divine power Miquella intended. It is a cathedral with no roof, a promise half-kept.
 
-## Malenia at the Bottom
+[Context: The Haligtree itself, visible from all points in the region, forming the structural foundation of Elphael.]
 
-Malenia, Blade of Miquella, waits at the lowest accessible point of the Haligtree, in a chamber floored with standing water and surrounded by roots. She stands before a massive scarlet flower in its bloom, the same type of flower that devastated Caelid. The implication is that she has bloomed again, possibly multiple times, and the rot spreading through the Haligtree originates from her.
+## The Scarlet Rot Spreading
 
-Malenia's boss arena is one of the game's most visually striking: a shallow pool reflecting the pale light of the dying tree, with the enormous rot-flower behind her. She stands waiting, blade drawn, as though she has been expecting this confrontation. Her opening line ("I am Malenia, Blade of Miquella, and I have never known defeat") establishes her as both a warrior and a statement of purpose. She defines herself in relation to her brother and her combat record.
+As the player descends through the Haligtree, the Scarlet Rot becomes increasingly visible. Upper areas show only traces — discolored patches on walls, a few infected soldiers. Mid-levels feature pools of rot, scarlet-tinged vegetation, and enemies in advanced stages of infection. By the lowest levels, entire sections are submerged in rot, and the ground itself has become a swamp of scarlet corruption.
 
-Her second phase transformation into the Goddess of Rot, sprouting wings and ascending above the arena surrounded by scarlet butterflies, reveals the full extent of her curse. The Scarlet Rot is not merely a disease she carries; it is a divinity waiting to be born through her body. Malenia does not want to be the Goddess of Rot, and her resistance to the transformation (she chose to fight Radahn rather than surrender to it, she came to the Haligtree seeking Miquella's cure) makes her second phase a tragedy. She becomes what she most feared because the player pushed her to her limit.
+The rot's spread follows a top-to-bottom pattern that tells a story: Malenia arrived at the Haligtree after her battle with Radahn, during which she bloomed for the second time and unleashed the rot across Caelid. She came home carrying the infection, and it has been seeping downward through the tree ever since. The Haligtree, which Miquella built partly to cure the rot, has instead become its latest victim.
 
-After defeating Malenia, a scarlet flower remains where she fell. Millicent's quest, if completed, provides context: the flower will eventually bloom again. Malenia may not be permanently dead but is in a cycle of blooming and rebirth tied to the Outer God of Rot.
+The Cleanrot Knights found throughout are named for their role: they were meant to fight the rot, to keep Malenia's curse at bay. Their presence in a place now overrun by rot is bitterly ironic. They clean the rot, but the rot advances faster than they can contain it.
 
-[Context: The lowest boss chamber of the Haligtree, at the base of the roots. Malenia's arena.]
+Pest enemies (the centipede-like creatures associated with the Scarlet Rot's outer god) appear in the lower levels, indicating that the rot is not merely a disease but an incursion by an alien intelligence. The pests serve the Rot Goddess, and their presence in Miquella's sanctuary means the very thing he sought to escape has followed him here.
 
-## The Rot's Invasion
+[Context: Increasingly visible as the player descends through Elphael, culminating in the lowest areas before Malenia's arena.]
 
-The Scarlet Rot's presence in the Haligtree increases dramatically in the lower sections. What begins as occasional orange-red discoloration in the upper canopy becomes full rot swamps, rot-infested enemies, and structural decay in the lower areas. Pest enemies (the centipede-like creatures associated with the Rot) infest the lower roots. Kindred of Rot (smaller rot creatures) scuttle through corrupted chambers.
+## Malenia's Rot Lake
 
-The progression of rot through the Haligtree mirrors its progression through Caelid, but with a crucial difference: in Caelid, the rot was an external catastrophe (Malenia's bloom). In the Haligtree, the rot is coming from within, from Malenia herself, who sought refuge here. The sanctuary meant to cure her curse has instead been infected by it. The Haligtree cannot save Malenia; it can only share her suffering.
+At the absolute bottom of the Haligtree lies Malenia's arena: a shallow lake of Scarlet Rot surrounding a single, ancient tree root. This is where Malenia waits, the Blade of Miquella, guarding the path to her brother's now-empty cocoon. The space is vast, open, and eerily beautiful in its devastation. Golden light filters through from above, illuminating the scarlet water.
 
-The pools of Scarlet Rot in the lower areas function mechanically like poison swamps (a FromSoftware tradition) but narratively represent the failure of Miquella's dream. Every rotting root, every infected chamber, every scarlet pool is evidence that the alternative to the Erdtree could not survive without its creator's active protection.
+Malenia sits in repose before the fight, head bowed, her prosthetic arm resting on her sword. She has been waiting. Her arena is not a throne room or a battlefield but a sickroom — she is at the lowest point, in the most corrupted area, because she is the source of the corruption. She sank to the bottom of her brother's tree like a stone, dragging the rot with her.
 
-[Context: The lower half of the Haligtree dungeon, increasingly present from the Prayer Room downward to Malenia's arena.]
+Her second-phase transformation into the Goddess of Rot (the Scarlet Aeonia bloom) reveals that the rot is not merely something Malenia suffers from but something she becomes. The bloom fills the arena, and she emerges winged, nude, and wreathed in scarlet butterflies. This is the Rot's outer god manifesting through her body. The butterflies that appear throughout Caelid and the Haligtree are harbingers of this transformation.
 
-## Loretta, Knight of the Haligtree
+The rot lake at the bottom of a tree built to cure rot is the Haligtree's ultimate failure state. Everything Miquella worked for — the alternative tree, the needle, the sanctuary — has been undone by the one person he was trying hardest to save.
 
-Loretta, who was first encountered as a spirit at Carian Manor, appears here in the flesh as a boss guarding the entrance to the inner Haligtree. Her presence connects the Carian royal family to Miquella's project: Loretta left the Carian Manor to find a home for the Albinaurics, and she found it here.
+[Context: The lowest accessible area of the Haligtree, Malenia's boss arena.]
 
-That Loretta, a knight of the Carian royal family, would pledge herself to Miquella's tree speaks to the Haligtree's intended purpose as a refuge for the rejected. The Albinaurics, who have no grace and no homeland, were meant to find both here. Loretta's loyalty to this vision, even after Miquella's abduction and the Haligtree's decline, represents a faith that persists beyond its object's failure.
+## The Misbegotten and the Rejected
 
-[Context: The boss arena at the transition between the Haligtree canopy and the inner sections of Elphael.]
+Among the Haligtree's defenders are Misbegotten warriors — the winged, beast-like beings shunned by the Golden Order as impure. Their presence here confirms that Miquella's vision was genuinely inclusive: he offered sanctuary to those the Erdtree rejected. The Misbegotten fight alongside Haligtree Knights and Cleanrot Knights as equals, integrated into the military structure rather than segregated.
+
+This integration stands in stark contrast to how the Misbegotten are treated elsewhere: as slaves in Castle Morne, as feral creatures in other locations. In the Haligtree, they have dignity and purpose. The environmental storytelling here is among the game's most quietly powerful: by showing the Misbegotten as soldiers rather than beasts, the Haligtree reveals what was possible under different leadership.
+
+The presence of crystallian enemies in certain areas suggests Miquella also attracted or created mineral-based beings as guardians, further expanding the range of entities who found purpose under his vision.
+
+[Context: Found throughout the Haligtree's military positions, fighting alongside human soldiers.]

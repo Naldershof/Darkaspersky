@@ -1,65 +1,65 @@
 # Crumbling Farum Azula — Environmental Observations
 
+## The Crumbling Stone
+
+Farum Azula is a vast city-temple floating in the sky, perpetually crumbling. Chunks of architecture hang suspended in mid-air, connected by nothing visible, as if frozen in the moment of collapse. Bridges end abruptly over infinite drops. Towers list at angles that should cause them to fall but don't. The entire structure exists in a state of arrested destruction — crumbling, but never finished crumbling.
+
+The architecture is distinct from anything else in the Lands Between. Where Leyndell is golden and ornate, and Raya Lucaria is academic and glintstone-infused, Farum Azula is ancient, austere, and bestial. The stonework features dragon imagery: scaled reliefs, dragon-headed gargoyles, and altars that appear designed for dragon worship. This is not an Erdtree civilization. Farum Azula predates the Golden Order entirely, belonging to the age when dragons ruled and the Dragonlord Placidusax served as Elden Lord to a god who has since fled.
+
+The perpetual storm surrounding the structure — visible from the Mountaintops of the Giants as a massive tornado — both conceals and preserves Farum Azula. The storm is the mechanism of its suspension, a tempest that holds the ruins aloft even as it tears them apart. Whether the storm is natural, divine, or the death throes of the Dragon God is unclear.
+
+[Context: The entirety of Crumbling Farum Azula, the late-game legacy dungeon accessed after the Forge of the Giants.]
+
 ## Time Distortion
 
-Crumbling Farum Azula exists in a state of perpetual collapse. The temple complex floats in a storm-torn sky, its architecture suspended in the act of falling apart. Stones hang in mid-air, corridors end in abysses where floors have crumbled away, and entire sections of the temple drift at angles that defy gravity. The sky around the complex is a perpetual tornado, a vortex of wind, lightning, and debris.
+Time does not function normally in Farum Azula. The player arrives here after Melina's sacrifice at the Forge, transported by the flame — but the Forge is on a mountaintop and Farum Azula floats in the sky, and the transition involves no visible travel. More significantly, Bernahl appears here despite his questline placing him elsewhere, and items and enemies from multiple eras coexist in the same spaces.
 
-The critical detail is that this collapse appears to be frozen in time. The stones do not fall further while the player watches. The temple is not actively crumbling; it is stuck in the moment of its destruction. This temporal suspension suggests that Farum Azula exists outside normal time, or that time flows differently here. The Bernahl and other NPCs found here reinforce this: warriors from various eras appear to have found their way here across time.
+The most significant temporal anomaly is Farum Azula's relationship to the Elden Ring's Shattering. A cinematic accessible within Farum Azula shows the moment of the Shattering itself, as if the event is happening here, now, perpetually. The implication is that Farum Azula exists outside of or adjacent to normal time — the city is stuck in the moment of its own destruction, and other momentous events (like the Shattering) are also preserved here like insects in amber.
 
-The implication is that Farum Azula was removed from the normal flow of time at the moment of its destruction (or the moment of the Elden Ring's shattering, as Maliketh's presence here suggests). It exists in a bubble, eternally crumbling, never fully collapsed. This makes it both a ruin and a preservation: the temple is destroyed but its destruction is frozen, making it paradoxically eternal.
+This temporal displacement explains why the beastmen still serve and worship as if their age never ended, why the dragons' civilization persists here in ruin while it has vanished everywhere else, and why Maliketh — who holds Destined Death — can exist here as both the Beast Clergyman (in his calm, scholarly form) and Maliketh the Black Blade (in his armored, violent form). In a place where time is broken, identities can be multiple and simultaneous.
 
-[Context: The entire Crumbling Farum Azula region, visually evident from the moment of arrival via the tornado that carries the player from the Forge of the Giants.]
+[Context: Experienced throughout the dungeon; most explicit in the Shattering cinematic and the coexistence of entities from different eras.]
 
 ## The Beastmen
 
-Farum Azula is inhabited by beastmen, humanoid creatures with animal features (primarily lupine) who wield weapons and exhibit organized behavior. They guard the temple's corridors, patrol in formations, and defend specific areas with military discipline. Their stone-crafted weapons and armor are distinct from anything found elsewhere in the Lands Between.
+Farum Azula's primary inhabitants are the beastmen: large, anthropomorphic beast-warriors who wield curved swords and lightning-infused weapons. They are not mindless monsters but an organized society with warriors, priests, and structures. Their architecture, their weapons, their social hierarchy all indicate a civilization — one that existed before the Erdtree and persists in Farum Azula's temporal bubble.
 
-The beastmen appear to be the temple's original inhabitants or its designated guardians. Their civilization predates the Golden Order, possibly predating the Erdtree itself. The architecture of Farum Azula features beast-themed carvings and design elements that suggest the beastmen built this place (or it was built for them). Their presence here, still guarding a temple frozen in time, implies a duty that transcends normal lifespans.
+The beastmen's relationship to the dragons appears to be devotional. They served the dragons, possibly as created servants or elevated beasts, and continued their service even after the dragons' power waned. The Beast Clergyman (Maliketh in his docile form) is found among them, studying and cataloguing Deathroot — suggesting that even in this timeless place, the corruption of death has reached them.
 
-Gurranq, the Beast Clergyman found in Dragonbarrow's Bestial Sanctum, is connected to this place. He teaches the player beast incantations in exchange for Deathroot, and his increasingly violent behavior when fed too much Deathroot hints at his true nature. The beast clergyman who appears in Farum Azula before the Maliketh fight is Gurranq, or rather, Gurranq is Maliketh in exile, and here in Farum Azula we see him in his true role as the guardian of Destined Death.
+Their continued existence in Farum Azula, fighting and praying in ruined temples, is a portrait of a civilization that outlived its purpose. The dragons they served are dead or diminished. The god they worshipped has fled. But they persist, maintaining rituals whose meaning has been forgotten, guarding a city that has already fallen. They are the janitors of a ruin, the priests of an absent god.
 
-[Context: Throughout Crumbling Farum Azula, the beastmen are the primary regular enemies in the temple areas.]
+[Context: Found throughout Farum Azula's interior spaces, particularly in the temple areas and along the main progression path.]
 
-## Dragonlord Placidusax
+## Dragonlord Placidusax's Throne
 
-At the lowest point of Farum Azula, accessible by lying down in a specific spot to be transported back in time, rests Dragonlord Placidusax. He is an enormous two-headed dragon (with the stumps of two additional severed heads, suggesting he once had four). He sits in a vast, flat arena surrounded by storm clouds, his body partially phasing in and out of visibility as though he exists across multiple temporal states.
+At the lowest accessible point of Farum Azula, reached by lying in a specific spot and being transported, Dragonlord Placidusax waits. His arena is a vast, flat stone platform surrounded by storm clouds, with the tornado visible in all directions. Placidusax himself is a two-headed dragon (once five-headed, if the severed neck stumps are counted) in a state of dormancy, curled around himself in a posture of waiting.
 
-Placidusax was the Elden Lord before the Erdtree age. His remembrance states he was the consort of a god who fled (possibly an Outer God who abandoned the Lands Between before Marika's ascension). The Dragonlord's multiple heads may represent a draconic kingship that was shared or collective. The severed heads suggest loss, defeat, or the passage of time eroding even a god's consort.
+Placidusax was the Elden Lord of a previous age, before Marika, before the Erdtree. He served a god who is described only as having "fled" — an Outer God who abandoned the Lands Between. Placidusax has been waiting for this god's return ever since, frozen in time within Farum Azula's temporal distortion. His dormancy is not sleep but vigil. He waits for a god who will never come back.
 
-The method of reaching Placidusax (lying down in a specific spot, appearing to enter a trance or time-slip) reinforces that he exists in a different temporal layer than the rest of Farum Azula. The player must go further back in time to reach him. He is waiting for his god to return, sitting in the same spot for eons, existing across time in a state of faithful vigil.
+His arena's position at the bottom of the floating ruin inverts the usual FromSoftware vertical symbolism. The most ancient and powerful being is not at the top but at the foundation, buried beneath layers of later construction. Placidusax is the bedrock of Farum Azula, and the entire structure floats because he sustains it (or because his god's residual power sustains it). His two remaining heads and the stumps of three others suggest a gradual diminishment — he has been losing himself over the eons of waiting.
 
-His attacks involve teleportation, temporal displacement (vanishing from one point and reappearing at another), and ancient lightning. His moveset mechanically communicates his nature: a being unstuck from time, striking from directions and moments the player cannot predict.
+The lightning he wields in combat is red, distinct from the golden lightning of the Ancient Dragons or the blue lightning of the storm. This unique coloration marks his power as older and different from what came after, a primordial force that predates the categories the player has encountered.
 
-[Context: The hidden arena at the lowest point of Crumbling Farum Azula, accessible via a lie-down prompt in a specific storm-swept location.]
+[Context: The hidden boss arena at the lowest point of Crumbling Farum Azula, accessed by lying down at a specific location near the floating stones.]
 
-## Maliketh, the Black Blade
+## Maliketh's Arena
 
-Maliketh is the boss guarding the Farum Azula temple's inner sanctum. In his first phase, he appears as the Beast Clergyman (the same figure as Gurranq), a robed beastman fighting with incantations and bestial fury. In his second phase, he reveals the Black Blade and transforms into Maliketh, a terrifyingly fast, agile warrior wielding a sword infused with Destined Death.
+Maliketh, the Black Blade, guards the upper reaches of Farum Azula. His arena is a circular stone platform atop a tower, open to the howling storm. The arena is deliberately sparse — no decoration, no furniture, just weathered stone and the storm. This austerity reflects Maliketh's role: he is a weapon, not a king. He exists to guard Destined Death, and his arena is a guard post, not a throne room.
 
-Maliketh is Marika's shadow-bound beast (as the Empyrean's shadow, analogous to Blaidd being Ranni's shadow). He was entrusted with the Rune of Death, which he sealed within his own body using the Black Blade. His role was to ensure that nothing in the Lands Between could truly die (death having been removed from the Elden Ring by Marika), preserving the Golden Order's cycle of rebirth.
+Maliketh is Marika's shadow, bound to her as Blaidd is bound to Ranni. He carries the power of Destined Death sealed within his Black Blade after Marika extracted it from the Elden Ring. By removing death from the Ring, Marika created the undying order the Golden Age depends on. By giving it to Maliketh and exiling him to Farum Azula, she ensured that true death existed but was controlled.
 
-The Night of the Black Knives was possible because a fragment of the Rune of Death was stolen from Maliketh. Ranni orchestrated this theft to kill Godwyn's soul and her own body. Maliketh's anguish over this failure (his beast clergyman persona's obsessive consumption of Deathroot appears to be penance or an attempt to recollect the scattered death) drives his exile to the Bestial Sanctum and his vigil here at Farum Azula.
+The player must defeat Maliketh to reclaim Destined Death and restore it to the Elden Ring. This act is what makes the final confrontation with the Elden Beast possible and what allows any ending to occur. Without death, no new order can be established — the old one simply persists in its broken state. Maliketh's defeat is not just a boss fight but a metaphysical correction: the return of death to a world that sealed it away.
 
-When the player defeats Maliketh, Destined Death is unleashed back into the world. This is what causes the Erdtree to begin burning (the thorns are weakened because death has returned to the cycle) and transforms Leyndell into the Ashen Capital. Maliketh's death is the pivotal mechanical event that enables the endgame.
+His transformation from the Beast Clergyman (hunched, scholarly, feeding on Deathroot) to Maliketh (armored, acrobatic, wielding the Black Blade) mirrors the Godfrey/Hoarah Loux duality. The gentle exterior conceals a killer. The scholar is also the executioner.
 
-[Context: The inner sanctum of Crumbling Farum Azula, the temple's main boss arena. The penultimate major boss of the game.]
+[Context: The final boss arena before Leyndell, Ashen Capital, at the top of the main path through Crumbling Farum Azula.]
 
-## The Crumbling Temple Architecture
+## The Tornado and Isolation
 
-The temple complex of Farum Azula is architecturally distinct from everything else in the Lands Between. The style is pre-Erdtree, featuring dragon motifs, beast imagery, and a design language that emphasizes verticality and exposure to the sky. The temples are open to the elements, with many chambers having no roof or walls on one or more sides, as though designed for beings that could fly.
+The tornado that surrounds Farum Azula serves multiple functions. Visually, it creates a sense of isolation: Farum Azula exists in its own pocket of reality, cut off from the Lands Between by an impassable wall of wind. Narratively, it reinforces the temporal displacement: the storm is a barrier between Farum Azula's frozen time and the normal flow of the outside world.
 
-The stone is grey-white, weathered, and carved with intricate patterns that include both draconic and geometric designs. The craftsmanship is exceptional; even in its crumbled state, the precision of the stonework is evident. This was a civilization at its height when the temple was built, a culture with sophisticated art, engineering, and religious practice.
+From the Mountaintops of the Giants, the tornado is visible as a distant feature, an ominous presence on the horizon. The player sees it long before they reach it, building anticipation and dread. When they finally arrive inside, the storm is constant — debris flies past, the wind howls, and the architecture shudders. The sense that the entire structure could collapse at any moment creates persistent tension.
 
-The floating debris, the sections of bridge and corridor suspended in air, and the need to use Torrent-like traversal to move between platforms all reinforce the temporal disruption. The player is navigating a three-dimensional puzzle where time has turned architecture into a floating labyrinth.
+The tornado may also be connected to the Stormhawks and storm powers found elsewhere in the game. The Storm King who ruled Stormveil, the storm ashes of war, and the wind-based powers all trace back to this primordial tempest. Farum Azula may be the origin point of storm power in the Lands Between, with lesser manifestations appearing in places like Stormveil as echoes of the source.
 
-Lightning strikes constantly, and stormhawks circle. The entire environment feels alive with the storm, as though the weather itself is a feature of the temple rather than an affliction upon it. The dragons worshipped storms; their temple exists within one.
-
-[Context: The general architectural and environmental features of Crumbling Farum Azula, observable throughout the region.]
-
-## The Ancient Dragon Liturgical Town
-
-Within Farum Azula, a section of the temple complex resembles a small town or living quarters rather than purely ceremonial space. This area contains the Ancient Dragon Prayerbook and various dragon-themed incantations, suggesting it was where the dragon cult's priesthood lived and studied.
-
-The ancient dragon cult incantations found here (Ancient Dragons' Lightning Spear, Lansseax's Glaive, etc.) represent the oldest known form of incantation in the Lands Between, predating the Golden Order's Erdtree-based faith. The transition from dragon cult to Golden Order is one of the game's key historical progressions, and Farum Azula preserves the original faith in amber.
-
-[Context: The temple sections containing dragon cult items and lore, primarily in the areas between the main temple and Maliketh's chamber.]
+[Context: Visible from the Mountaintops and experienced throughout Farum Azula, the defining atmospheric feature of the location.]

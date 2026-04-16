@@ -1,141 +1,141 @@
 # Nepheli Loux — Complete Dialogue
 
-## Stormveil Castle — First Meeting
+## Stormveil Castle — Before Godrick
 
-> "I am Nepheli Loux. A warrior."
+> "Tarnished. I am Nepheli Loux. A warrior."
 
-> "I have come to Stormveil to fight Godrick. The Grafted. That wretch defiles the Golden Lineage with his obscene grafting."
+> "I came to this castle to challenge Godrick the Grafted. That monster... he grafts the limbs of the fallen onto his own body. A grotesque mockery of strength."
 
-> "He takes the limbs of the fallen and stitches them to his own body. Arms, legs, heads — he is a patchwork abomination. And he calls himself a lord."
+> "I will see him brought low. Will you fight alongside me?"
 
-> "Will you fight alongside me? I would welcome a fellow warrior."
-
-[Context: Nepheli is found in Stormveil Castle, preparing to assault Godrick. She can be summoned for the Godrick boss fight. She is a fierce warrior with a strong moral compass.]
+[Context: Nepheli is first encountered in Stormveil Castle, near the Secluded Cell site of grace. She can be summoned for the Godrick fight. She is a fierce warrior who fights with paired axes.]
 
 ### After Defeating Godrick
 
-> "It is done. Godrick the Grafted is no more."
+> "It is done. Godrick is slain. Good riddance to the wretch."
 
-> "Good riddance. He was a disgrace to the Golden Lineage. A coward who hid behind stolen strength."
+> "He called himself a lord, but he was nothing more than a parasite. Stealing the strength of others because he had none of his own."
 
-> "I am heading to the Roundtable Hold. Perhaps we shall meet again there."
+> "I will return to the Roundtable Hold. My father — Gideon — awaits my report."
+
+[Context: Nepheli reveals her connection to Gideon Ofnir, calling him her father. She is his adopted ward, though their relationship is complicated.]
 
 ---
 
-## Roundtable Hold — Under Gideon's Roof
-
-### Initial Conversations
-
-> "Ah, you're here. Welcome to the Roundtable Hold."
-
-> "Sir Gideon Ofnir — the All-Knowing — he is my adoptive father. He took me in when I was young. Raised me as a warrior."
-
-> "I fight because he taught me to fight. I seek the Elden Ring because he seeks the Elden Ring. His purpose is my purpose."
-
-### On Her Heritage
-
-> "I know little of my true parents. Gideon never spoke of them. He said only that I was found. Orphaned."
-
-> "But sometimes I wonder. There is a strength in me that I cannot explain. A fury. A warrior's spirit that burns beyond what training can account for."
-
-> "Who am I, truly? I do not know."
-
-[Context: Nepheli does not know her true heritage. She is a descendant of Godfrey/Hoarah Loux, the first Elden Lord. Her surname "Loux" is a direct link. This is revealed gradually.]
+## Roundtable Hold — After Stormveil
 
 ### On Gideon
 
-> "Gideon is... complicated. He is brilliant. The most knowledgeable man I have ever known."
+> "Gideon Ofnir... my father. He adopted me. Raised me to be a warrior."
 
-> "But his methods... he is willing to sacrifice anything for knowledge. Anyone. I have seen him make decisions that haunt me."
+> "He is a brilliant man. The All-Knowing, they call him. But he is cold. Calculating. He sees the world as a puzzle to be solved, not a place to be lived in."
 
-> "I love him as a father. But I am not certain he loves me as a daughter."
+> "Sometimes I wonder if he adopted me out of kindness... or because he saw a useful tool."
 
----
+### On Her Purpose
 
-## The Village of the Albinaurics — Crisis of Faith
+> "I am a warrior. That is what I know. What I am."
 
-> "The Albinaurics... Gideon ordered their village razed. For information. For knowledge of the Haligtree Medallion."
-
-> "They are peaceful people. Harmless. And he would destroy them for a scrap of intelligence."
-
-> "I cannot abide this. I told him as much. And he... he dismissed me. Called me naive."
-
-> "Is this what it means to seek the Elden Ring? To trample the innocent? If so, I want no part of it."
-
-[Context: Nepheli discovers that Gideon ordered the attack on the Village of the Albinaurics. This is the breaking point in their relationship. She is devastated and disillusioned.]
-
-### Despair at the Roundtable Hold
-
-> "I have left Gideon's service. I am no longer his daughter. Not in spirit."
-
-> "But I do not know what to do now. My purpose was his purpose. Without it, I am... nothing."
-
-> "A warrior without a cause. What use is strength without direction?"
-
-[Context: Nepheli falls into despair and can be found sitting on the lower level of the Roundtable Hold, near the fireplace. She has lost her sense of purpose.]
+> "But sometimes I wonder — is strength enough? Is there more to being a leader than simply being the strongest?"
 
 ---
 
-## Nepheli — The Stormhawk King
+## Roundtable Hold — The Crisis (Village of the Albinaurics)
 
-### If Given the Stormhawk King Ashes
+> "I went to the Village of the Albinaurics. In Liurnia."
 
-> "This is... the Stormhawk King? The legendary raptor of the ancient storm lords?"
+> "It was... a massacre. Omens. They slaughtered everyone. The Albinaurics — peaceful people. Defenseless."
 
-> "I have heard the tales. The Stormhawk King served the lords of Stormveil in ages past. Before Godrick. Before the Shattering."
+> "And Gideon... he knew. He KNEW it was happening. He may have even ordered it."
 
-> "You're giving this to me? Truly?"
+> "How can I serve a man who would do such a thing? How can I call him father?"
 
-> "Thank you. I feel it — a connection. As though the hawk knows me. As though it has been waiting for me."
+> "I don't know what to do. I don't know who I am anymore."
 
-> "Perhaps... perhaps I am not without purpose after all."
+[Context: Nepheli discovers that Gideon may have been involved in the destruction of the Village of the Albinaurics. This shatters her faith in him and sends her into a crisis of identity. She can be found sitting despondently in the Roundtable Hold, near the fireplace.]
 
-[Context: The Stormhawk King ashes can be found at the Chapel of Anticipation (the starting area, revisited). Giving them to Nepheli restores her spirit and begins her path to becoming ruler of Stormveil/Limgrave.]
+### In Despair
 
----
+> "What is a warrior without a cause? Without purpose?"
 
-## Nepheli — Becoming Ruler of Limgrave
+> "I came to the Roundtable Hold to serve. To fight for something greater than myself. But now..."
 
-### Stormveil Throne Room
-
-> "The throne of Stormveil. Once the seat of the ancient storm lords. Before Godrick claimed it."
-
-> "Kenneth Haight says it is my birthright. That I am of the old blood — the blood of Godfrey. The first Elden Lord."
-
-> "Godfrey... Hoarah Loux. The warrior chieftain who became a lord. And Loux is my name."
-
-> "I am Nepheli Loux. Daughter of the warrior blood. And this throne... is mine."
-
-[Context: If both Nepheli and Kenneth Haight's questlines are completed, and Gostoc's questline has progressed, Nepheli claims the throne of Stormveil Castle. She becomes the ruler of Limgrave, restoring it from Godrick's corruption.]
-
-### As Ruler
-
-> "I will rule as the storm lords did. With strength. With honor. Without cruelty."
-
-> "The people of Limgrave have suffered under Godrick's tyranny. I will give them something better."
-
-> "Thank you. For everything. For the Stormhawk. For believing in me when I could not believe in myself."
+> "Now I don't know what to fight for."
 
 ---
 
-## Kenneth Haight — Related Dialogue (On Nepheli)
+## The Seluvis Potion — Branching Paths
 
-> "Nepheli Loux! Of course! The blood of Godfrey flows in her veins!"
+### If Given Seluvis's Potion
 
-> "She is the rightful ruler of Limgrave. I, Kenneth Haight, will serve as her steward. As my family has served the true rulers for generations."
+> "A potion? To grant me strength? ...Very well. I could use any advantage right now."
 
-> "At last, a worthy lord for Stormveil. One who rules by right, not by graft."
+> "..."
 
-[Context: Kenneth Haight recognizes Nepheli's heritage and swears fealty to her. His questline converges with hers at this point.]
+[Context: If the player gives Nepheli Seluvis's potion, she drinks it and is turned into a puppet. She becomes catatonic, then disappears. Her storyline effectively ends here. This is widely considered the cruelest outcome.]
+
+### If the Player Warns Her (via Gideon)
+
+[Context: If the player tells Gideon about the potion, Nepheli is never given it and her questline can continue.]
 
 ---
 
-## Notes on Nepheli Loux's Lore Significance
+## Becoming Ruler of Limgrave
 
-- Nepheli is a descendant of Godfrey/Hoarah Loux, the first Elden Lord. Her surname directly connects her to the Loux warrior lineage.
-- Godfrey was the mightiest warrior of his age before becoming Elden Lord. When Marika stripped him of grace, he reverted to his true name — Hoarah Loux — and led the Tarnished into exile.
-- Nepheli's arc mirrors Godfrey's: she starts as someone else's tool (Gideon's weapon), loses her purpose, and then reclaims her true identity as a warrior-ruler.
-- The Stormhawk King connects her to the ancient storm lords who ruled Stormveil before the demigods — a lineage even older than the Golden Order.
-- Gideon adopted Nepheli likely because he recognized her bloodline's value. He raised her as a weapon, not a daughter.
-- If the player gives Nepheli Seluvis's potion instead of the Stormhawk King ashes, she becomes a puppet — one of the game's cruelest possible outcomes.
-- Her ascension to the throne of Stormveil is one of the few unambiguously positive outcomes in the game.
+### Receiving the Stormhawk King
+
+[Context: The player must give Nepheli the Stormhawk King ashes, found in the Chapel of Anticipation. This is the key item that restores her sense of purpose.]
+
+> "This... a Stormhawk King? The sigil of the ancient lords of Stormveil?"
+
+> "You're giving this to me? But why?"
+
+> "...I understand. You believe I can lead. That I can be more than a warrior."
+
+> "Thank you. This means more than you know."
+
+### After Kenneth Haight's Proclamation
+
+> "Kenneth Haight has declared me ruler of Limgrave. Ruler of Stormveil Castle."
+
+> "Me. Nepheli Loux. A warrior with no name, no birthright. And yet..."
+
+> "I am Nepheli Loux. Warrior. And now... a leader."
+
+> "I will protect this land. Its people. The strong and the weak alike. No more grafting. No more tyranny."
+
+> "This is my purpose. This is what I was meant to do."
+
+[Context: After receiving the Stormhawk King and progressing Kenneth Haight's quest, Nepheli is installed as the ruler of Limgrave, sitting on Godrick's former throne in Stormveil Castle. Kenneth Haight kneels before her. This is the triumphant conclusion to her arc — the lost warrior finds her purpose as a just ruler.]
+
+### On the Throne
+
+> "I never sought a throne. But I will not shirk from this duty."
+
+> "Limgrave has suffered. Under Godrick's cruelty, under the chaos of the Shattering. Its people deserve better."
+
+> "I will be that better."
+
+---
+
+## Nepheli — On Her Name
+
+> "Loux. My name. Gideon gave it to me."
+
+> "Hoarah Loux. The first Elden Lord. They say the name carries the spirit of a warrior."
+
+> "I wonder sometimes... was Gideon naming me for greatness? Or was he marking me as his weapon?"
+
+[Context: The name Loux connects Nepheli to Hoarah Loux, the first Tarnished to become Elden Lord. This may suggest she is a distant descendant, or simply that Gideon named her aspirationally. Her fighting style with paired axes mirrors Hoarah Loux's savage combat approach.]
+
+---
+
+## Notes on Nepheli's Lore Significance
+
+- Nepheli's arc is one of the game's clearest redemption/empowerment stories: she moves from warrior to lost soul to legitimate ruler.
+- Her connection to the name Loux hints at a deeper bloodline connection to the first Elden Lord, Hoarah Loux/Godfrey.
+- The Village of the Albinaurics revelation forces her to confront the moral bankruptcy of her adoptive father and the Roundtable Hold's leadership.
+- The Stormhawk King is a symbol of legitimate rulership over Limgrave — by giving it to Nepheli, the player endorses her claim.
+- Her questline intersects with Seluvis's, Kenneth Haight's, and Gideon's, making her a nexus point for multiple storylines.
+- Her installation as ruler of Limgrave is one of the few unambiguously positive quest outcomes in the game.
+- The choice to give her Seluvis's potion versus protecting her is one of the game's most impactful moral decisions.

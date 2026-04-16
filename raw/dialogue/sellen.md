@@ -1,159 +1,169 @@
-# Sorceress Sellen — Complete Dialogue
+# Sellen — Complete Dialogue
 
-## Waypoint Ruins — Limgrave (Initial Meeting)
+## Waypoint Ruins — Sorcery Teacher
 
-> "Ahh, a visitor. I am Sellen. A sorcerer, in hiding."
+> "A Tarnished, are you? I am Sellen. A sorcerer, once of the Academy of Raya Lucaria."
 
-> "I was once a scholar of Raya Lucaria. A preceptor of the academy. But I was expelled. Branded a graven witch. Cast out for my pursuit of the primeval current."
+> "I was expelled. Denounced as a graven witch. But my research continues."
 
-> "Now I teach those who would learn. The arts of glintstone sorcery. Would you be my pupil?"
+> "If you seek to study glintstone sorcery, I can teach you. I have not forgotten the fundamentals, even if the Academy has cast me out."
 
-[Context: Sellen is found in a hidden cellar beneath the Waypoint Ruins in Limgrave. She has been expelled from Raya Lucaria for studying the primeval current — a forbidden school of sorcery that predates the academy's founding.]
+[Context: Sellen is found in the cellar of the Waypoint Ruins in Limgrave, behind a Mad Pumpkin Head boss. She serves as a sorcery teacher, selling spells and accepting scrolls.]
 
-### On the Primeval Current
+### On Her Expulsion
 
-> "The primeval current. The original source of all glintstone sorcery. Before the academy. Before the Carian royalty. Before any of it."
+> "The Academy exiled me for my research into primeval sorcery. They called it heresy. Dangerous. A corruption of the glintstone arts."
 
-> "The stars are the source of all magic. The primeval sorcerers understood this. They sought to commune with the stars directly. To channel their power without the intermediary of the academy's rigid teachings."
+> "Primeval sorcery... the original form of glintstone magic, before the Academy codified and constrained it. The study of the cosmos itself. Of the stars, and what lies beyond them."
 
-> "Azur and Lusat. The two greatest primeval sorcerers. Masters of the current. They were branded heretics by the academy. Their works were forbidden. Their names, struck from the records."
+> "The Academy fears what it cannot control. And primeval sorcery is beyond anyone's control."
 
-> "But their discoveries were magnificent. They touched the power of the cosmos itself."
+### On Accepting Scrolls
 
-### On Raya Lucaria
+> "A sorcery scroll? Let me see... Ah, yes. This contains valuable knowledge. I shall study it at once."
 
-> "The academy has grown stagnant. They cling to their traditions, their rigid curricula. They have forgotten the wonder that drove their founders."
+> "These scrolls preserve teachings the Academy would rather see forgotten. Thank you for bringing this to me."
 
-> "The Carian royals — Rennala's line — once guided the academy toward greatness. But Rennala has fallen to madness, and the academy is sealed. Locked in its own dogma."
+[Context: The player can give Sellen various sorcery scrolls found throughout the world, which unlocks additional spells for purchase.]
 
----
+### On Primeval Sorcery
 
-## Sellen's Secret — The Primal Glintstone
+> "Primeval sorcery predates the Academy. It predates the Erdtree, even. It is the study of the cosmos in its purest form."
 
-> "I must confess something to you. This body... is not truly mine."
+> "The primeval current. A stream of power that flows from the stars themselves. To tap into it is to touch the fabric of reality."
 
-> "My real body is elsewhere. Hidden. What you see before you is a projection — my consciousness, housed in a primal glintstone."
+> "Master Azur and Master Lusat — they were the last true practitioners. The greatest sorcerers since the founding of the Academy. And they were cast out, just as I was."
 
-> "The primal glintstone is the soul of a sorcerer, crystallized. It is the truest form of a sorcerer's being. Through it, I can project myself here."
-
-> "If this body is destroyed, I will persist. So long as the primal glintstone endures."
-
-[Context: Sellen reveals that the body the player has been interacting with is a projection. Her true body is imprisoned elsewhere — chained in the Witchbane Ruins on the Weeping Peninsula.]
-
-### On Her True Body
-
-> "My true body is shackled. Chained in a ruin, by order of the academy. The Witchbane Ruins, on the Weeping Peninsula."
-
-> "They could not destroy my primal glintstone, so they imprisoned my body instead. A cage for a consciousness they could not kill."
-
-> "If you could free me... transfer my primal glintstone to a new vessel... I could act directly once more."
+> "I seek them. If they yet live, I must find them. Their knowledge must not be lost."
 
 ---
 
-## Finding Master Azur and Master Lusat
+## Sellen's Request — Finding the Masters
 
-### After Finding Azur (Mt. Gelmir)
+### The Task
 
-> "You found Master Azur? He lives? Or rather... he persists?"
+> "I must ask something of you, Tarnished. A matter of great importance."
 
-> "Azur was consumed by the primeval current. His body was transformed. Crystallized. He became one with the stars he sought to understand."
+> "Master Azur and Master Lusat. The two greatest primeval sorcerers. They were exiled from the Academy long ago, and I have lost track of them."
 
-> "His comet — Comet Azur — is the most powerful sorcery ever conceived. A fragment of a star, channeled through a sorcerer's will."
+> "Azur retreated to Mt. Gelmir, I believe. And Lusat... he was imprisoned. Sealed away somewhere in Sellia, in Caelid."
 
-> "Take what he offers. His knowledge is a gift beyond measure."
+> "Find them. Speak to them, if you can. And bring me word of their condition."
 
-### After Finding Lusat (Sellia Hideaway)
-
-> "Master Lusat, too? Both of them... still existing in some form."
-
-> "Lusat's Stars of Ruin — a cascade of stellar fragments. He could command the very heavens."
-
-> "But look at what the current did to them. Their bodies are more crystal than flesh. They sacrificed everything for knowledge."
-
-> "And I would do the same."
+[Context: Sellen tasks the player with finding the two legendary sorcerers, Azur and Lusat, both of whom pioneered primeval sorcery.]
 
 ---
 
-## Sellen — The Plan to Reclaim Raya Lucaria
+## On Master Azur (After Finding Him)
 
-> "With Azur's knowledge and Lusat's power, I believe we can challenge the academy. Reclaim Raya Lucaria from its stagnation."
+> "You found Azur? On Mt. Gelmir... tell me, what state was he in?"
 
-> "The primeval current must be restored. The academy must remember what it was meant to be — a place of discovery, not dogma."
+> "...Crystallized? His body turned to glintstone? Then the primeval current consumed him at last."
 
-> "Will you help me? I need you to transplant my primal glintstone. Move it to a new body — a puppet, perhaps. One that can act."
+> "He gave you his sorcery — Comet Azur? Then his legacy lives on, even if his body is lost."
 
-> "And then, together, we will march on Raya Lucaria."
+> "Azur and Lusat both poured themselves into the primeval current, body and soul. It was only a matter of time before the current claimed them entirely."
 
-[Context: Sellen's plan requires the player to transfer her primal glintstone from her chained body to a puppet body (which can be obtained from Seluvis's hidden puppet room).]
+[Context: Master Azur is found on Mt. Gelmir, his body partially crystallized into glintstone. He is barely alive — or perhaps no longer alive at all, merely a vessel for the primeval current. He teaches the player Comet Azur, one of the most powerful sorceries in the game.]
 
 ---
 
-## Raya Lucaria — The Coup
+## On Master Lusat (After Finding Him)
 
-### Before Confronting Jerren
+> "Lusat as well? Crystallized, sealed away in Sellia?"
 
-> "This is it. The academy. Once my home. Now my enemy."
+> "They imprisoned him there. The Academy, or what was left of it. Sealed him behind a barrier, left him to rot."
 
-> "Witch-Hunter Jerren guards this place. He was the one who tracked me down. Who had me branded and expelled."
+> "And yet the primeval current sustained him. Even in that state, his power endures."
 
-> "He will not yield willingly. But I am done hiding."
+> "Stars of Ruin... that was his masterwork. A sorcery that channels the destructive power of falling stars."
 
-[Context: Witch-Hunter Jerren is an NPC who imprisoned Sellen. At the end of the quest, the player must choose to side with Sellen or Jerren in a confrontation at the Grand Library.]
+[Context: Master Lusat is found sealed behind a barrier in the Sellia Hideaway in Caelid. Like Azur, his body has crystallized. He teaches Stars of Ruin. The player needs the Sellian Sealbreaker, obtained from Sellen, to reach him.]
 
-### If the Player Sides with Sellen
+---
 
-> "Thank you. With Jerren dealt with, the academy is mine."
+## Sellen's True Body — The Witchbane Ruins
 
-> "I will restore the primeval current. Make Raya Lucaria what it was always meant to be."
+> "You've found me. My true body."
 
-> "This is a new beginning. For sorcery. For knowledge. For all of us."
+> "This husk you see before you in the Waypoint Ruins — it is a projection. My real body is imprisoned here, in the Witchbane Ruins. Chained. Suppressed."
+
+> "The Witch-Hunter Jerren saw to that. He hunted me down and bound me here."
+
+> "If you would help me... I need my spirit transferred. To another body. A primal glintstone — it can carry my essence."
+
+[Context: Sellen's true body is found shackled in the Witchbane Ruins in the Weeping Peninsula. The "Sellen" at Waypoint Ruins is a projection. To advance her quest, the player must use a Primal Glintstone to transplant her spirit into a new body, found in the Three Sisters area.]
+
+---
+
+## Raya Lucaria — The Confrontation
+
+### Before the Assault
+
+> "The time has come. I will return to the Academy. Not as a supplicant — as a conqueror."
+
+> "The Academy has stagnated. Bound by dogma, terrified of the primeval current. I will tear down their walls and rebuild. A new Academy, dedicated to the pursuit of true sorcery."
+
+> "Jerren will try to stop me. The witch-hunter. He has sworn to see me destroyed."
+
+> "But I have the primeval current on my side. And I have you."
+
+[Context: Sellen plans to storm the Academy and overthrow its current leadership. The player must choose to side with Sellen or with Jerren.]
+
+### If the Player Sides with Sellen (Defeating Jerren)
+
+> "It is done. Jerren is no more."
+
+> "The Academy is mine. And with it, a new era of sorcery begins. The primeval current will flow freely once more."
+
+> "Thank you, Tarnished. You have given me — given sorcery — a future."
+
+[Context: If the player chooses Sellen, they fight and defeat Witch-Hunter Jerren.]
 
 ### If the Player Sides with Jerren
 
-> (Sellen does not have dialogue in this path — she is killed.)
+> "You... you would side with him? After everything?"
 
-[Context: If the player sides with Jerren, Sellen is destroyed. Jerren thanks the player for stopping a dangerous heretic.]
+> "Then so be it. I will not go quietly."
 
----
-
-## Sellen's Transformation — The Graven Mass
-
-> (If the player sides with Sellen and returns to the Grand Library later, they find that Sellen has transformed. She has become a School of Graven Mages — a massive, hideous sphere of tangled sorcerer bodies, fused together.)
-
-> "... ... ..."
-
-> (A faint, distorted voice, barely recognizable:) "... help... me..."
-
-[Context: Sellen's ambition consumed her. By channeling the primeval current too deeply, she became a Graven Mass — the same type of horrific amalgamation of sorcerer bodies found throughout the game. These masses are the result of sorcerers who pursued the primeval current too far, losing their individuality and fusing into a collective of crystallized bodies. Sellen's fate proves that the academy's prohibition was not mere dogma but a genuine warning.]
+[Context: If the player sides with Jerren, they fight and defeat Sellen.]
 
 ---
 
-## Witch-Hunter Jerren — Related Dialogue
+## Sellen — The Transformation
 
-### At Redmane Castle (Festival)
+> "The primeval current... I can feel it... flowing through me..."
 
-> "I am Jerren. A witch-hunter. I serve the academy. But today, I serve the Festival."
+> "This is... this is what Azur and Lusat experienced. The current... it is overwhelming..."
 
-> "Radahn was a student of gravity sorcery. One of the finest minds I ever knew. To see him reduced to this... it breaks my heart."
+[Context: After her victory, Sellen attempts to fully channel the primeval current. But the same fate that befell Azur and Lusat claims her.]
 
-> "The festival is his honor. A warrior's sendoff."
+### The Graven Mass
 
-### At Raya Lucaria (Confrontation)
+[Context: Returning to the Academy after Sellen's triumph, the player finds that Sellen has been transformed into a School of Graven Mages — a massive, writhing ball of faces and bodies fused together from glintstone. She has been consumed by the primeval current, just as Azur and Lusat were. The graven mass can still be spoken to, and it weeps. Sellen's ambition to master the primeval current led to the same fate she witnessed in her masters — she became a living monument to the limits of mortal sorcery.]
 
-> "Sellen. The graven witch. She seeks to unleash the primeval current upon the academy. Upon the world."
+---
 
-> "You do not understand what the primeval current does. It consumes. It transforms. It destroys individuality. The graven masses — those horrible clusters of bodies — that is what the current produces."
+## Witch-Hunter Jerren — On Sellen
 
-> "She must be stopped. For the sake of every sorcerer who ever lived."
+> "Sellen. The Graven Witch. She was once the pride of the Academy. Brilliant beyond measure."
+
+> "But her research into primeval sorcery went too far. She began experimenting on other sorcerers. Using their bodies. Fusing them together."
+
+> "The graven schools — those masses of tangled bodies — those were her creations. Her experiments."
+
+> "She is dangerous. She must be stopped."
+
+[Context: Jerren provides the opposing perspective on Sellen. Her "research" involved human experimentation, creating the Graven School talismans — masses of sorcerers fused together. This reframes her quest: she is not simply a misunderstood scholar, but someone whose pursuit of knowledge led to genuine atrocities.]
 
 ---
 
 ## Notes on Sellen's Lore Significance
 
-- The primeval current is the original form of glintstone sorcery — a direct communion with the stars. It is powerful but dangerous, as it can consume the sorcerer, transforming them into a Graven Mass.
-- The Graven Masses found throughout the game (the School of Graven Mages) are all sorcerers who were consumed by the primeval current. Sellen's transformation reveals the true horror of these objects.
-- Azur and Lusat are the legendary founders of primeval sorcery. Both have been transformed — crystallized — by their exposure to the current. They are alive but barely conscious, existing as conduits for stellar power.
-- Sellen's quest is a tragedy of hubris: she sought forbidden knowledge believing she was strong enough to control it, and she was wrong. The academy's prohibition was justified.
-- Jerren is not a simple villain — he was trying to prevent exactly what happened. His role as witch-hunter was to stop sorcerers from destroying themselves and others.
-- The primeval current's connection to the stars ties into Ranni's questline: Ranni's Age of Stars ending removes the influence of the Outer Gods and returns the stars to their natural orbits. The primeval sorcerers sought to channel this same stellar power.
-- Sellen's primal glintstone mechanic mirrors the concept of souls in the FromSoft universe — consciousness separated from body, persisting through crystal or other vessels.
+- Sellen represents the archetype of the scholar who goes too far. Her quest for primeval sorcery — while genuinely groundbreaking — is built on a foundation of human experimentation.
+- The Graven School and Graven Mass talismans (balls of fused sorcerer bodies) are revealed to be her creations, reframing her character.
+- Primeval sorcery predates the Erdtree and the Golden Order. It connects to the cosmic/stellar powers that the Greater Will supplanted.
+- Sellen's transformation into a graven mass mirrors the fates of Azur and Lusat — the primeval current consumes those who channel it too deeply.
+- Her quest forces a moral choice: support a brilliant but dangerous sorcerer, or a witch-hunter who serves the status quo.
+- Regardless of the player's choice, Sellen's fate is tragic — consumed by the very power she sought to master.
+- The School of Graven Mages weeping after her transformation is one of the game's most haunting images.

@@ -1,146 +1,134 @@
-# Seluvis and Pidia — Complete Dialogue
+# Seluvis — Complete Dialogue
 
-## Seluvis's Rise — Initial Meeting
+## Seluvis's Rise — Introduction
 
-> "Oh? Who are you? One of Ranni's new lackeys, no doubt."
+> "Ah. You're the new addition to Ranni's little band, are you? Hmph. I am Seluvis. A preeminent sorcerer."
 
-> "I am Preceptor Seluvis. A sorcerer of exceptional talent. I serve Lady Ranni... in my own fashion."
+> "Do not expect warmth from me. I care nothing for you. You are a tool, and tools need not be coddled."
 
-> "If you need sorceries, I can teach you. For a price. My knowledge does not come cheap."
+> "Now then, I have a task for you, since Ranni has seen fit to burden me with your presence."
 
-[Context: Seluvis is found at Seluvis's Rise, one of the Three Sisters towers in Liurnia. He is arrogant, condescending, and clearly not to be trusted. He serves Ranni but has his own agenda.]
+[Context: Seluvis is found at Seluvis's Rise, one of the Three Sisters towers in northwest Liurnia. He is arrogant, dismissive, and immediately treats the player as a subordinate.]
 
 ---
 
-## The Scheme — Seluvis's Potion
+## The Potion — Seluvis's Scheme Against Nepheli
 
-### Offering the Potion
+> "I've prepared a potion. A special concoction. I need you to administer it to someone."
 
-> "I have a task for you. A secret task. One that Lady Ranni must never know of."
+> "Nepheli Loux. Gideon's ward. She lurks about the Roundtable Hold. Give her this potion. Tell her it will grant her strength."
 
-> "Take this potion. And give it to Nepheli Loux. The girl at the Roundtable Hold."
+> "What does the potion do, you ask? It will render her... pliable. Obedient. A puppet, in all but name."
 
-> "Tell her it will grant her strength. She'll believe you. She's naive enough."
+> "She is a fierce warrior. Imagine — all that strength, directed by a superior intellect. MY intellect."
 
-> "What does the potion do? That is none of your concern. Simply deliver it."
+[Context: Seluvis gives the player Seluvis's Potion, intended to turn Nepheli Loux into one of his puppets. The player has several choices: give it to Nepheli, give it to Gideon, give it to the Dung Eater, or simply refuse.]
 
-[Context: Seluvis gives the player a potion to administer to Nepheli Loux. The potion is designed to turn her into a puppet — a mindless, obedient doll under Seluvis's control.]
+### If the Player Hesitates
 
-### If the Player Questions the Potion
+> "What? You have qualms? How tedious."
 
-> "Questions? From a lackey? How droll."
+> "She is wasted as she is. A weapon without a wielder. I will give her purpose."
 
-> "The potion will... grant her a new purpose. A higher purpose. One that serves my needs."
-
-> "She will become a puppet. MY puppet. A vessel of exceptional quality."
-
-> "Now do as you're told. Or I'll find someone more compliant."
-
-### If the Player Gives the Potion to Ranni Instead
-
-> (Seluvis's quest can be ended by giving the potion to Ranni, who sees through the scheme.)
-
-> "You... you gave it to Ranni? You imbecile! You absolute fool!"
-
-> "Do you have any idea what you've done? She'll destroy me!"
-
-[Context: Giving the potion to Ranni causes her to become aware of Seluvis's treachery. This effectively ends his questline.]
-
-### If the Player Gives the Potion to Gideon Instead
-
-> "Gideon? The All-Knowing took the potion? Well... perhaps that's not the worst outcome."
-
-> "Gideon may find a use for it. And I can always make more."
-
-[Context: The player can give the potion to Gideon Ofnir, who takes it for study. Gideon is intrigued by the puppet-making process.]
+> "Now go. Do as you're told."
 
 ### If the Player Gives the Potion to Nepheli
 
-> "Excellent. You've done it? Good. Now she will serve me. A puppet of exceptional quality."
+> "Excellent! She drank it? Wonderful, wonderful."
 
-> "Nepheli Loux. Daughter of Godfrey's line, if the rumors are true. Imagine — a puppet with the blood of the first Elden Lord."
+> "Soon she will be mine. Another puppet for my collection."
 
-[Context: If the player administers the potion to Nepheli, she is turned into a puppet. This locks her out of her own questline and prevents the Stormveil Throne ending for her.]
+[Context: Nepheli is turned into a puppet if she drinks the potion. This locks her out of her questline and her potential to become ruler of Limgrave.]
 
----
+### If the Player Tells Gideon About the Potion
 
-## Seluvis's Secret — The Puppet Room
+> "You... you told Gideon? You fool! Do you know what you've done?!"
 
-> (Below Seluvis's Rise, in a hidden underground chamber, the player can find Seluvis's puppet collection — rows of people turned into mindless dolls, posed in display cases.)
+> "Gideon will destroy me for this. He's a vindictive man. I... I must prepare."
 
-> "So you found my collection. Impressive, isn't it?"
+[Context: Gideon confiscates the potion and is furious about the plot against his ward. However, Seluvis faces no immediate consequences from this path.]
 
-> "Each one was once a person. A sorcerer, a knight, a maiden. Now they are mine. Perfect. Obedient. Beautiful."
+### If the Player Gives the Potion to the Dung Eater
 
-> "I can offer you one, if you like. For a price. They make excellent spirit summons."
+> "What? You gave it to... that wretch in the gaol? That was NOT what I instructed!"
 
-[Context: The puppet room reveals the full horror of Seluvis's scheme. He has been turning people into puppets for years. Among them is the puppet of a former Finger Maiden.]
+> "...Although. Hmm. The Dung Eater, you say? A fearsome specimen, in his own repulsive way."
 
-### On the Puppets
+> "Very well. An acceptable substitute, I suppose. I now have a most unusual puppet."
 
-> "The art of puppet-making is a delicate one. The subject must be alive when the process begins. Their will is... extracted. Replaced with absolute obedience."
-
-> "It is a kindness, really. No more suffering. No more doubt. Only purpose."
-
-> "I have perfected the art. My puppets are the finest in the Lands Between."
+[Context: The Dung Eater can be given the potion while he is imprisoned, turning him into one of Seluvis's puppets. This is considered by many to be the most fitting use of the potion.]
 
 ---
 
-## Seluvis's Amber Draught — The Scheme Against Ranni
+## Seluvis's Puppet Collection
 
-> "I have an even greater scheme in mind. One that requires your... discretion."
+> "Would you like to see my collection? Hmm? My puppets?"
 
-> "I have prepared a special draught. An amber draught. If administered to the right person, it could turn even a demigod into a puppet."
+> "Each one was once a person. A living, breathing individual. Now they serve me. Perfectly. Without complaint."
 
-> "Imagine: Lady Ranni herself, reduced to a puppet. Under my control. An Empyrean, obedient to my will."
+> "This is the pinnacle of sorcery, you see. Not merely commanding the elements, but commanding people."
 
-> "I need you to find a way to administer this draught to Ranni. Slip it into her drink. Add it to her food. I don't care how."
+[Context: Seluvis has a secret puppet chamber beneath his rise, accessed through a hidden passage. It contains several puppet bodies, including potentially Nepheli or the Dung Eater.]
 
-[Context: Seluvis's ultimate ambition: to turn Ranni into his puppet. This reveals him as a complete sociopath, willing to enslave his own master.]
+### Purchasing Puppets
 
-### If the Player Refuses or Reports to Ranni
+> "I can provide you with puppets for your own use. Spirit ashes, derived from my collection. For a price, of course."
 
-> (This path leads to Seluvis's destruction. Ranni does not tolerate betrayal.)
+> "Dolores the Sleeping Arrow, perhaps? Or Finger Maiden Therolina? Each has their uses."
 
----
-
-## Pidia, Carian Servant — The Puppet Master's Master
-
-> "Please... help me. The puppets... they've turned on me."
-
-> "I am Pidia. A servant of the Carian royal family. I tend to the manor."
-
-> "The puppets... Seluvis's puppets... they've come for me. They know. They know what I've done."
-
-[Context: Pidia is found in a hidden area of Carian Manor. He is the one who actually created the puppets — or at least supplied the means. When Seluvis dies (which happens automatically when Ranni's quest progresses far enough), the puppets turn on Pidia and kill him.]
-
-### Pidia's Death
-
-> "No... no, please... I served the family... I was loyal..."
-
-> (The puppets swarm and kill Pidia. He drops the Carian Filigreed Crest and other items.)
-
-[Context: Pidia's death implies that he was complicit in Seluvis's puppet-making — or perhaps that Seluvis himself was one of Pidia's creations. The lore is ambiguous: some interpretations suggest Seluvis was actually Pidia's puppet, or that Pidia was the true mastermind.]
+[Context: Seluvis sells puppet spirit ashes to the player. The fact that some of these are identifiable individuals with names and histories makes the transaction disturbing.]
 
 ---
 
-## Seluvis's Death
+## The Amber Draught — Scheme Against Ranni
 
-> (Seluvis is found dead in his tower after Ranni's quest progresses past a certain point. His body is slumped over, lifeless. No dialogue.)
+> "I have a proposition. A secret between us. Ranni must not know."
 
-[Context: Seluvis dies without fanfare. When the player finds him, he has simply died. The implication is that Ranni, having discovered his schemes (either through the player's report or through her own means), killed him. Alternatively, his death may be connected to Pidia's death — if Seluvis was Pidia's puppet, he would die when Pidia died.]
+> "I've prepared an amber draught. A potion of immense power. If administered to Ranni... it would bring her under my control."
+
+> "Think of it! Ranni the Witch — an Empyrean! — under MY command! I would be the true power behind everything!"
+
+> "All you need to do is slip it into her drink. She trusts you. She won't suspect a thing."
+
+[Context: This is Seluvis's ultimate scheme — to turn Ranni herself into his puppet. This dialogue only triggers after the player has demonstrated willingness to use his puppets.]
+
+### If the Player Attempts to Give Ranni the Potion
+
+[Context: If the player actually tries to give the amber draught to Ranni, she sees through the deception immediately and is furious. She does not drink it. Seluvis's plan fails catastrophically.]
 
 ---
 
-## Notes on Seluvis/Pidia Lore Significance
+## Seluvis — Death
 
-- Seluvis's puppet-making is one of the game's darkest subplots. Living people are turned into mindless dolls, their will extracted.
-- The relationship between Seluvis and Pidia is deliberately ambiguous. Three interpretations exist:
-  1. Seluvis was the master and Pidia the servant.
-  2. Pidia was the true puppeteer and Seluvis was one of his puppets (note: Seluvis's body, when found dead, looks like a puppet).
-  3. They were collaborators, with Pidia providing the puppet-making technique and Seluvis supplying the subjects.
-- If interpretation #2 is correct, then Seluvis's arrogance and cruelty were programmed by Pidia — the "puppet" was itself a performance.
-- Seluvis's amber draught for Ranni connects to the broader theme of Empyreans being coveted as tools by lesser beings (Mohg kidnapping Miquella, the Two Fingers trying to control Ranni).
-- The puppet of a Finger Maiden found in his collection raises disturbing questions about the fate of maidens in the Lands Between.
-- Seluvis sells powerful sorceries, making him mechanically useful despite being morally abhorrent — a classic FromSoft design choice.
-- His puppet spirit summons include Dolores the Sleeping Arrow and Jarwight — people reduced to tools, just as Seluvis views everyone around him.
+[Context: Seluvis is eventually found dead in his tower. The exact circumstances depend on quest progression, but he dies as Ranni's quest advances. His body slumps over, lifeless. Given the revelation about Pidia, it becomes clear that Seluvis may have been a puppet himself all along.]
+
+---
+
+## The Pidia Connection
+
+[Context: Pidia, Carian Servant, is found in Carian Manor. He is a seemingly minor NPC who sells items. However, after Seluvis's death, Pidia is attacked and killed by his own puppets in a hidden alcove of the manor. The implication is staggering: Pidia was the true puppet master, and Seluvis himself was one of Pidia's puppets. The puppet-maker was himself a puppet. Pidia's hidden chamber contains evidence linking him to Seluvis's puppet operation. The puppets turning on Pidia suggests the magic binding them finally broke — or that someone intervened.]
+
+### Pidia — Before Death
+
+> "Welcome, welcome. I am Pidia, a humble servant of the Carian royals."
+
+> "I have a few wares for sale, if you're interested. Nothing too special, mind you."
+
+[Context: Pidia presents himself as a harmless merchant. His humble demeanor conceals his true nature.]
+
+### Pidia — Death Scene
+
+> "No! Stay away! My puppets! What are you— AAARGH!"
+
+[Context: Pidia is killed by his own puppets. The cycle of control comes full circle.]
+
+---
+
+## Notes on Seluvis's Lore Significance
+
+- Seluvis is one of the game's most overtly villainous NPCs. His puppet-making involves turning living people into mindless thralls — a form of enslavement.
+- The reveal that Seluvis may himself be Pidia's puppet adds a layer of dark irony. The manipulator was being manipulated.
+- His scheme against Ranni shows the limits of his ambition — and his stupidity. Attempting to control an Empyrean who has already outwitted the Two Fingers is hubris of the highest order.
+- The player's choice regarding the potion is one of the game's key moral decisions. Giving it to Nepheli destroys her future. Giving it to the Dung Eater is seen as poetic justice. Refusing or telling Gideon preserves Nepheli's questline.
+- Seluvis's puppet spirit ashes being usable by the player creates an uncomfortable complicity — you are benefiting from his atrocities.
+- His presence in Ranni's service highlights that even righteous causes attract opportunists and predators.
