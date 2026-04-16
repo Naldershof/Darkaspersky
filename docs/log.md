@@ -8,6 +8,26 @@ Chronological record of ingests, queries, and maintenance passes.
 
 ---
 
+## 2026-04-16 — Investigations: The Four Biggest Unsolved Questions
+
+**Scope:** Identified 130+ unresolved mysteries across the wiki, selected the top 4 by cross-cutting significance, and launched deep investigations.
+
+**Created:**
+- `docs/investigations/` — New section for deep-dive research
+- `docs/investigations/index.md` — Investigations hub page
+- `docs/investigations/night-of-black-knives-coordination.md` — Did Marika and Ranni coordinate?
+- `docs/investigations/omen-hornsent-crucible.md` — Are the Omen descended from the Hornsent?
+- `docs/investigations/placidusax-fled-god.md` — What was the pre-Erdtree age?
+- `docs/investigations/erdtree-greattree-identity.md` — Is the Erdtree a parasite on the Greattree?
+
+**Verdicts:**
+1. **Night of the Black Knives:** Marika and Ranni were co-conspirators — the Black Knife assassins were Marika's Numen people, stealing Destined Death from her own beast required inside access, and the timing (exile → assassination → Shattering) is too precise for coincidence
+2. **Omen-Hornsent-Crucible:** The Omen are the Crucible/Hornsent heritage resurfacing in Marika's bloodline — she persecutes them because they are living evidence of the civilization she destroyed
+3. **Placidusax's god:** The Greater Will displaced a prior cosmic order by force — Placidusax's god didn't leave voluntarily but was driven out when the Elden Beast arrived
+4. **Erdtree vs Greattree:** The Erdtree IS the Greattree, colonized by the Greater Will — the golden sheen is the parasite, not the tree
+
+---
+
 ## 2026-04-16 — Investigation: The Gloam-Eyed Queen
 
 **Scope:** Deep investigation into the Gloam-Eyed Queen, one of the game's most mysterious figures.

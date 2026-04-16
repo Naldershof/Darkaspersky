@@ -112,6 +112,20 @@ The hidden history that recontextualizes everything.
 
 ---
 
+## Investigations
+
+Deep dives into the biggest unsolved questions — cross-referencing all evidence to propose definitive answers.
+
+| Investigation | Verdict |
+|---------------|---------|
+| [The Night of the Black Knives](investigations/night-of-black-knives-coordination.md) | Marika and Ranni were co-conspirators with aligned but different goals |
+| [The Omen-Hornsent-Crucible Connection](investigations/omen-hornsent-crucible.md) | The Omen carry the Crucible/Hornsent heritage Marika tried to erase |
+| [Placidusax's Fled God](investigations/placidusax-fled-god.md) | The Greater Will displaced a prior cosmic order by force |
+| [The Erdtree vs the Greattree](investigations/erdtree-greattree-identity.md) | The Erdtree is the Greattree colonized and repurposed by the Greater Will |
+| [The Gloam-Eyed Queen](lore-concepts/the-gloam-eyed-queen.md) | Near-conclusive evidence linking her to Melina |
+
+---
+
 ## Lore Threads
 
 Thematic threads connecting pages across all categories. See the full [Lore Threads](tags.md) page, or follow a thread:

@@ -121,5 +121,11 @@ nav:
       - "Miquella's Journey": dlc/miquella-journey.md
       - The Hornsent: dlc/the-hornsent.md
       - Leda: dlc/leda.md
+  - Investigations:
+      - investigations/index.md
+      - "Night of the Black Knives": investigations/night-of-black-knives-coordination.md
+      - "Omen-Hornsent-Crucible": investigations/omen-hornsent-crucible.md
+      - "Placidusax's Fled God": investigations/placidusax-fled-god.md
+      - "Erdtree vs Greattree": investigations/erdtree-greattree-identity.md
   - Lore Threads: tags.md
   - Log: log.md
