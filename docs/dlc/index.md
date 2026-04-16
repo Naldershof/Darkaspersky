@@ -54,6 +54,15 @@ The DLC's most significant contribution is not new content but new context for e
 
 Shadow of the Erdtree is fundamentally about what power conceals. Every authority in Elden Ring -- the Golden Order, the Erdtree, even Miquella's compassion -- is shown to rest on a foundation of violence and suppression. The Land of Shadow is not a separate story. It is the story the base game was always telling, viewed from underneath.
 
+The DLC also complicates any simple reading of the base game's morality. The Hornsent were not innocent -- their own rituals were disturbing. Miquella's goal of ending suffering is not inherently evil -- his method is. Messmer was a loyal son, not a monster who chose cruelty. Shadow of the Erdtree refuses to replace one simple narrative with another. It replaces the Golden Order's myth of divine providence with a messier, more human truth: that every age is built on the ashes of the one before it, and that the builders always have reasons they believe are good enough.
+
+## See Also
+
+- [Demigods](../demigods/index.md) -- the shardbearers whose stories the DLC recontextualizes
+- [Lore Concepts](../lore-concepts/index.md) -- the foundational systems that the DLC's revelations complicate
+- [Locations](../locations/index.md) -- the Lands Between, now understood as the surface above a buried world
+- [Lore Threads](../tags.md) -- thematic threads connecting DLC content to the base game
+
 ## Sources
 
 - [All Remembrances](../raw/item-descriptions/remembrances/all-remembrances.md)

@@ -61,6 +61,13 @@ The serpent imagery associated with Messmer connects him to the base-of-the-Erdt
 !!! question "Did Messmer know his history would be erased?"
     His dialogue suggests loyalty to Marika, but also a deep weariness. Did he consent to being sealed in the Land of Shadow, or was he imprisoned there? The answer changes whether he is a willing martyr or another of Marika's victims.
 
+## See Also
+
+- [The Hornsent](the-hornsent.md) -- the civilization Messmer destroyed
+- [Land of Shadow](land-of-shadow.md) -- the realm where his sins are buried
+- [Marika & Radagon](../demigods/marika-radagon.md) -- his mother and the architect of the conquest
+- [Mohg](../demigods/mohg.md) -- the other son Marika discarded
+
 ## Sources
 
 - [Remembrance of the Impaler](../raw/item-descriptions/remembrances/all-remembrances.md)
