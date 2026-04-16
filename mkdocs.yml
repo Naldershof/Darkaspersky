@@ -1,0 +1,124 @@
+site_name: Darkaspersky — Elden Ring Lore Wiki
+site_description: A compounding knowledge base of Elden Ring lore, built on the Karpathy LLM Wiki framework
+repo_url: https://github.com/naldershof/darkaspersky
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: amber
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tooltips
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+  - tags:
+      tags_file: tags.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - pymdownx.critic
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - tables
+  - footnotes
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/naldershof/darkaspersky
+
+nav:
+  - Home: index.md
+  - Demigods:
+      - demigods/index.md
+      - Marika & Radagon: demigods/marika-radagon.md
+      - Malenia: demigods/malenia.md
+      - Miquella: demigods/miquella.md
+      - Radahn: demigods/radahn.md
+      - Morgott: demigods/morgott.md
+      - Mohg: demigods/mohg.md
+      - Rykard: demigods/rykard.md
+      - Ranni: demigods/ranni.md
+      - Godrick: demigods/godrick.md
+      - Rennala: demigods/rennala.md
+      - Godfrey: demigods/godfrey.md
+      - Melina: demigods/melina.md
+  - Lore Concepts:
+      - lore-concepts/index.md
+      - The Shattering: lore-concepts/the-shattering.md
+      - The Erdtree: lore-concepts/the-erdtree.md
+      - The Golden Order: lore-concepts/the-golden-order.md
+      - The Elden Ring: lore-concepts/the-elden-ring.md
+      - Destined Death: lore-concepts/destined-death.md
+      - The Two Fingers & Three Fingers: lore-concepts/the-fingers.md
+      - Grace & the Tarnished: lore-concepts/grace-and-the-tarnished.md
+      - The Great Runes: lore-concepts/the-great-runes.md
+      - The Greater Will: lore-concepts/the-greater-will.md
+      - The Frenzied Flame: lore-concepts/the-frenzied-flame.md
+      - The Outer God of Rot: lore-concepts/outer-god-of-rot.md
+      - The Formless Mother: lore-concepts/the-formless-mother.md
+      - The Dark Moon: lore-concepts/the-dark-moon.md
+  - Locations:
+      - locations/index.md
+      - Limgrave: locations/limgrave.md
+      - Liurnia of the Lakes: locations/liurnia.md
+      - Caelid: locations/caelid.md
+      - Leyndell, Royal Capital: locations/leyndell.md
+      - Mt. Gelmir: locations/mt-gelmir.md
+      - Mountaintops of the Giants: locations/mountaintops-of-the-giants.md
+      - Crumbling Farum Azula: locations/farum-azula.md
+      - The Haligtree: locations/the-haligtree.md
+      - Mohgwyn Palace: locations/mohgwyn-palace.md
+      - Roundtable Hold: locations/roundtable-hold.md
+      - Siofra & Ainsel River: locations/siofra-ainsel-river.md
+  - NPCs:
+      - npcs/index.md
+      - "Ranni's Questline": npcs/ranni-questline.md
+      - Fia: npcs/fia.md
+      - Goldmask: npcs/goldmask.md
+      - Dung Eater: npcs/dungeater.md
+      - Nepheli Loux: npcs/nepheli-loux.md
+      - Alexander: npcs/alexander.md
+      - Blaidd: npcs/blaidd.md
+      - Seluvis: npcs/seluvis.md
+      - Sellen: npcs/sellen.md
+      - Rogier: npcs/rogier.md
+  - Endings:
+      - endings/index.md
+      - Age of Fracture: endings/age-of-fracture.md
+      - Age of Order: endings/age-of-order.md
+      - Age of Duskborn: endings/age-of-duskborn.md
+      - Lord of Frenzied Flame: endings/lord-of-frenzied-flame.md
+      - Age of Stars: endings/age-of-stars.md
+      - Blessing of Despair: endings/blessing-of-despair.md
+  - DLC — Shadow of the Erdtree:
+      - dlc/index.md
+      - Messmer the Impaler: dlc/messmer.md
+      - The Land of Shadow: dlc/land-of-shadow.md
+      - "Miquella's Journey": dlc/miquella-journey.md
+      - The Hornsent: dlc/the-hornsent.md
+      - Leda: dlc/leda.md
+  - Lore Threads: tags.md
+  - Log: log.md
