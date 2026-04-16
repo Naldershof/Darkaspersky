@@ -48,6 +48,7 @@ The metaphysical architecture of the Lands Between.
 | [The Outer God of Rot](lore-concepts/outer-god-of-rot.md) | The unnamed god that claims Malenia as its vessel |
 | [The Formless Mother](lore-concepts/the-formless-mother.md) | The blood-god that whispered to Mohg in the sewers |
 | [The Dark Moon](lore-concepts/the-dark-moon.md) | Ranni's patron — the most enigmatic outer god |
+| [The Gloam-Eyed Queen](lore-concepts/the-gloam-eyed-queen.md) | The god-slayer who wielded Destined Death — and may still walk among us |
 
 ## Locations
 

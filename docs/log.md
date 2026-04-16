@@ -8,6 +8,24 @@ Chronological record of ingests, queries, and maintenance passes.
 
 ---
 
+## 2026-04-16 — Investigation: The Gloam-Eyed Queen
+
+**Scope:** Deep investigation into the Gloam-Eyed Queen, one of the game's most mysterious figures.
+
+**Created:**
+- `raw/item-descriptions/weapons/godskin-black-flame.md` — Comprehensive evidence file compiling all Godskin item descriptions, black flame incantations, encounter locations, and Crucible connections
+- `docs/lore-concepts/the-gloam-eyed-queen.md` — Full wiki page with evidence chain, Melina comparison table, Marika orchestration theory, Godskin placement analysis
+
+**Key findings:**
+1. The black flame IS Destined Death in a different form — when Maliketh sealed Destined Death, the black flame lost its god-slaying power (Scouring Black Flame)
+2. The Gloam-Eyed Queen was "the first to wield Destined Death" (Godslayer's Seal) — not merely a user, the originator
+3. She survived her defeat ("sole survivor of the godskin cult") — she was stripped of power but not killed
+4. Her Spiralhorn connection links her to the Crucible, pre-dating the Golden Order
+5. The Godskins' placement at Divine Towers and near Maliketh maps the Queen's former domain
+6. The Melina evidence chain is near-conclusive: matching eye, Destined Death invocation, Marika's daughter, bodiless/diminished state
+
+---
+
 ## 2026-04-16 — Initial Compilation
 
 **Scope:** Full compilation of all raw source material into wiki pages.

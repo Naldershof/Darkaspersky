@@ -53,6 +53,7 @@ Behind the mortal conflicts, a constellation of Outer Gods vie for influence: th
 | [Outer God of Rot](outer-god-of-rot.md) | The unnamed force behind the Scarlet Rot |
 | [The Formless Mother](the-formless-mother.md) | The Outer God of blood, patron of Mohg |
 | [The Dark Moon](the-dark-moon.md) | Ranni's patron -- the least understood cosmic power |
+| [The Gloam-Eyed Queen](the-gloam-eyed-queen.md) | The god-slayer who wielded Destined Death and may be Melina |
 
 ## How to Read These Pages
 
