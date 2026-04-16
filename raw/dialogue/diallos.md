@@ -1,151 +1,144 @@
 # Diallos — Complete Dialogue
 
-## Roundtable Hold — First Meeting
+## Roundtable Hold — Searching for Lanya
 
-> "Ah, a fellow Tarnished. I am Diallos. Diallos Hoslow. Of House Hoslow."
+> "I am Diallos. Diallos Hoslow. Of House Hoslow."
 
-> "Have you seen my servant? A young woman. Her name is Lanya. She was taken from me."
+> "I am searching for someone. A woman named Lanya. She is my servant — and my friend."
 
-> "I have searched everywhere. The Roundtable Hold, the lands beyond... but she is gone."
+> "She was taken. Abducted. I received word she was brought somewhere... terrible."
 
-> "I fear the worst. The Lands Between are cruel to the helpless."
+> "Have you seen her? A young woman, gentle-natured? She would not survive long on her own in a place like this."
 
-[Context: Diallos is a nobleman of House Hoslow, one of the Lands Between's noble families. He is searching for his missing servant Lanya.]
+[Context: Diallos is first found at the Roundtable Hold, anxious and desperate. He is a nobleman from House Hoslow, one of the prominent families of the Lands Between. He is searching for Lanya, his servant, who has been kidnapped.]
 
 ### On House Hoslow
 
-> "House Hoslow is a house of champions. My brother, Juno Hoslow, is the finest warrior of our line."
+> "House Hoslow. A house of champions. Warriors. Duelists."
 
-> "I... am not. I was not born for battle. I was born to lead. To govern. At least, that is what my family told me."
+> "My brother, Juno Hoslow, is a legendary fighter. They call him the Inquisitor."
 
-> "But leading requires strength. And I have precious little of that."
+> "I... am not like my brother. I lack his talent. His ruthlessness."
 
----
-
-## Roundtable Hold — After Discovering Lanya's Fate
-
-> "Lanya... she is dead. The Dung Eater killed her. Defiled her."
-
-> "That monster. That loathsome, wretched monster."
-
-> "I will find him. I will make him pay for what he did."
-
-> "I am not a fighter. I know this. But for Lanya... I will become one."
-
-[Context: Diallos discovers that Lanya was murdered and defiled by the Dung Eater. This is the catalyst for his character arc — from soft nobleman to someone willing to fight.]
-
-### His Rage
-
-> "The Dung Eater. He haunts the sewers beneath Leyndell. The Subterranean Shunning-Grounds."
-
-> "I will descend. I will face him. I will avenge Lanya."
-
-> "...I know what you're thinking. That I'm not strong enough. That I'll die."
-
-> "Perhaps you're right. But I have to try."
+> "But I carry the Hoslow name, and with it, a duty."
 
 ---
 
-## Volcano Manor — A Detour
+## Liurnia — Finding Lanya
 
-> "I... I came to Volcano Manor. Lady Tanith offered me a place."
+> "Lanya! I found her! At least... I found where she was taken."
 
-> "The recusants here — they fight. They kill. They are everything I am not."
+> "The Academy. They took her to the Academy. Or near it."
 
-> "Perhaps here, I can learn to be strong. To be the warrior Lanya needed me to be."
+> "I must go. I must find her."
 
-### On the Contracts
+[Context: Diallos follows the trail to Liurnia, tracking Lanya's captors.]
 
-> "Lady Tanith gives contracts. Assassinations. Tarnished who serve the Erdtree."
+---
 
-> "I took one. I went out to do the deed. And I..."
+## After Lanya's Death
 
-> "I couldn't. I stood there, blade in hand, and I couldn't."
+> "Lanya... she's dead. They killed her."
 
-> "What kind of warrior am I? What kind of man?"
+> "I was too late. Too slow. Too weak."
 
-### Leaving the Manor
+> "What good is the Hoslow name if I cannot protect one person? One innocent woman?"
 
-> "I'm leaving Volcano Manor. This isn't the path for me."
+> "I am a failure. A disgrace to my house."
 
-> "I cannot be an assassin. I cannot kill in cold blood."
+[Context: Diallos discovers that Lanya has been killed. Her death devastates him and sends him into a spiral of self-doubt and grief.]
 
-> "But I still need to find my purpose. My strength."
+---
 
-> "There's a place... Jarburg. A village of jars. Small, peaceful. They need a protector."
+## Volcano Manor — The Recusant
 
-> "Perhaps that is something I can be."
+> "I've joined the Volcano Manor. Become a recusant."
+
+> "I know what you're thinking. That it's beneath me. That a Hoslow should not stoop to assassination."
+
+> "But what else is there? I failed Lanya. I failed my house. Perhaps this is what I deserve."
+
+> "At least here, I have purpose. Even if that purpose is killing."
+
+[Context: Diallos appears at Volcano Manor, having joined as a recusant. His decision is born from despair rather than conviction — he is trying to find meaning after his failure.]
+
+### On the Manor
+
+> "Lady Tanith is... persuasive. She says the Golden Order must fall. That the Erdtree breeds nothing but suffering."
+
+> "I don't know if I believe her. But I don't need to believe. I just need something to do."
+
+> "Something to distract me from... from thinking about Lanya."
 
 ---
 
 ## Jarburg — The Potentate
 
-### Arrival
+> "Tarnished! I've found a new purpose!"
 
-> "Here I am. Jarburg. A village of little jars."
+> "This village — Jarburg. The jars. These wonderful, gentle creatures."
 
-> "They welcomed me. Called me their protector. Their potentate."
+> "They need a leader. A protector. A potentate!"
 
-> "It's not the glory I imagined. But it's honest work."
+> "And I... I will be that potentate. I will protect them. As I failed to protect Lanya."
 
-> "The jars here are small. Defenseless. They need someone to keep them safe."
+[Context: Diallos leaves Volcano Manor and travels to Jarburg, a small village of living jars in Liurnia. He declares himself their potentate (protector/leader). This is his attempt at redemption — protecting the vulnerable, as he failed to protect Lanya.]
 
-> "For once in my life, I can be what someone needs."
+### On the Jars
+
+> "Look at them. So innocent. So trusting. They don't know how dangerous the world is."
+
+> "Poachers come for them, you know. Hunters who want to crack them open for what's inside."
+
+> "I won't let that happen. Not this time. I will protect them with my life."
 
 ### On Jar-Bairn
 
-> "The little one — Jar-Bairn. He looks up to me. Calls me a hero."
+> "The little one — Jar-Bairn. He looks up to me, can you believe it?"
 
-> "I don't deserve it. I'm no hero. I'm a failed noble who couldn't even avenge his servant."
+> "He calls me the potentate. Says he wants to be like me when he grows up."
 
-> "But if he believes in me... perhaps I can believe in myself."
-
-### The Poacher Attack
-
-> "Poachers! They came in the night. Hunters, looking to smash the jars for their contents."
-
-> "I fought them. I fought them with everything I had."
-
-> "I'm wounded. Badly. But the jars... most of them are safe."
-
-> "Jar-Bairn... is he alright? Tell me he's alright."
-
-### Diallos's Death
-
-> "I... I think this is it for me."
-
-> "I'm not a great warrior. I never was. But I protected them. The little jars."
-
-> "That's enough, isn't it? That's... something?"
-
-> "Tell Jar-Bairn... tell him I was a good potentate."
-
-> "Lanya... I'm sorry I couldn't save you. But I saved someone. In the end."
-
-[Context: Diallos dies defending Jarburg from poachers. He fights bravely but takes fatal wounds. His death is not glamorous — he dies a small, quiet death in a small, quiet village. But it is the death of a protector, not a coward.]
+> "I don't deserve his admiration. But I will try to earn it."
 
 ---
 
-## Jar-Bairn — On Diallos's Death
+## Jarburg — The Poacher Attack (Diallos's Sacrifice)
 
-> "Potentate Diallos... he died. Protecting us."
+> "The poachers... they came. Just as I feared."
 
-> "He wasn't the strongest. He knew that. But he stood between us and the bad men."
+> "I fought them. I fought them with everything I had."
 
-> "He was the bravest potentate we ever had."
+> "But I... I wasn't enough. I wasn't strong enough."
 
-> "I'm going to be a warrior. Like Alexander. Like Diallos. I'm going to protect everyone."
+> "Some of the jars... they were broken. Shattered. The poachers..."
 
-[Context: Jar-Bairn mourns Diallos and is inspired by his sacrifice. This continues the cycle of legacy that runs through the jar storylines.]
+> "I failed again. I always fail."
+
+[Context: Poachers attack Jarburg, and Diallos fights to defend the jars. He is mortally wounded in the battle. While he did manage to fight off some poachers, several jars were still destroyed, and he views this as another failure.]
+
+### Dying Words
+
+> "Lanya... I'm sorry. I couldn't protect them either."
+
+> "The Hoslow name... it means nothing. Without the strength to back it up."
+
+> "Jar-Bairn... tell him... tell him I tried. Tell him the potentate fought."
+
+> "That's all... all I ever wanted. To fight for someone. To matter."
+
+> "I..."
+
+[Context: Diallos dies from his wounds in Jarburg. Despite his self-condemnation, Jar-Bairn later speaks of him with admiration — Diallos DID fight, DID protect some of the jars, and DID give his life for others. His sacrifice was imperfect, but it was real.]
 
 ---
 
 ## Notes on Diallos's Lore Significance
 
-- Diallos's arc is about the gap between who you are and who you want to be. He is not a warrior, not a killer, not a hero — but he becomes one in the only way that matters: by protecting the defenseless.
-- House Hoslow is a noble family known for its warriors. Juno Hoslow, Diallos's brother, is one of the Volcano Manor assassination targets — a feared duelist. Diallos is the opposite of his brother.
-- Lanya's death by the Dung Eater connects Diallos's quest to the Seedbed Curse plotline.
-- His time at Volcano Manor is a failure — he cannot kill in cold blood, proving he is fundamentally decent despite his desire for revenge.
-- Jarburg represents the game's quiet spaces — a peaceful village of jars, untouched by the wars of demigods. Diallos's role as potentate is humble but genuine.
-- His death defending the jars is one of the game's most bittersweet moments. He dies as he lived — imperfect, uncertain, but trying his best.
-- The cycle continues: Diallos's sacrifice inspires Jar-Bairn, who is also inspired by Alexander. The jars carry the legacy of their protectors forward.
+- Diallos's arc is a story about inadequacy and the desperate search for purpose. He is a nobleman who cannot live up to his family's martial legacy.
+- His brother Juno Hoslow is a feared warrior; Diallos is the lesser sibling, always compared and always falling short.
+- Lanya's death is the catalyst that breaks him — his failure to save her defines every subsequent choice he makes.
+- His time at Volcano Manor represents his lowest point — willing to become an assassin out of despair.
+- Jarburg represents his attempt at genuine redemption: protecting the innocent rather than killing for a cause he doesn't believe in.
+- His death defending Jarburg is both tragic and heroic. He fails by his own impossible standards, but Jar-Bairn remembers him as a hero.
+- The theme of his quest is that heroism is not about perfection — it is about trying. Diallos tried, and that matters, even if he could not save everyone.
+- House Hoslow's whip-based fighting style connects Diallos to one of the game's more distinctive weapon types.

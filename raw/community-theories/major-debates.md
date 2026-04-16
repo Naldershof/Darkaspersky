@@ -1,292 +1,178 @@
-# Major Unresolved Lore Debates in the Elden Ring Community
+# Major Community Lore Debates
 
 ## Debate 1: Marika's True Motivation
 
-### The Question
+### Position A: Marika as Rebel Against the Greater Will
 
-Did Marika shatter the Elden Ring as an act of liberation (breaking the Greater Will's control), grief (over Godwyn's death), ambition (to reshape the world), or some combination? This is arguably the single most important unresolved question in Elden Ring's lore.
+This interpretation holds that Marika's actions — from the exile of the Tarnished to the Shattering itself — were a deliberate, long-planned rebellion against the Greater Will. Evidence cited:
 
-### Position A: Marika Is a Liberator
+- The removal of Destined Death from the Elden Ring was an act of defiance, not service. A god who cannot die cannot be replaced by the Greater Will.
+- The exile of the Tarnished was preparation for their return as an army that could challenge the established order. "Then, after thy death, I will give back what I once claimed."
+- The Shattering was the culmination: by breaking the Elden Ring (the Greater Will's instrument of control), Marika freed the Lands Between from cosmic subjugation.
+- Her crucifixion within the Erdtree is her punishment by the Greater Will for this rebellion.
+- Marika's words at churches consistently show a figure questioning and challenging the Order she ostensibly leads.
 
-Evidence cited:
-- She shattered the Ring to break the Greater Will's hold on the Lands Between
-- Her imprisonment within the Erdtree (crucified on the rune arc) is the Greater Will's punishment for her rebellion
-- The Tarnished recall was her plan to send champions capable of finishing what she started
-- Melina carries Marika's words, and those words express foreknowledge and deliberation
-- Her entire arc is one of gradual disillusionment with the system she was chosen to uphold
+### Position B: Marika as Grief-Stricken Mother
 
-### Position B: Marika Is a Manipulator
+This reading centers Godwyn's death as the breaking point. Before the Night of the Black Knives, Marika was a loyal (if questioning) vessel. Godwyn's assassination — a death that should not have been possible, given that Marika had removed Destined Death — shattered her faith and her sanity. The Shattering was not calculated rebellion but an act of grief and rage.
 
-Evidence cited:
-- She shattered the Ring out of grief (Godwyn's death) or personal ambition, not altruism
-- The DLC reveals she committed genocide in the Land of Shadow before building the Golden Order
-- She is no different from the Greater Will: another god seeking control over mortal lives
-- She exiled the Tarnished (including Godfrey) when they were no longer useful to her
-- She may have sacrificed her own son (Godwyn) as part of her plan, making her a monster regardless of her goals
+Evidence:
+- "Then, a Loss. One which should not have been possible. An impossible Loss." Her own words frame the Shattering as a response to loss.
+- The timeline supports this: the Night of the Black Knives precedes the Shattering, establishing a cause-and-effect relationship.
+- Her crucifixion could be self-imposed penance rather than punishment.
 
-### Position C: Marika Is Both
+### Position C: Marika as Manipulator
 
-Evidence cited:
-- She began as the Greater Will's faithful vessel, grew disillusioned, and chose destruction
-- Her methods (genocide, exile, manipulation) make her morally complex, a revolutionary using tyrannical means
-- The Radagon/Marika duality suggests internal conflict: part of her (Radagon) tried to repair the Ring even as she (Marika) shattered it
-- She can simultaneously be a liberator in intent and a tyrant in method
+This darker reading sees Marika as neither rebel nor grieving mother but as a cold manipulator who arranged everything — including Godwyn's death — to achieve a specific outcome. Evidence:
 
-### Why It Remains Unresolved
+- The Black Knife assassins are Numen, Marika's own people.
+- The theft of Destined Death from Maliketh (who was utterly loyal to Marika) seems impossible without her complicity.
+- She stripped Godfrey of grace when he was no longer useful — she treats people as tools.
+- The Tarnished system itself is manipulative: strip grace, exile, grant return, use as pawns.
+- Ranni may have been an unwitting instrument of Marika's larger plan.
 
-The game never provides a definitive statement of Marika's role. Her motivations are delivered entirely through item descriptions, NPC dialogue, and quotes attributed to her (relayed by Melina). Marika herself never speaks directly to the player. Miyazaki has stated that her motivations are meant to be interpretive.
+### Current Community Consensus
 
----
-
-## Debate 2: Who or What Is Melina?
-
-### Position A: Marika's Daughter / The Gloam-Eyed Queen
-
-Evidence cited:
-- She says she was "born at the foot of the Erdtree" and given purpose by her "mother"
-- Her sealed eye and Destined Death connections link her to the Gloam-Eyed Queen
-- Both are associated with the power to kill gods
-- Her ability to kindle the Erdtree's destruction requires death-related power
-- The Godskin Apostles wielded Destined Death against the Golden Order, and the Gloam-Eyed Queen led them
-
-### Position B: A Fragment of Marika
-
-Evidence cited:
-- Melina may be a split-off aspect of Marika (like Radagon), created specifically for the purpose of burning the Erdtree
-- She carries Marika's words and memories
-- Her purpose (kindling) was "given by my mother inside the Erdtree," suggesting direct creation by Marika
-- The Marika/Radagon split establishes precedent for a god fragmenting into multiple selves
-
-### Position C: An Independent Spirit
-
-Evidence cited:
-- She may be a spiritual entity born from the Erdtree itself
-- A manifestation of the tree's own desire to burn and be reborn
-- She exists without a physical body (appearing as a projection at Sites of Grace)
-- Her nature as a bodiless guide is unique in the game's mythology
-
-### The Frenzied Flame Clue
-
-Melina's post-credits appearance in the Frenzied Flame ending (her sealed eye open, burning with dark/violet flame, vowing to kill the Lord of Frenzied Flame) is the strongest evidence for her connection to Destined Death. Her open eye and her capacity for vengeance suggest a deeper nature than "helpful guide."
+No consensus exists. The three positions are not mutually exclusive: Marika could have been a calculated rebel who was also grief-stricken and also manipulative. The Marika/Radagon duality means her motivations are literally divided. The community generally agrees that she deliberately Shattered the Ring but disagrees on why and on how much of the preceding history she orchestrated.
 
 ---
 
-## Debate 3: Is the Greater Will Good, Evil, or Indifferent?
+## Debate 2: Melina's True Identity
 
-### Position A: Benevolent but Authoritarian
+### Position A: Melina is the Gloam-Eyed Queen
 
-Evidence cited:
-- It brought order to chaos, established civilization, and provides grace
-- The problems stem from the Shattering (the breaking of the system), not the system itself
-- The Golden Order's flaws (persecution, exclusion) are human corruptions, not the Greater Will's intent
-- Without the Erdtree, the Lands Between would have no organizing principle, and pre-Erdtree chaos would return
+Evidence:
+- Melina's left eye is always closed. When opened (in the Frenzied Flame ending), it burns with a dark, violet-black flame — consistent with descriptions of the Gloam-Eyed Queen's power.
+- The Gloam-Eyed Queen wielded Destined Death, and Melina's post-Frenzied Flame vow ("I will deliver thee thy destined death") references this power.
+- The Gloam-Eyed Queen was defeated by Maliketh and "stripped of her power." Melina could be the Queen in a diminished, amnesiac state.
+- Both are associated with fire, death, and opposition to the established divine order.
 
-### Position B: A Cosmic Parasite
+### Position B: Melina is Marika's Daughter (and Possibly an Aspect of Marika)
 
-Evidence cited:
-- It invaded the Lands Between via a golden star (the Elden Beast)
-- It supplanted existing civilizations (the Eternal Cities, the dragons, the Giants)
-- It uses Marika as a puppet vessel
-- The Elden Beast is literally a parasite embedded in the world
-- The Two Fingers' guidance is a control mechanism, not genuine aid
+Evidence:
+- Melina states her "mother" gave her purpose "inside the Erdtree." Only Marika is inside the Erdtree.
+- She can read Marika's words at churches, suggesting a unique spiritual connection.
+- Her name shares the root "Mel-" with Malenia and Miquella (Marika's other children).
+- She is bodiless — existing as a spirit — which could indicate she is a fragment of Marika projected outward, similar to how Radagon is another aspect of Marika.
 
-### Position C: Simply Alien
+### Position C: Melina is Both
 
-Evidence cited:
-- It is a cosmic entity that does not operate on human moral scales
-- It is neither good nor evil; it imposes order because that is its nature
-- The concept of "care" does not apply to entities at this cosmic scale
-- Its communication breakdown (the Two Fingers going dormant) suggests it operates on timescales incompatible with mortal needs
+These positions may not conflict. If the Gloam-Eyed Queen was Marika's daughter (or an aspect of Marika), then Melina could be both. The Gloam-Eyed Queen could have been born as Marika's child, granted the power of Destined Death, and then defeated and diminished by Maliketh (on Marika's orders?). The resulting weakened being — bodiless, purposeless, wandering — is the Melina the player meets.
 
----
+### Current Community Position
 
-## Debate 4: Which Ending Is "Best"?
-
-This is the most subjective debate but reveals philosophical positions:
-
-### Age of Fracture Defenders
-The broken order can heal. Stability, even imperfect stability, is better than revolution. The world needs time, not a new system.
-
-### Age of Order Defenders
-The system needs reform, not revolution. Goldmask identified the flaw (divine caprice) and corrected it. A perfect system of law is the highest achievable good.
-
-### Age of Duskborn Defenders
-Accepting death makes life meaningful. This is the most "natural" choice, restoring what Marika removed. The Golden Order's denial of death caused most of its problems.
-
-### Frenzied Flame Defenders
-The system is so corrupt that only total destruction can lead to rebirth. This is justice for the merchants and all others crushed by the Golden Order.
-
-### Age of Stars Defenders
-Freedom from all gods is the only true liberation. Ranni's ending removes divine tyranny without replacing it with something equally controlling.
-
-### Blessing of Despair Advocates
-By making everyone Omen, the basis for the Golden Order's deepest bigotry is eliminated. Equality through shared condition, however painful.
-
-### Community Consensus
-
-There is none. Miyazaki intentionally designed all endings as valid philosophical positions. The community is roughly split between the Age of Stars (most popular, due to Ranni's questline engagement) and the Age of Duskborn (considered the most thematically complete by many lore analysts), with vocal minorities defending each other ending.
+The Melina-as-Gloam-Eyed-Queen theory is the most widely accepted, but it remains unconfirmed. The DLC added depth to related characters but did not definitively resolve Melina's identity.
 
 ---
 
-## Debate 5: The Erdtree's True Nature (Erdtree vs. Greattree)
+## Debate 3: The Greater Will's True Nature
 
-### Position A: The Crucible IS the Erdtree's Origin
+### Position A: The Greater Will is Benevolent (or at Least Orderly)
 
-Evidence cited:
-- The Crucible was the primordial state where all life was blended together
-- The Erdtree grew from the Crucible, which was refined into the Golden Order
-- Crucible Knight armor says they served "in the age when the Erdtree's primordial form was still a common sight"
-- This supports a natural evolution from primal to refined
+This reading accepts the Golden Order's theology at face value. The Greater Will sent the Elden Ring to bring order to a chaotic world. The Erdtree nourishes life. Grace guides the worthy. The system works, or worked, until Marika broke it. The Greater Will's silence is not indifference but a natural consequence of the Elden Ring's Shattering disrupting communication channels.
 
-### Position B: The Erdtree Supplanted the Crucible/Greattree
+Evidence:
+- The Golden Order era appears to have been genuinely prosperous.
+- Grace exists and functions, guiding the Tarnished.
+- The Two Fingers, while slow, do try to provide guidance.
 
-Evidence cited:
-- The Greater Will planted the Erdtree OVER the Crucible/Greattree, colonizing an existing power structure
-- Item descriptions reference "Greattree" and "Erdtree" as potentially separate entities
-- Root resin items specifically reference the Greattree, not the Erdtree
-- The root system extending into pre-Erdtree areas suggests the roots belong to something older
-- The Erdtree is parasitic: it colonized a pre-existing tree
+### Position B: The Greater Will is a Cosmic Parasite
 
-### Position C: The Crucible Is the Erdtree Without the Greater Will
+This reading holds that the Greater Will is not a benevolent god but an alien entity that colonized the Lands Between through the Elden Beast. The Erdtree is not a gift but a tool of control, its roots penetrating the land like a parasite's tendrils. The Golden Order is not divine governance but cosmic imperialism.
 
-Evidence cited:
-- If you remove the Greater Will's influence, the Erdtree would return to its Crucible state
-- The wild, unified nature of the Crucible is what the Erdtree would be naturally
-- The Golden Order's refinement is an imposition on the tree's true nature
+Evidence:
+- The Greater Will displaced every previous civilization (dragons, Giants, Nox) to establish its dominance.
+- The Elden Beast is literally a beast — a creature, not a god — that serves the Greater Will. It is a vassal, an instrument.
+- The Two Fingers' deterioration suggests the Greater Will has either abandoned its colony or is losing control of it.
+- The Golden Order's prosperity came at the cost of systematic exclusion and persecution of anything that didn't fit.
+- The Greater Will never communicates directly. Everything passes through intermediaries that are failing.
 
-### Why It Matters
+### Position C: The Greater Will is Indifferent
 
-This debate affects how we interpret every ending. If the Erdtree is parasitic, then preserving it (Age of Fracture, Age of Order) perpetuates an invasion. If it is the natural evolution of the Crucible, then destroying it (Frenzied Flame) or replacing it (Age of Stars) is the greater violence.
+The Greater Will may be neither benevolent nor malicious but simply operating on a scale so vast that the Lands Between are insignificant. It sent the Elden Beast, established the Ring, and moved on. The Golden Order was built by mortals interpreting cosmic forces they don't understand. The Greater Will is not a governor but a natural phenomenon that mortals mistook for a god.
 
----
+### Current Community Position
 
-## Debate 6: Did Miquella Plan His Own Abduction?
-
-### Pre-DLC Consensus
-
-Miquella was an innocent victim kidnapped by Mohg. The arm dangling from the cocoon was a symbol of helplessness. The Haligtree's failure was a tragedy, not a calculated sacrifice.
-
-### Post-DLC Consensus
-
-Almost certainly yes, or at minimum, Miquella adapted the situation to his advantage. The DLC reveals:
-- Miquella's soul departed the cocoon voluntarily, entering the Land of Shadow
-- He shed parts of himself deliberately at each cross (his love, his charm, his memories)
-- His "charm" was supernatural mind control, not genuine kindness
-- He planned to become a god and may have needed Mohg's blood ritual as a stepping stone
-- His manipulation of his followers (many of whom sacrificed everything for him) is disturbingly calculated
-
-### Remaining Questions
-
-- Did Miquella manipulate Mohg from the start, or did he adapt his plans after being taken?
-- Was the Haligtree a genuine sanctuary project or just a phase of a longer plan?
-- Were Miquella's original intentions genuinely benevolent before he started shedding his compassion?
-- Does the DLC's Miquella retroactively change how we should view the Haligtree's inhabitants (were they manipulated, or did they follow willingly)?
+The "cosmic parasite" reading is the most popular among the lore community, supported by the game's consistent framing of the Golden Order as oppressive. However, the ambiguity is deliberate — the game provides evidence for all three readings without confirming any.
 
 ---
 
-## Debate 7: The Frenzied Flame's Origin and Nature
+## Debate 4: Who is the Gloam-Eyed Queen?
 
-### Position A: The Frenzied Flame Is Pure Entropy
+### The Known Facts
 
-Evidence cited:
-- Its stated goal is to dissolve all distinction and return everything to primordial chaos
-- The Three Fingers represent the undoing of the order the Two Fingers established
-- It is a cosmic force that predates the merchants' suffering
-- It existed dormantly and was awakened by the merchants' anguish
+- The Gloam-Eyed Queen was the leader of the Godskin Apostles.
+- She wielded the power of Destined Death — the ability to truly kill gods and demigods.
+- She was an Empyrean (chosen by the Two Fingers as a candidate for godhood).
+- She was defeated by Maliketh, who sealed the power of Destined Death in his Black Blade.
+- Her defeat occurred before the Night of the Black Knives (since Destined Death had to be stolen from Maliketh for that event to occur, and it was only with Maliketh because he took it from the Queen).
 
-### Position B: The Frenzied Flame Is Born from Suffering
+### Theory A: The Gloam-Eyed Queen is Melina
 
-Evidence cited:
-- The merchants' persecution and underground imprisonment summoned or created it
-- The Flame is concentrated mortal anguish given cosmic form
-- It is not a pre-existing Outer God but something created by suffering so extreme it punctured the boundary between mortal and cosmic
-- Cut content supported this reading with more explicit merchant backstory
+(See Debate 2, Position A for full argument.)
 
-### Position C: The Frenzied Flame Predates the Merchants but Was Empowered by Them
+### Theory B: The Gloam-Eyed Queen is Ranni
 
-Evidence cited:
-- The Three Fingers exist in an ancient chamber that appears older than the merchants' imprisonment
-- The Flame may have existed as a dormant cosmic force that found an opening through mortal despair
-- The merchants' suffering did not create it but gave it enough power to become an active threat
-- Outer Gods in general predate the game's events
+Evidence: Ranni is an Empyrean. She orchestrated the theft of Destined Death. She opposes the Golden Order. However, this theory has largely fallen out of favor because Ranni's timeline and abilities don't match the Queen's description well — Ranni uses moon sorcery, not death magic.
 
----
+### Theory C: The Gloam-Eyed Queen is a Separate, Unknown Character
 
-## Debate 8: Was Radagon Always Part of Marika?
+Some argue that the Queen is simply a historical figure who is not represented by any current NPC. She was defeated, possibly killed, and her era ended. Melina may have inherited or been given some of her power, but they are not the same person.
 
-### Position A: They Were Always One Being
+### Theory D: The Gloam-Eyed Queen is Marika
 
-Evidence cited:
-- The statue in Leyndell shows a single body that is both Radagon and Marika
-- Radagon's marriage to Rennala was Marika creating a political alliance through an alternate persona
-- This makes the children of Radagon and Rennala (Ranni, Radahn, Rykard) even more directly Marika's children
-- The merger explains why both share a body with no visible discomfort
+The most controversial theory. If Marika is Radagon (two personas, one body), could she also have been the Gloam-Eyed Queen? This would mean Marika created an alter-ego to wield Destined Death against the Greater Will, then had Maliketh defeat that alter-ego to seal the power away (keeping it available but controlled). This is a minority position but it neatly explains why the theft of Destined Death from Maliketh seemed to require inside knowledge.
 
-### Position B: They Were Originally Separate and Merged
+### Current Community Position
 
-Evidence cited:
-- Some item descriptions reference Radagon as an independent figure before becoming Marika's consort
-- The internal conflict (Marika shattered/Radagon repaired) makes more narrative sense with separate wills
-- Radagon's red hair and Carian moon associations suggest an identity not originally aligned with the Golden Order
-- The merger may have been a consequence of becoming Elden Lord
-
-### Position C: It Is Deliberately Unknowable
-
-Evidence cited:
-- Miyazaki has been evasive about this in interviews
-- The game provides evidence for both readings, possibly intentionally
-- The mystery functions better as a question than as an answer
+The Melina theory is most popular. The "separate character" theory is the most conservative. No theory has been confirmed.
 
 ---
 
-## Debate 9: Is the Age of Stars Truly "Good"?
+## Debate 5: The Crucible vs. Erdtree Relationship
 
-### Position A: It Is Liberation
+### Position A: The Erdtree Grew From the Crucible
 
-Evidence cited:
-- Ranni explicitly removes divine influence from mortal daily life
-- The Nox civilization was punished for attempting something similar, positioning Ranni as completing their unfinished revolution
-- Ranni gave up her divine body and worked for centuries toward this goal
-- The removal of the Two Fingers' control frees the Lands Between from cosmic authoritarianism
+The Crucible was the primordial state of life in the Lands Between — raw, chaotic, encompassing all forms (horns, wings, tails, scales). When the Greater Will sent the Elden Beast and the Erdtree grew, it did so by domesticating the Crucible's power. The Erdtree is the Crucible refined, ordered, and controlled. This is why Crucible-associated beings (the Omen, some Misbegotten) bear physical traits the Golden Order considers impure — those traits are from the older, wilder form of the same power.
 
-### Position B: It Is a Different Form of Control
+Evidence:
+- Crucible Knights serve in Leyndell, suggesting continuity between the Crucible era and the Golden Order.
+- Crucible incantations are a form of Erdtree magic, classified under the same school.
+- The Erdtree's roots connect to the same underground spaces where Crucible-era remnants are found.
 
-Evidence cited:
-- Ranni replaces the Golden Order with her own order of stars and moon
-- The Dark Moon she serves may be another Outer God
-- Her "charm" and the programmed loyalty of her shadow (Blaidd) suggest compulsion
-- Making "sight, emotion, faith, and touch" into "impossibilities" could be read as stripping meaning from existence
+### Position B: The Erdtree Replaced (Parasitized) the Crucible
 
-### Position C: It Is Ambiguous by Design
+A more adversarial reading: the Crucible was a separate entity (possibly another tree, the "Greattree" referenced in some item descriptions). The Greater Will's Erdtree grew on top of or consumed the Crucible, absorbing its power while suppressing its wilder aspects. The Omen and Misbegotten are not throwbacks to a primitive state but survivors of a conquered ecosystem.
 
-Evidence cited:
-- The original Japanese text has been translated multiple ways, with varying positive/negative implications
-- Miyazaki likely designed this ending to be debated
-- The personal relationship between Ranni and the Tarnished adds emotional complexity that complicates pure theological analysis
-- The "thousand year voyage" framing suggests open-ended exploration rather than fixed dogma
+Evidence:
+- The Greattree (referenced in root resin and other items) appears to be distinct from the Erdtree.
+- The Crucible's champions were marginalized as the Golden Order consolidated power.
+- The Erdtree's roots are parasitic in nature, penetrating and consuming structures (visible in Leyndell and underground).
+
+### Position C: The Crucible and the Erdtree Are the Same Thing at Different Stages
+
+The simplest reading: the Crucible is simply what the Erdtree was before it matured. There is no parasitism or replacement — the tree grew up, and its wild infant state (the Crucible) was naturally superseded by its mature state (the Erdtree). The Golden Order's disdain for Crucible traits is cultural, not metaphysical.
+
+### Current Community Position
+
+Positions A and B are both widely held, with B gaining ground due to the Greattree references and the game's consistent theme of conquest disguised as natural order. Position C is the minority reading.
 
 ---
 
-## Debate 10: The Nature of the Tarnished
+## Debate 6: Additional Unresolved Questions
 
-### Position A: Tools of the Greater Will
+### What Happened on the Night of the Black Knives?
 
-Evidence cited:
-- Grace guides them; the Two Fingers direct them; their mission is to restore the Ring
-- The Tarnished are recalled because they can die and return (unlike the stuck demigods)
-- The entire Tarnished project is a mechanism for the Greater Will to repair its damaged instrument
+The full details remain unclear. Who exactly was assassinated besides Godwyn? Were there other victims? How many Black Knife assassins were involved? Was Marika complicit? The in-game evidence provides fragments but no complete account.
 
-### Position B: Marika's Fail-Safe
+### Is Torrent Significant?
 
-Evidence cited:
-- Marika exiled Godfrey and the Tarnished long before the Shattering, positioning them for later recall
-- The Tarnished's ability to see grace (Marika's domain) suggests she controls their return
-- The Tarnished are Marika's tools: she broke the Ring and sent champions to rebuild it on her terms
+Torrent, the spectral steed, "chose" the Tarnished (per Melina). Who was Torrent's previous master? The connection to Ranni (who gives the Spirit Calling Bell) and Melina (who gives the whistle) places Torrent at the intersection of the game's two most mysterious female figures. Torrent's spiritual nature (he is a ghost horse) and his unique ability to exist in the open world (where other spirits cannot) suggest he is more than a mount.
 
-### Position C: Nobody's Tools
+### What is the Erdtree's Relationship to the Greattree?
 
-Evidence cited:
-- The game's multiple endings prove the Tarnished can defy every cosmic power
-- The Frenzied Flame ending defies both the Greater Will and Marika
-- The true meaning of being Tarnished is having lost grace (the divine leash) and thereby gaining the freedom to choose
-- The player's agency IS the point: every ending is available because the Tarnished is not bound to any single master's plan
+Some item descriptions reference the "Greattree" as distinct from the Erdtree. If the Greattree existed before the Erdtree, what was it? Was it the Crucible in tree form? Was it the original divine tree, replaced or consumed by the Erdtree? The game provides no definitive answer.
+
+### Is There a Connection Between the Numens and the Black Knives?
+
+The Black Knife assassins are Numen women, and Marika herself is Numen. The Numen are described as coming from "outside the Lands Between." If Marika and her people are not native to this world, the entire Golden Order was founded by an outsider — making the Erdtree civilization a colonial project in every sense.

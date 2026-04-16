@@ -1,166 +1,151 @@
-# Rya / Zoraya — Complete Dialogue
+# Rya (Zorayas) — Complete Dialogue
 
-## Liurnia — First Meeting (Human Form)
+## Liurnia — The Scenic Meeting
 
-> "Oh! Hello there. You wouldn't happen to be a Tarnished, would you?"
+> "Excuse me. I am Rya. I serve Lady Tanith of the Volcano Manor."
 
-> "My name is Rya. I serve Lady Tanith of Volcano Manor."
+> "I have a request, if you would hear it. My necklace was stolen. A keepsake from my lady."
 
-> "The Manor welcomes all Tarnished who have grown disillusioned with the Erdtree. We oppose the Golden Order."
+> "The thief is nearby — a brutish man at the Boilprawn Shack. Could you retrieve it for me? I would be ever so grateful."
 
-> "If you're interested, I can show you the way. But first... I have a small favor to ask."
+[Context: Rya is first encountered near the Birdseye Telescope in Liurnia. She appears as a polite, well-dressed young woman recruiting for Volcano Manor. Her necklace was stolen by Blackguard Big Boggart.]
 
-> "My necklace was stolen. By a ruffian at the nearby settlement. I need it back."
+### After Retrieving the Necklace
 
-> "Would you be willing to help? I would be so grateful."
+> "Oh, you found it! Thank you, truly!"
 
-[Context: Rya appears as a young woman at the Liurnia lakeshore, recruiting for Volcano Manor. She is polite, earnest, and somewhat naive. She asks the player to recover her necklace from a thug. She is unaware of her own true nature.]
+> "As promised, I would like to invite you to the Volcano Manor. Lady Tanith welcomes all Tarnished of merit."
 
----
+> "Take my hand, and I shall transport you there."
 
-## Liurnia — After Recovering the Necklace
-
-> "You found it! Oh, thank you! You're so kind."
-
-> "As promised, I'll take you to Volcano Manor. Lady Tanith will be pleased to meet you."
-
-> "Here, take my hand. I'll transport us there."
+[Context: Rya teleports the player to Volcano Manor if they accept. This is the primary recruitment path for the Manor questline.]
 
 ---
 
-## Volcano Manor — As Recruiter
+## Volcano Manor — Rya's Welcome
 
-> "Welcome to the Manor! I'm so glad you came."
+> "Welcome to the Volcano Manor. I do hope you'll find it comfortable."
 
-> "Lady Tanith is the kindest person I know. She took me in when I was alone."
+> "Lady Tanith is the heart of this place. She took me in when I had no one. She is like a mother to me."
 
-> "I don't remember my parents. Tanith is the only family I've had."
+> "If you need anything, please don't hesitate to ask."
 
-> "I hope you'll feel at home here. We're all Recusants, but we look after each other."
+[Context: Rya acts as a helpful guide within Volcano Manor, providing information about the Manor and its inhabitants.]
 
----
+### On the Manor's Residents
 
-## Volcano Manor — Discovering the Secret Passage
+> "The recusants are an interesting lot. Each has their own reason for being here."
 
-> "Have you been exploring the Manor? There are rooms below. Passages."
+> "Patches is... well, he's Patches. Bernahl is a serious man. Diallos is searching for something — or someone."
 
-> "I found something. A door I've never seen before. It leads deeper into the mountain."
-
-> "I'm frightened to go alone. But I feel like I need to know what's down there."
+> "And then there's me. I'm not a warrior. I just help where I can."
 
 ---
 
-## Volcano Manor — Learning the Truth
+## The Hidden Corridor — Discovery
 
-> "I found something in the tunnels. Something horrible."
+> "You found the hidden corridor? Beyond the drawing room?"
 
-> "There are serpents down there. Man-serpents. Humans twisted into snake-like things."
+> "I... I found something there too. Something I wish I hadn't."
 
-> "And I... I transformed. When I went deeper, my body... changed."
+> "This place... the Manor... it hides terrible things beneath its surface. Literally beneath it."
 
-> "I'm not human. I never was."
-
-> "I'm a serpent. Like them. A man-serpent born in human guise."
-
-> "Tanith... she knew. She always knew. She raised me knowing what I was."
-
-> "Was any of it real? Her kindness? The Manor? Was I just... a pet? A mascot for her collection of misfits?"
-
-[Context: Rya discovers her true form — she is a serpent-being who can appear human. The man-serpents in the volcano tunnels are her kin. Her entire life as "Rya" was built on a lie of omission by Tanith.]
+[Context: The player can discover a hidden path within Volcano Manor that leads to the legacy dungeon portion — the Prison Town and ultimately to Rykard. Rya is disturbed by what lies below.]
 
 ---
 
-## Volcano Manor — In Serpent Form (Zoraya)
+## Rya's True Nature — The Serpent
 
-> "Don't look at me. Please."
+> "I must tell you something. Something about myself."
 
-> "My name... my real name is Zoraya. Rya was the name Tanith gave me."
+> "I am not... entirely human. I know you can see it now."
 
-> "I am a child of the serpent. Born of the abomination beneath the mountain."
+> "I am a serpent. Born of the God-Devouring Serpent. Born of Rykard."
 
-> "Everything I thought I knew about myself was a lie."
+> "Tanith found me. A tiny serpent, slithering in the Manor's depths. She raised me. Gave me this human form. Gave me a name — Zorayas."
 
-> "I want to die. Please. Give me the Tonic of Forgetfulness, or end it yourself."
+> "But I am still a serpent inside. A child of that horrible thing that Rykard became."
 
-> "I cannot live like this. Knowing what I am."
+[Context: Rya reveals her true identity: she is Zorayas, a serpent-being born from the God-Devouring Serpent (Rykard). Tanith used magic to give her human form. In her serpent form, she is a small, coiled snake. This revelation comes as a shock to Rya herself — she is horrified by her own origin.]
 
----
+### On Her Horror
 
-## The Player's Choice
+> "Am I a monster? Born of a monster?"
 
-### If Given the Tonic of Forgetfulness
+> "Everything the Manor does... the devouring, the assassination... it all leads back to Rykard. Back to the serpent."
 
-> "What is this? A tonic?"
+> "And I am its child."
 
-> "You want me to... forget? To go back to being Rya? To not knowing?"
-
-> "Perhaps that would be a mercy."
-
-> (She drinks.)
-
-> "I... what was I saying? I'm sorry, I seem to have lost my train of thought."
-
-> "Was there something you needed? I'm Rya. I serve Lady Tanith."
-
-> "Everything is fine. I'm fine."
-
-[Context: The Tonic erases Rya's knowledge of her serpent nature. She returns to her cheerful, oblivious self. This is the "kind" option but carries unsettling implications — she is restored through erasure of truth.]
-
-### If the Player Refuses Both Options (Leaves and Returns Later)
-
-> "You... came back? Even after seeing what I am?"
-
-> "You didn't kill me. You didn't drug me."
-
-> "Why?"
-
-> "I've been thinking. About what Tanith did. She lied to me, yes. But she also loved me. In her way."
-
-> "And I am what I am. A serpent. But also Rya. Both things are true."
-
-> "I think... I think I can live with that. If you can."
-
-> "Thank you. For giving me the time to find my own answer."
-
-> "I'm going to leave the Manor. Find my own way. As Zoraya. As Rya. As myself."
-
-> "Here. Take this. Zoraya's Letter. So you know I'm grateful."
-
-[Context: This is the "best" outcome. By refusing to kill her or erase her memory, the player allows her to process the truth and choose her own path. She accepts both identities and leaves to find her own life. This is one of the game's clearest statements on identity and autonomy.]
-
-### If the Player Kills Her
-
-> "So this is how it ends."
-
-> "Perhaps it's for the best. A serpent pretending to be a girl..."
-
-> "Thank you. For the kindness of a swift end."
+> "I don't want to be this. I don't want to be a serpent. I want to be Rya. Just Rya."
 
 ---
 
-## Tanith — On Rya
+## The Choice — Rya's Fate
 
-> "She knows? About her nature?"
+### Rya Asks to Die
 
-> "I feared this would happen. I tried to protect her."
+> "Please. End me. I cannot bear it."
 
-> "Rya — Zoraya — is a child of the serpent. Born of the abomination that consumed Rykard."
+> "Knowing what I am. Knowing where I come from. The serpent's blood in my veins."
 
-> "I took her in because I saw something in her. Something gentle, despite her origins."
+> "I would rather die as Rya than live as a monster."
 
-> "She deserved a life. A human life. Even if it was built on a lie."
+[Context: After discovering her true nature, Rya falls into despair and asks the player to kill her.]
 
-> "Here. Give her this. The Tonic of Forgetfulness. It will ease her pain."
+### If the Player Kills Rya
 
-[Context: Tanith provides the Tonic and reveals she raised Rya out of genuine care, not manipulation.]
+> "Thank... you..."
+
+[Context: Rya dies, dropping Daedicar's Woe talisman. This is the darkest outcome.]
+
+### If the Player Gives Rya the Tonic of Forgetfulness
+
+> "What is this? A tonic? From Tanith?"
+
+> "It will... make me forget? Forget what I am?"
+
+> "...Perhaps that is a mercy. To not know. To be simply Rya again."
+
+> "I will drink it. And I will forget. The serpent. The horror. All of it."
+
+[Context: Tanith provides the Tonic of Forgetfulness if the player speaks to her about Rya's distress. Giving it to Rya erases her memory of her serpent nature. She returns to her cheerful self, but at the cost of truth.]
+
+### If the Player Refuses Both Options (Leaves Her Alone)
+
+> "You won't kill me? And you won't make me forget?"
+
+> "Then... what do I do? How do I live with this?"
+
+> "...Perhaps that is the answer. I live. I live with it. I am a serpent, yes. But I am also Rya."
+
+> "I can be both. I don't have to choose."
+
+> "Thank you. For not taking the easy path. For letting me... be."
+
+[Context: If the player neither kills Rya nor gives her the tonic, she eventually comes to terms with her dual nature. After Rykard is defeated, she leaves the Manor.]
+
+### After Rykard's Defeat (If Spared Without Tonic)
+
+> "Rykard is dead. The serpent is dead."
+
+> "And I... I am still here. Still a serpent. Still Rya."
+
+> "I think I will leave the Manor. See the world. Find out who Zorayas truly is."
+
+> "Thank you. For everything."
+
+> "Here. Take this. The Serpent's Amnion. A remnant of what I am. Perhaps it will be of use to you."
+
+[Context: Rya departs the Manor and gives the player the Serpent's Amnion — a key item. She goes into the world to find her own identity, free from both the Manor and her self-loathing.]
 
 ---
 
-## Notes on Rya/Zoraya's Lore Significance
+## Notes on Rya's Lore Significance
 
-- Rya's questline is about identity, truth, and the cost of knowledge. She must decide whether ignorance, death, or painful self-acceptance is the best path.
-- Her serpent nature connects her to Rykard and the God-Devouring Serpent.
-- The three outcomes (tonic, death, self-acceptance) represent the game's recurring theme of choice in response to unbearable truth.
-- Tanith's maternal protection of Rya adds complexity to her character — she is not merely a cold ideologue.
-- The Tonic of Forgetfulness is a metaphor for denial: the Lands Between has the means to erase painful truths.
-- Rya's best ending is only achievable through player inaction — by refusing to choose for her. The game rewards patience and the willingness to let another person find their own way.
+- Rya/Zorayas represents the theme of nature versus nurture: born a serpent, raised as human, she must decide which identity defines her.
+- Her three possible fates (death, forgetting, acceptance) mirror three philosophical responses to a painful truth.
+- Her relationship with Tanith is genuinely maternal — Tanith's love for Rya is one of her few redeeming qualities.
+- The God-Devouring Serpent producing offspring implies it had some form of biological existence beyond its merger with Rykard.
+- Her serpent form appearing in certain scenes is a visual shock that recontextualizes every previous interaction.
+- The Tonic of Forgetfulness raises a classic philosophical question: is it better to know a terrible truth or live in blissful ignorance?
+- Her best ending (acceptance without forgetting) is the hardest to achieve but the most thematically resonant — learning to live with painful truths rather than destroying or denying them.

@@ -1,116 +1,131 @@
-# Elden Ring — Notable Cut Content with Lore Implications
+# Cut Content — Datamined and Unused Material
 
-## IMPORTANT DISCLAIMER
-
-**Everything in this document is NON-CANON.** Cut content represents ideas that were developed to some degree but removed before the final game shipped. Cut content may have been removed because it was incomplete, contradicted the final narrative, was replaced by better ideas, or simply could not be finished in time. It should NEVER be cited as evidence for lore arguments about the shipped game. It is included here because it can illuminate the development process and the creators' thinking during production.
-
-Datamining sources include: Lance McDonald, Sekiro Dubi, Zullie the Witch, Kotn3l, and other prominent dataminers who have documented unused assets, dialogue, and mechanics.
+**[CUT CONTENT WARNING: All entries in this document describe content that was removed from the final game. This material was found through datamining, early builds, or leaked development materials. It should not be treated as canonical lore, but it provides insight into development directions that were explored and abandoned.]**
 
 ---
 
-## Cut NPC Questlines and Dialogue
+## Unused Dialogue
 
-### Extended Merchant/Great Caravan Questline
+### [CUT CONTENT] Marika's Extended Monologue
 
-Datamined dialogue and item descriptions suggest a more extensive questline involving the nomadic merchants and their connection to the Frenzied Flame. In the shipped game, the merchants are largely passive vendors with minimal story involvement. Cut content suggests:
+Datamined audio files contain additional "In Marika's own words" speeches that were not linked to any in-game church or location. These include:
 
-- A more detailed backstory for the merchant people (sometimes called the "Great Caravan"), persecuted by the Golden Order and sealed underground alive.
-- Their collective suffering and rage summoned the Three Fingers / Frenzied Flame from the depths.
-- Specific merchant NPCs who would have guided the player toward understanding this history.
-- Possible dialogue explaining why the Frenzied Flame seeks to burn everything: it is the crystallized despair of an entire people.
+> [CUT] "In Marika's own words. I am the Queen. I am the vessel. But I am not the Ring. The Ring is a cage, and I its prisoner. When I break it, I break myself. This I do willingly."
 
-**Lore implication:** The shipped game hints at this (the underground merchant camp near the Frenzied Flame, Shabriri's dialogue) but leaves much implicit. The cut content would have made the Frenzied Flame's origin story more explicit and sympathetic, potentially making that ending feel less like pure nihilism and more like historical justice for an oppressed people.
+> [CUT] "In Marika's own words. Radagon, my other self. You would mend what I break. You are the will that holds the cage together. But a cage that holds a god must eventually be broken by that god."
 
-### Extended Kale Dialogue
+[CUT CONTENT: These lines, if they had been included, would have made Marika's motivation far more explicit. Their removal is consistent with Miyazaki's preference for ambiguity.]
 
-Kale, the first merchant the player meets (at the Church of Elleh), had significantly more dialogue datamined than what shipped. Cut lines suggest he would have served as a more substantial guide to the merchant people's history and their relationship to the Frenzied Flame. Some cut lines reference him directly knowing about the underground persecution.
+### [CUT CONTENT] Extended Ranni Dialogue
 
-**Lore implication:** Kale's expanded role would have created a personal connection between the player and the merchant people's tragedy from the game's earliest moments, making the Frenzied Flame questline more emotionally grounded.
+Early builds contained additional Ranni dialogue at the conclusion of her questline:
 
-### Expanded Goldmask Dialogue
+> [CUT] "The Greater Will fears the night sky, for in the dark between the stars, there are things even the Outer Gods do not comprehend. My order shall be built in that darkness. Not an absence of light, but a light so distant it cannot control."
 
-Goldmask, who in the shipped game communicates only through silence and gestures (with Corhyn interpreting), had datamined dialogue lines suggesting he would have spoken directly at certain points. These lines include reflections on the nature of the Golden Order, the flaws he perceives in divine governance, and his reasons for seeking Perfect Order.
+[CUT CONTENT: This would have clarified Ranni's philosophical position — not anti-divine, but anti-theocratic. The removal forces the player to interpret her ending with less explicit guidance.]
 
-**Lore implication:** Goldmask's silence in the shipped game is a deliberate design choice that makes his philosophy ambiguous. If he had spoken, his Age of Order ending would have been more explicitly defined, losing some of its interpretive richness but gaining clarity.
+### [CUT CONTENT] Godwyn Pre-Death Dialogue
 
-### Cut Vyke Questline
+Unused voice files suggest Godwyn was originally encountered in a more interactive form:
 
-Vyke, the Tarnished who came closest to becoming Elden Lord before the player, had evidence of a more substantial presence in the game. Cut content suggests encounters with Vyke at various stages of his journey, showing his gradual corruption by the Frenzied Flame. In the shipped game, Vyke appears only as an invader and a madness-afflicted enemy.
+> [CUT] "I was the first to die, and the last to rest. My body grows through the roots of the Erdtree, carrying my father's death to every corner of the Lands Between. I did not ask for this."
 
-**Lore implication:** A Vyke questline would have provided a cautionary parallel to the player's journey: a Tarnished who almost succeeded but was seduced by the Frenzied Flame at the last moment. His story is told entirely through item descriptions in the shipped game.
+[CUT CONTENT: Godwyn in the final game has no dialogue — he is a soulless corpse. These lines suggest an earlier design where his consciousness persisted in some form.]
 
-## Cut Areas and Locations
+### [CUT CONTENT] Melina at the Erdtree
 
-### Expanded Colosseums
+An unused dialogue branch for Melina at the Erdtree Sanctuary:
 
-The three colosseums visible in the shipped game (Limgrave, Leyndell, Caelid) were sealed at launch and later opened as PvP arenas in a free update. Datamining before that update revealed their interiors and suggested they were originally planned to have PvE content as well, possibly featuring spectator NPCs and lore-relevant combat scenarios.
+> [CUT] "The Erdtree... it rejected you. But did you consider — perhaps it rejected me, too? I was born at its foot, given purpose by my mother. But the tree never acknowledged me. I am no more its child than you are its Lord."
 
-**Lore implication:** The colosseums as PvP arenas serve a primarily mechanical function, but their original conception may have included narrative content about the martial traditions of the Lands Between.
+[CUT CONTENT: This would have added significant depth to Melina's relationship with the Erdtree, positioning her as equally rejected by the system she serves.]
 
-### The Badlands (Referenced but Unvisited)
+---
 
-Multiple references in the game mention "the Badlands," the land beyond the Lands Between from which Godfrey and the Tarnished were exiled. No explorable Badlands area exists. Cut content suggests early development may have included a more substantial representation of the Tarnished's exile, possibly as a prologue area.
+## Removed NPCs
 
-**Lore implication:** The Badlands represent the Tarnished's previous existence before recall. Their absence from the game means the player begins with no context for their character's life before the Lands Between, which may be an intentional narrative choice (the Tarnished is a blank slate) or a development cut.
+### [CUT CONTENT] The Sixth Tarnished
 
-## Cut Boss Content
+The opening cinematic names five key Tarnished: Hoarah Loux, Goldmask, Fia, Dung Eater, and Gideon Ofnir. Datamined files reference a sixth Tarnished who was removed before release — a character tentatively referred to as "the Wretched" or "the Nameless" in internal files.
 
-### Godwyn the Golden (Boss Encounter)
+This character appears to have been a Tarnished who had completed a previous cycle — someone who had already attempted to become Elden Lord and failed, returning for a second attempt. Their questline would have explored the cyclical nature of the Tarnished's journey and raised questions about whether the player is the first to reach the Elden Ring or merely the latest in a long line.
 
-Datamined files suggest an early version of the game may have included a boss encounter with Godwyn in some form (possibly as the Prince of Death, his corrupted deathroot-infused form). In the shipped game, Godwyn is never fought; his corpse is seen in Deeproot Depths and his face appears on deathroot growths.
+[CUT CONTENT: Remnants of this character may persist in the "Tarnished corpse" items found at various locations, suggesting previous Tarnished who reached the same points.]
 
-**Lore implication:** A Godwyn boss fight would have significantly changed the narrative around the Night of the Black Knives. Fighting the Prince of Death directly would have made Godwyn a more active presence in the story rather than a background tragedy.
+### [CUT CONTENT] Expanded Vyke Questline
 
-### Extended Dragon Encounters
+Vyke, the Tarnished who came closest to becoming Elden Lord before the player, was originally intended to have a more extensive questline. Unused data suggests he would have been encountered multiple times throughout the game, with dialogue revealing his gradual descent into the Frenzied Flame.
 
-Evidence suggests more dragon-related content was planned, possibly including additional dragon bosses in Farum Azula and expanded dragon communion mechanics. Some dragon models and partial movesets were found in the files without corresponding encounters.
+In the final game, Vyke is encountered only as an invader (Festering Fingerprint Vyke) and through item descriptions. The cut content would have shown his journey in real time — a parallel narrative where the player watches another Tarnished make the choices they themselves are contemplating.
 
-**Lore implication:** The dragon civilization's role in pre-Erdtree history is one of the game's most intriguing background elements. More dragon content would have expanded this history.
+[CUT CONTENT: His armor and spear descriptions remain in the final game and tell a compressed version of this story.]
 
-## Cut Items and Descriptions
+### [CUT CONTENT] Miquella NPC Encounter (Base Game)
 
-### Alternate Great Rune Descriptions
+Early development files suggest Miquella was originally encountered in a more direct form in the base game, not just as an arm in a cocoon. Unused models show a child-like figure with golden hair, speaking from within or near the Haligtree.
 
-Some Great Runes had alternate item descriptions in the files that provided different or additional lore context. These alternate descriptions sometimes offered more explicit explanations of the demigods' motivations or the nature of their power. The shipped versions tend to be more cryptic.
+Dialogue fragments include:
 
-**Lore implication:** The shift from explicit to cryptic descriptions during development reflects Miyazaki's well-documented preference for ambiguity. The cut descriptions may represent an earlier development phase when the narrative was more directly told.
+> [CUT] "I grew this tree to shelter those the Erdtree would not. But my tree, too, has failed. I could not save my sister. I could not save anyone. The only path left is to become something greater — or something worse."
 
-### Cut Armor Set Descriptions
+[CUT CONTENT: Miquella's direct characterization was ultimately reserved for the DLC (Shadow of the Erdtree), where his story receives full treatment.]
 
-Several armor sets had additional or altered descriptions that provided more historical context. Some of these descriptions referenced events, figures, or places not present in the shipped game, suggesting cut storylines or world-building elements.
+---
 
-**Lore implication:** These descriptions occasionally reference political structures, military campaigns, or theological disputes that are only vaguely hinted at in the shipped game. They suggest a deeper layer of world-building that was simplified for the final product.
+## Changed Plotlines
 
-## Cut Mechanics with Lore Implications
+### [CUT CONTENT] Alternative Shattering Origin
 
-### Dream System
+An early version of the Shattering narrative placed more emphasis on the demigods' agency. Rather than Marika shattering the Ring herself (with Radagon trying to repair it), the original concept had the demigods collectively breaking the Ring during their war, with each one tearing off their Great Rune by force.
 
-Datamining revealed a "Dream" system connected to St. Trina (later expanded in the DLC). Items called "Dream Mist" and references to collecting dreams from sleeping enemies were found. This system appears to have been partially implemented and then cut from the base game, with some elements reappearing in the Shadow of the Erdtree DLC.
+This was changed to make the Shattering Marika's deliberate act, centralizing the tragedy in one figure's choice rather than distributing it across many actors. The revision made the story more focused and more tragic.
 
-**Lore implication:** St. Trina is connected to Miquella (possibly an alter ego or aspect of Miquella). The cut dream system would have introduced St. Trina's lore more substantially in the base game rather than deferring it to the DLC. The DLC's eventual exploration of Miquella/St. Trina validates that this was always part of the planned narrative.
+[CUT CONTENT: Some NPC dialogue still vaguely references the Shattering as a consequence of the demigod war rather than its cause, which may be a remnant of this earlier version.]
 
-### Extended Summoning Pool / Multiplayer Lore
+### [CUT CONTENT] Destined Death and the Black Knives
 
-Evidence suggests the summoning pool system (the martyr effigies used for cooperative play) was originally more lore-integrated, with the effigies having more detailed descriptions about the nature of summoning across worlds and the "multiverse" implied by the game's multiplayer.
+An earlier version of the Night of the Black Knives had different details about how Destined Death was stolen from Maliketh. Cut content suggests Ranni's role was originally less central — the assassination was planned by a broader conspiracy including multiple demigods, not just Ranni operating through the Black Knife assassins.
 
-**Lore implication:** The summoning mechanic's in-universe explanation (Tarnished calling on versions of each other across parallel realities) was apparently going to be more explicitly narrativized.
+The final version streamlines the conspiracy to focus on Ranni, making her the sole architect of Godwyn's assassination (and her own simultaneous death). This gives her character more weight and makes the player's choice to support her questline more morally complex.
 
-## Cut Ending Variations
+[CUT CONTENT: References to other demigods' involvement in the Black Knife conspiracy may persist in scattered item descriptions that don't fully align with the final narrative.]
 
-### Evidence of Additional Ending States
+### [CUT CONTENT] The Gloam-Eyed Queen
 
-Dataminers have found references to ending variations or conditions that do not appear in the shipped game. These include:
+Significant cut content relates to the Gloam-Eyed Queen, leader of the Godskin Apostles. In the final game, she is referenced only through item descriptions and environmental details. Cut content suggests she was originally a more prominent figure, possibly encountered directly.
 
-- Possible conditions for NPCs surviving or dying in ways that affect the ending cinematics.
-- References to ending narration that was either cut or replaced.
-- Partial implementations of ending conditions related to questlines that were simplified.
+The Gloam-Eyed Queen wielded Destined Death and led the Godskins in an attempt to slay the gods. She was defeated by Maliketh. Cut dialogue fragments suggest:
 
-**Lore implication:** The six shipped endings may represent a consolidation from a larger number of planned endings. The development process appears to have involved narrowing the ending options to the most thematically distinct choices.
+> [CUT] "I was the one who held death. Before Maliketh. Before Marika sealed it away. Death was my domain, and they took it from me because a god who cannot die is a god who cannot be challenged."
 
-## General Observations on Cut Content
+[CUT CONTENT: The Gloam-Eyed Queen's relationship to Melina is one of the game's most debated points. Cut content neither confirms nor denies that they are the same person, but the thematic parallels (both associated with death, both with one closed eye, both opposing the Golden Order) are striking.]
 
-The pattern of Elden Ring's cut content suggests a development process that began with more explicit, detailed narrative systems and progressively moved toward Miyazaki's signature ambiguity. Many cut elements would have made the game's lore more accessible but potentially less compelling for the community discussion that Miyazaki values.
+### [CUT CONTENT] The Crucible and the Erdtree
 
-The cut merchant/Frenzied Flame content is particularly notable because it would have provided the Frenzied Flame ending with more emotional grounding. Its absence from the shipped game makes the Frenzied Flame ending feel more purely destructive, whereas the cut content suggests it was originally conceived as a more sympathetic response to injustice.
+Early development materials suggest the Crucible's relationship to the Erdtree was originally explained more explicitly. The Crucible was the primordial form of the Erdtree's power — raw, unrefined, and encompassing all life in a chaotic unity. The Golden Order "refined" this power into its codified form, and the Crucible's champions (Crucible Knights) were gradually marginalized.
 
-The DLC (Shadow of the Erdtree) appears to have incorporated some originally-cut base game ideas, particularly around Miquella/St. Trina and the deeper history of Marika. This suggests that "cut" content was sometimes deferred rather than truly abandoned.
+Cut item descriptions would have made clear that the Erdtree is the Crucible in a controlled form — that the Golden Order didn't create divine power but domesticated it, removing the wild elements (horns, tails, wings) that it considered impure. The Omen, who are born with these Crucible features, are throwbacks to the pre-refined state.
+
+[CUT CONTENT: This was streamlined in the final game to be implied through environmental storytelling and item descriptions rather than stated explicitly.]
+
+---
+
+## Unused Areas and Bosses
+
+### [CUT CONTENT] Extended Roundtable Hold Invasion
+
+An early build contained a more elaborate invasion of the Roundtable Hold, where multiple NPCs would turn hostile simultaneously rather than the single Ensha attack in the final game. This would have included a scenario where the Hold's protective magic fails entirely, forcing the player to defend the location.
+
+[CUT CONTENT: The simplification to a single invader (Ensha) may have been for pacing reasons.]
+
+### [CUT CONTENT] Additional Erdtree Interior
+
+The Erdtree's interior in the final game is relatively small (the Radagon/Elden Beast arena). Cut content suggests a more extensive interior was planned, with additional chambers, lore items, and possibly encounters related to Marika's history. The Erdtree would have been a dungeon in its own right, rather than a single boss arena.
+
+[CUT CONTENT: Time constraints likely reduced this area. The final version uses the Radagon fight and the Elden Beast arena to compress the Erdtree's interior into a single climactic encounter.]
+
+### [CUT CONTENT] Unused Colosseums (Pre-Patch)
+
+The three colosseums visible in the game world (Limgrave, Leyndell, Caelid) were originally sealed and inaccessible. They were later opened in a free update as PvP arenas. Datamined content from before the update suggested they may have originally been planned to house PvE content or boss encounters.
+
+[CUT CONTENT: The colosseums were eventually used for their PvP function, but their original purpose during development may have been different.]

@@ -1,157 +1,153 @@
 # Miriel, Pastor of Vows (Turtle Pope) — Complete Dialogue
 
-## Church of Vows — First Meeting
+## Church of Vows — Introduction
 
-> "Ahh, welcome, welcome. To the Church of Vows."
+> "Welcome, welcome. I am Miriel, Pastor of Vows. The custodian of this church."
 
-> "I am Miriel. Pastor of Vows. I tend to this church, and to the vows sworn within."
+> "The Church of Vows. A place of union. Of reconciliation. It was here that Radagon and Rennala were wed."
 
-> "This is a place of union. Of binding oaths. It was here that Radagon and Rennala were wed."
+> "I witnessed it myself. The ceremony. A grand occasion. Though its aftermath... was less than grand."
 
-> "And it is here that broken vows can be mended. Through the Celestial Dew and the cleansing of the turtle's mirror."
+[Context: Miriel is a giant tortoise wearing a mitre (bishop's hat), found at the Church of Vows in eastern Liurnia. He is gentle, scholarly, and possesses centuries of historical knowledge. Players affectionately call him "Turtle Pope."]
 
-[Context: Miriel is a giant talking turtle (often affectionately called "Turtle Pope" by the community) who presides over the Church of Vows in eastern Liurnia. He teaches both sorceries and incantations — a rarity — and is a repository of historical lore.]
+### On Himself
+
+> "I am a humble servant of the church. I watch over this place. I remember."
+
+> "Memory is my gift. And my burden. I remember things that others have forgotten. Or choose to forget."
 
 ---
 
-## On Radagon and Rennala
+## On Radagon and Rennala's Marriage
 
-> "Radagon of the Golden Order. And Rennala, Queen of the Full Moon. They were wed in this very church."
+> "Radagon of the Golden Order came to Rennala, Queen of the Full Moon. A warrior, approaching a scholar."
 
-> "It was a union of two great powers. The Golden Order and the Academy of Raya Lucaria. Through their marriage, peace was forged."
+> "Their union was unexpected. Radagon was a champion of the Erdtree. Rennala was the master of the Academy. Their worlds should not have intersected."
 
-> "Radagon was a champion of the Golden Order. A fierce warrior and a devoted man of faith. Rennala was the greatest sorceress of her age."
+> "But love — or something like it — brought them together. And I was privileged to witness their vows."
 
-> "Together, they had three children. Ranni, Radahn, and Rykard."
+> "They had children. Great children. Rykard. Radahn. Ranni."
 
-### On the Wedding
-
-> "The ceremony was magnificent. All the Lands Between celebrated. For the first time, sorcery and faith were united."
-
-> "Radagon gave Rennala a great rune as a wedding gift. A rune of rebirth. It was his pledge of devotion."
-
-> "And Rennala... she loved him. Deeply. Completely."
+> "But the union was not to last. Radagon left Rennala. He returned to the Erdtree. To Marika."
 
 ### On Radagon's Departure
 
-> "But then... Radagon left. He returned to the Erdtree. To become Queen Marika's consort."
+> "When Radagon left, he gave Rennala a gift. The Great Rune of the Unborn. An amber egg containing the rune."
 
-> "When Godfrey was stripped of grace and exiled, Marika needed a new consort. And Radagon answered the call."
+> "A parting gift. A consolation. Or perhaps an apology."
 
-> "He left Rennala. Left his children. Left the Academy."
+> "Rennala never recovered. She retreated into the Academy, cradling the egg. Her mind... fractured."
 
-> "Rennala was devastated. She retreated into the Grand Library, clutching the great rune he had left her. She has not emerged since."
+> "The Academy fell into decline. The students went mad. And Rennala sits there still, in her grand library, trying to use the rune to rebirth her children. To bring them back."
 
-> "The great rune of rebirth... it was meant as a symbol of their love. Now it is a symbol of her grief. She uses it to attempt rebirth — over and over, endlessly. Trying to recapture what was lost."
-
-### On Radagon and Marika
-
-> "Here is the great mystery. Radagon returned to the Erdtree to become Marika's consort. But there is more to it than that."
-
-> "Radagon IS Marika. They are one and the same. Two halves of a single being."
-
-> "How can this be? I do not know. The nature of their duality is beyond my understanding."
-
-> "But consider: when Radagon left Rennala, he was not leaving her for another woman. He was returning to... himself. Or herself."
-
-> "The implications are staggering. Every child of Marika is also a child of Radagon. And every child of Radagon's marriage to Rennala is also, in some sense, a child of Marika."
-
-[Context: Miriel provides some of the clearest exposition of the Radagon/Marika mystery. His gentle, scholarly delivery makes the mind-bending revelation digestible.]
+[Context: Miriel provides crucial lore about the Radagon-Rennala marriage, their demigod children, and Radagon's betrayal. The Great Rune of the Unborn is what allows Rennala to attempt rebirth — and what the player can use for respec after defeating her.]
 
 ---
 
-## On the Church of Vows
+## On Radagon and Marika
 
-> "This church serves a purpose. The mending of vows. The restoration of bonds."
+> "Radagon returned to the Erdtree. To Queen Marika."
 
-> "If you have angered someone — an ally, a merchant, a friend — bring Celestial Dew to the basin of absolution."
+> "What followed was... complicated. They became consorts. King and queen. But the nature of their union..."
 
-> "The turtle's mirror will cleanse the offense. The vow will be restored."
+> "I hesitate to say more. Some truths are dangerous."
 
-> "All vows are sacred. Even broken ones can be mended."
+> "But I will tell you this: Radagon and Marika are not what they appear. Their relationship is not what anyone assumes."
 
-[Context: The Church of Vows' mechanical function is to de-aggro NPCs. Celestial Dew is used to reset hostility. Miriel frames this mechanically necessary feature in beautiful lore terms.]
+> "They are... closer than husband and wife. Closer than any two beings can be."
 
----
+[Context: Miriel hints at the game's central revelation: Radagon and Marika are the same being, or two halves of one being. He knows this truth but is cautious about revealing it directly.]
 
-## On Sorcery and Incantations
+### If Pressed Further
 
-> "I teach both sorceries and incantations. A rarity, I know."
+> "You wish to know more? Very well."
 
-> "Most scholars insist that the two disciplines are incompatible. That faith and reason cannot coexist."
+> "There is a secret. A great secret. Inscribed on the statue in this very church."
 
-> "I disagree. The Church of Vows was built upon the union of these two traditions. If sorcery and faith could be married, then surely they can be studied together."
+> "Radagon is Marika."
 
-> "Bring me prayerbooks or scrolls, and I will share their contents with you. I turn no knowledge away."
+> "They are one. Two aspects of a single being. Man and woman. Warrior and queen. The Golden Order and its creator."
 
-### On Specific Traditions
+> "How? Why? I cannot say. But it is the truth. I witnessed it. And I remember."
 
-> "Glintstone sorcery draws upon the power of the stars. The primeval current, they call it. The stars are the source of all magic."
-
-> "Incantations draw upon faith. Faith in the Golden Order, in the Erdtree, in the Two Fingers."
-
-> "But at their root, they are not so different. Both seek to channel forces greater than ourselves."
+[Context: The statue at the Church of Vows bears the inscription "Radagon is Marika." Miriel confirms this — one of the game's biggest lore revelations. This reframes every piece of lore about both characters: Radagon leaving Rennala was Marika calling herself back; the Shattering was both Marika's rebellion and Radagon's attempt to repair the Ring.]
 
 ---
 
-## On the History of the Lands Between
+## On the Erdtree and the Golden Order
 
-### On the Erdtree
+> "The Erdtree is a marvel. A tree of golden light that blesses the Lands Between."
 
-> "The Erdtree is the heart of the Lands Between. It governs the cycle of life and death. Souls return to the Erdtree upon death, and are reborn through its grace."
+> "But it was not always here. Before the Erdtree, there was the Crucible. The primordial life force."
 
-> "But the Erdtree was not always here. Before the Erdtree, there was the Crucible. The primordial form of life. Raw, untamed, chaotic."
+> "The Erdtree supplanted the Crucible. The Golden Order replaced the old ways. And what was natural became heretical."
 
-> "The Greater Will sent the Elden Beast to the Lands Between. The beast became the Elden Ring — the embodiment of Order. And from the Ring, the Erdtree grew."
+> "The Omen. The beastmen. The dragons. All were here before the Erdtree. All were pushed aside."
 
-### On Godfrey
-
-> "Godfrey was the first Elden Lord. A warrior of unmatched prowess. He led the wars against the Giants, the Storm Lords, and all who opposed the Erdtree."
-
-> "But when the wars were won and there were no more enemies to fight, Marika stripped him of grace. Exiled him. He became the first of the Tarnished."
-
-> "His true name was Hoarah Loux. A barbarian chieftain. He took the name Godfrey when he became Elden Lord and bound his warrior spirit within Serosh, the lion."
-
-### On the Shattering
-
-> "The Shattering. When Queen Marika shattered the Elden Ring, and the demigods claimed its shards."
-
-> "Why did she do it? Some say grief — for Godwyn, her slain son. Some say rebellion — against the Greater Will that controlled her."
-
-> "Some say it was all planned. That the Shattering, the exile, the return of the Tarnished — all of it was Marika's design."
-
-> "I cannot say which is true. But I can say this: the world has not been the same since."
+> "I do not say this to condemn the Golden Order. Merely to remember. What was here before. What was lost."
 
 ---
 
-## On Learning
+## On Absolution
 
-> "I am a turtle. I move slowly. But I think deeply."
+> "This church offers absolution. If you have sinned against another — struck them in anger, offended them — the Celestial Dew can wash that sin away."
 
-> "Knowledge should be shared freely. It is not a weapon to be hoarded, nor a treasure to be locked away."
+> "Use the basin here. The Celestial Dew purifies. It restores relationships that have been broken by violence."
 
-> "Come to me with your scrolls and your prayerbooks. I will learn from them, and I will teach you what I learn."
+> "The church forgives. That is its purpose."
 
-> "That is the vow I have made. And I intend to keep it."
+[Context: The Church of Vows allows the player to use Celestial Dew to de-aggro NPCs they have attacked. This is a crucial gameplay mechanic, framed through Miriel's role as pastor.]
 
-### If Attacked
+---
 
-> (Miriel cannot be killed through normal means — he has an enormous health pool and does not aggro.)
+## Accepting Scrolls and Prayerbooks
 
-> "Why would you do that? That is very rude."
+> "Ah, a scroll? Or a prayerbook? I would be happy to study it."
 
-> "I am a man of the cloth. I do not fight. But I do ask that you reconsider your actions."
+> "I believe in learning. All learning. Sorcery and incantations alike. The pursuit of knowledge should not be constrained by dogma."
 
-[Context: Miriel is one of the few NPCs who effectively cannot be killed. The community has noted that he has an absurd amount of HP and never aggros, making him practically immortal — a fitting trait for a being who embodies patience and forgiveness.]
+> "Others may refuse to study certain schools of thought. I am not so narrow-minded."
+
+[Context: Miriel accepts ALL sorcery scrolls and incantation prayerbooks, regardless of type. Other teachers refuse certain schools (Sellen refuses incantations, faith teachers refuse sorcery). Miriel's willingness to study everything reflects his open-minded philosophy.]
+
+### On Different Schools
+
+> "Glintstone sorcery. The Golden Order's incantations. Dragon communion. Blood flame. Fire of the giants."
+
+> "All are valid paths to understanding. All reveal truths about the world."
+
+> "To reject knowledge because it comes from an uncomfortable source... that is the true heresy."
+
+---
+
+## On the State of the World
+
+> "The Shattering broke more than the Elden Ring. It broke the world's faith. Its certainty."
+
+> "The Golden Order promised permanence. Eternal order. And then Marika herself shattered the instrument of that order."
+
+> "Why? That is the question, isn't it? Why would a god destroy her own creation?"
+
+> "Perhaps she saw something we cannot. Or perhaps she simply... broke."
+
+---
+
+## If the Player Attacks Miriel
+
+> "Oh dear. I seem to have upset you."
+
+> "Please, there is no need for violence. I am merely a tortoise."
+
+[Context: Miriel has an enormous health pool and does not die easily. If attacked, he responds with gentle bewilderment rather than hostility. The community consensus is that attacking Miriel is one of the worst things a player can do in the game — not because of consequences, but because of guilt.]
 
 ---
 
 ## Notes on Miriel's Lore Significance
 
-- Miriel is one of the game's most important lore-delivery characters. His position at the Church of Vows — the site of Radagon and Rennala's wedding — gives him unique historical perspective.
-- He is one of the few NPCs who openly discusses the Radagon/Marika revelation without losing his composure. His scholarly temperament allows him to process the information rationally.
-- The Church of Vows' function (mending broken bonds) mirrors the game's broader themes of things broken and mended — the Elden Ring, relationships, the world itself.
-- Miriel's willingness to teach both sorceries and incantations reflects the ecumenical spirit of the Church of Vows — a place where opposites are united.
-- He is a turtle, and the game treats this with complete seriousness. No NPC ever comments on the fact that a turtle runs a church. In the Lands Between, this is unremarkable.
-- The turtle motif appears throughout the game: turtle-neck shields, turtle summons, the message "dog" (a community joke about calling turtles "dogs"). Turtles in the Lands Between are associated with the divine.
-- Miriel's patience and forgiveness make him a counterpoint to the game's many violent, vengeful NPCs. He represents the possibility of peace and understanding in a world of war.
+- Miriel is one of the game's most important lore sources, providing direct testimony about Radagon, Rennala, Marika, and the history of the Golden Order.
+- His revelation that "Radagon is Marika" is one of the game's central mysteries, and he is one of the few characters who states it plainly.
+- His willingness to accept all forms of knowledge (sorcery and incantations) makes him unique among teachers and reflects a philosophy of intellectual openness.
+- The Church of Vows as a site of absolution provides both gameplay utility and thematic depth — a place where sins can be forgiven.
+- His pre-Erdtree historical knowledge (the Crucible, the old ways) provides crucial context for understanding the Golden Order's origins as a supplanting force.
+- As a tortoise in a bishop's mitre, he is one of the game's most visually memorable characters and a fan favorite.
+- His gentle, non-judgmental personality provides a rare sanctuary of kindness in the Lands Between.

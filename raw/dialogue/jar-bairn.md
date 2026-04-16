@@ -2,155 +2,140 @@
 
 ## Jarburg — First Meeting
 
-> "Oh! A great big person! Hello!"
+> "Hullo! I'm Jar-Bairn! Are you a warrior?"
 
-> "I'm Jar-Bairn! I live here in Jarburg. With all the other jars."
+> "You look like a warrior. A big, strong one."
 
-> "Are you a warrior? You look like a warrior! Are you strong? Really strong?"
+> "I'm going to be a warrior too, when I grow up. I'm going to be a great potentate! The greatest jar potentate there ever was!"
 
-> "I want to be a warrior too! Like the great Alexander! Iron Fist Alexander!"
+[Context: Jar-Bairn is a small living jar found in Jarburg, a peaceful village of jars in Liurnia. He is child-like, enthusiastic, and dreams of becoming a potentate — a great warrior-leader of the jars.]
 
-[Context: Jar-Bairn is a small, child-like jar found in Jarburg, a peaceful village on the cliffs of Liurnia. He is innocent, enthusiastic, and dreams of becoming a great warrior jar like Alexander.]
+### On Jarburg
+
+> "This is Jarburg! It's where we jars live. Isn't it nice?"
+
+> "We're a peaceful lot, mostly. We don't fight much. We just... live. And grow."
+
+> "But sometimes the poachers come. Bad people who want to break us open. To take what's inside."
+
+> "That's why we need a potentate. Someone to protect us."
+
+---
+
+## On What Jars Are
+
+> "Do you know what jars are? Really?"
+
+> "We're vessels. We carry things inside us. The remains of warriors, mostly."
+
+> "The stronger the remains, the stronger the jar. That's why warrior jars go out and fight — to fill themselves with the strongest remains."
+
+> "I haven't got any great remains yet. I'm still little. But one day... one day I'll be full of champion remains. And then I'll be the mightiest jar of all!"
+
+[Context: Jar-Bairn explains the nature of jars innocently. Jars contain the remains of the dead — warriors, champions, ordinary people. This is both their purpose and their biology. The child-like framing of what is essentially a sentient tomb makes the lore both charming and unsettling.]
+
+---
+
+## On the Poachers
+
+> "The poachers are scary. They come with hammers and picks. They break the jars open and take what's inside."
+
+> "My friends... some of them were broken. They're gone now."
+
+> "I don't understand why anyone would do that. We're alive. We think and feel and dream."
+
+> "But to the poachers, we're just pots. Just things to be cracked open."
+
+[Context: The poachers are humans who raid Jarburg for the valuable remains and materials inside the jars. To the jars, this is murder. To the poachers, the jars are simply containers.]
 
 ---
 
 ## On Alexander
 
-> "Alexander! Have you heard of him? The greatest warrior jar who ever lived!"
+> "Do you know Iron Fist Alexander? He's a warrior jar! A real one!"
 
-> "He travelled all across the Lands Between, fighting the mightiest warriors. He even fought General Radahn!"
+> "He's the mightiest warrior jar in all the Lands Between. He travels everywhere, fighting the strongest enemies."
 
-> "I want to be just like him. I want to fight great battles and absorb the remains of mighty champions!"
+> "I want to be just like him. One day, I'll be as big and strong as Alexander."
 
-> "But I'm still small. Too small to fight. So I stay here in Jarburg and wait."
+> "He's my hero."
 
-### If the Player Has Met Alexander
-
-> "You've MET Alexander? Really truly?! What was he like? Was he big? Was he strong?"
-
-> "Tell me everything! Please!"
-
-### If Alexander Has Died
-
-> (If the player gives Alexander's Innards to Jar-Bairn:)
-
-> "Alexander's... innards? You mean... he's gone?"
-
-> "...Oh."
-
-> "He... he died fighting, didn't he? In a great battle?"
-
-> "That's how Alexander would have wanted it. A warrior's end."
-
-> "If you give me his innards... I'll carry them. Inside me. His strength will live on."
-
-> "Alexander... I promise. I'll become a great warrior. For you."
-
-[Context: Receiving Alexander's Innards is a pivotal moment for Jar-Bairn. He grieves but accepts the legacy — carrying Alexander's remains within himself, just as Alexander carried the remains of others. The cycle of warrior jars continues.]
+[Context: Jar-Bairn idolizes Alexander, seeing him as the ultimate example of what a warrior jar can be.]
 
 ---
 
-## On Jarburg
-
-> "Jarburg is my home! It's quiet and peaceful. All the jars here are nice."
-
-> "We grow flowers! And we collect things. And we tell stories."
-
-> "But sometimes... bad people come. Poachers. They want to smash us open and take what's inside."
-
-> "That's why we need a potentate. A great big person to protect us."
-
-### On the Need for a Potentate
-
-> "A potentate is a protector! A big, strong person who keeps the jars safe."
-
-> "We've never had a proper one. Not a real one."
-
-> "If someone would be our potentate... we'd be safe. We could live without fear."
-
----
-
-## On Diallos
+## On Diallos (The Potentate)
 
 ### When Diallos Arrives
 
-> "A potentate! We have a potentate now! His name is Diallos!"
+> "We have a potentate! A real one! His name is Diallos!"
 
-> "He's brave and strong and... well, he SAYS he's strong."
+> "He said he would protect us. Protect all of Jarburg."
 
-> "He's our potentate! He'll keep us safe!"
+> "He's a warrior! From a great house! House Hoslow!"
 
-### Growing Closer to Diallos
+> "I think he's the greatest. The absolute greatest."
 
-> "Potentate Diallos tells me stories. About House Hoslow. About his servant, Lanya."
+### After the Poacher Attack
 
-> "He's sad a lot. But he smiles when he talks to us jars."
+> "The poachers came. And Diallos... he fought them."
 
-> "I think we make him happy. And he makes us feel safe."
+> "He fought so hard. He got hurt really bad."
 
-### After Diallos's Death
+> "Some of the jars... they were broken anyway. But Diallos saved some of us. He saved ME."
 
-> "Potentate Diallos... he's gone."
+> "He... he died. The potentate died."
 
-> "The poachers came. And he fought them. All by himself."
+> "But he was brave. He was SO brave. He fought even though he was scared."
 
-> "He wasn't the biggest or the strongest. But he didn't run. He stood right here and fought."
+> "That's what a real potentate does, isn't it? Fights even when they're scared?"
 
-> "Some of the jars were broken. But most of us are safe. Because of him."
+[Context: Jar-Bairn's account of Diallos's sacrifice reframes Diallos's death. Where Diallos saw failure, Jar-Bairn sees heroism. This is one of the game's most emotionally resonant moments — a child's admiration redeeming a man's despair.]
 
-> "He was the best potentate. THE best."
+### Mourning Diallos
 
-> "I'm going to be strong. Like Alexander. Like Diallos. I'm going to protect everyone."
+> "I miss the potentate. I miss Diallos."
 
-> "No more poachers. No more broken jars. I'll make sure of it."
+> "He said he wasn't strong enough. But he was. He was the strongest person I ever met."
 
-[Context: Jar-Bairn's grief for Diallos is genuine and deeply affecting. The small jar child has now lost two heroes — Alexander (indirectly) and Diallos (directly). Both inspire him to grow stronger.]
+> "Because strength isn't about winning. It's about fighting for something. Even when you know you might lose."
 
----
-
-## On Being a Warrior Jar
-
-> "I'm still small. But I'll grow! Warrior jars grow by absorbing the remains of champions."
-
-> "When I'm big enough, I'll leave Jarburg. I'll travel the Lands Between, just like Alexander."
-
-> "I'll fight great battles! And when I fall... another jar will carry my remains. And I'll live on through them!"
-
-> "That's the way of the warrior jar. We never really die. We just... become part of something bigger."
+> "Diallos taught me that."
 
 ---
 
-## Jar-Bairn — Miscellaneous
+## Alexander's Innards
 
-### On Flowers
+### If Given Alexander's Innards
 
-> "We grow flowers in Jarburg! Big ones! They're called jarflowers."
+> "Wait... these are... Alexander's? Iron Fist Alexander's innards?"
 
-> "The jars like to tend them. It makes us happy."
+> "He... he's gone? Alexander is gone?"
 
-### On the Player
+> "..."
 
-> "You're the strongest person I've ever met! Even stronger than Alexander, I bet!"
+> "He wanted me to have these? His innards? The remains of all the warriors he carried?"
 
-> "When I grow up, I want to fight alongside you! Just like Alexander did!"
+> "I... I'll take them. I'll carry them inside me. All of them."
 
-### If the Player Visits Repeatedly
+> "Alexander. The greatest warrior jar. His strength will live on. In me."
 
-> "You came back! I knew you would!"
+> "I'll be a warrior jar too. For Alexander. For Diallos. For all of Jarburg."
 
-> "Every time you visit, I feel a little braver. A little stronger."
+> "I won't let the poachers win. I won't let anyone break us."
 
-> "Thank you. For coming to see us. It means a lot."
+> "I'm going to be a great potentate. The greatest there ever was. I promise."
+
+[Context: Giving Alexander's Innards to Jar-Bairn transfers the legacy of the greatest warrior jar to the smallest. Jar-Bairn inherits Alexander's fighting spirit — literally and figuratively. He gives the player the Companion Jar talisman in return. This completes both Alexander's and Jar-Bairn's arcs, connecting them through the jar tradition of carrying the fallen forward.]
 
 ---
 
 ## Notes on Jar-Bairn's Lore Significance
 
-- Jar-Bairn represents the future of the warrior jar tradition. He is the inheritor of Alexander's legacy and Diallos's sacrifice.
-- The name "Bairn" is a Scots/Northern English word meaning "child" — he is literally a "Jar Child."
-- His dream of becoming a great warrior jar mirrors Alexander's ambition but with an added layer: he has seen what it costs to protect others (Diallos's death) and chooses to pursue that path anyway.
-- Jarburg is one of the game's few genuinely peaceful locations. Its vulnerability — jars are fragile, literally — makes it a place worth protecting.
-- The cycle of warrior jars is a microcosm of the game's themes: death is not the end; legacy is carried forward through those who come after.
-- Alexander's Innards, when given to Jar-Bairn, pass on the accumulated strength of every warrior Alexander ever absorbed — a chain of strength stretching back through countless battles.
-- Jar-Bairn's innocence and optimism contrast with the game's darker themes, but his arc is not naive — he has experienced loss, grief, and the reality of violence. He chooses hope despite knowing the cost.
-- The companion perk talisman received from this quest line is one of the game's hidden rewards, connecting player action to community benefit.
+- Jar-Bairn is one of the game's most emotionally effective NPCs, using innocence to illuminate dark themes.
+- His dream of becoming a potentate is both charming and poignant — he wants to protect others in a world that sees his kind as objects to be broken.
+- His relationship with Diallos redeems Diallos's narrative: where Diallos saw only failure, Jar-Bairn saw courage.
+- Receiving Alexander's Innards connects three questlines: Alexander's journey of strength, Diallos's quest for purpose, and Jar-Bairn's dream of becoming a protector.
+- The jar culture — vessels carrying the remains of the dead, growing stronger through inheritance — is both a unique worldbuilding element and a metaphor for how communities carry their history.
+- The poacher threat grounds the jars' vulnerability in real danger, making Jar-Bairn's aspirations feel urgent rather than merely cute.
+- Jar-Bairn represents the next generation: the inheritor of legacies, the carrier of the fallen, the hope for a better future.
