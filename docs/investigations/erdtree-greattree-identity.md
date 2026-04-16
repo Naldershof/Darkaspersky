@@ -30,7 +30,9 @@ last_updated: 2026-04-16
 
 ## The Question
 
-The Erdtree dominates the Lands Between as the seat of the Elden Ring, the engine of the Golden Order, and the destination of every faithful soul upon death. But item descriptions reference an older organism -- the Greattree -- whose roots still exist underground, distinct from the Erdtree. Meanwhile, Crucible Knight armor describes the Crucible as "the primordial form of the Erdtree." Are these the same organism at different stages of life, or did the Greater Will plant a parasite on top of an older, independent tree? The answer determines whether the Golden Order is a natural evolution of the Lands Between's original faith or a foreign occupation wearing the skin of something it killed.
+The Erdtree dominates the Lands Between as the seat of the Elden Ring, the engine of the Golden Order, and the destination of every faithful soul upon death. But item descriptions reference an older organism -- the Greattree -- whose roots still exist underground, distinct from the Erdtree. Meanwhile, Crucible Knight armor describes the Crucible as "the primordial form of the Erdtree." Are these the same organism at different stages of life, or did the Greater Will plant a parasite on top of an older, independent tree?
+
+The stakes are enormous. If the Erdtree naturally evolved from the Greattree, the Golden Order has a legitimate claim to succession -- it governs through the same tree that always governed, merely in a new form. But if the Greater Will colonized the Greattree and repurposed it, then the Golden Order is a foreign occupation wearing the skin of something it killed. The Erdtree's golden light becomes not a blessing but a brand of ownership.
 
 ## Evidence for Transformation (Same Tree)
 
@@ -52,7 +54,9 @@ The Elden Beast, described as *"a vassal beast, sent to the Lands Between long a
 
 ## The Root System Evidence
 
-Deeproot Depths is the critical location. At the lowest point of the underground, where the root systems converge, Godwyn's soulless corpse has fused with the roots and expanded into a massive tumor spreading Deathroot through the network. The roots in Deeproot Depths are dark, diseased, and ancient -- nothing like the golden roots visible on the surface. These are Greattree roots. The Erdtree's golden influence fades the deeper you descend, revealing the older organism beneath.
+Deeproot Depths is the critical location. At the lowest point of the underground, where the root systems converge, Godwyn's soulless corpse has fused with the roots and expanded into a massive tumor spreading Deathroot through the network. The roots in Deeproot Depths are dark, diseased, and ancient -- nothing like the golden roots visible on the surface. These are Greattree roots. The Erdtree's golden influence fades the deeper you descend, revealing the older organism beneath. The game's visual design reinforces this: the transition from golden trunk to dark roots is gradual, like peeling gilding off wood. The deeper you go, the more the original material shows through.
+
+The Elden Stars incantation, found in Deeproot Depths itself, describes the Elden Beast as having *"descended upon the Lands Between, carrying with it the Elden Ring."* That this description exists physically at the junction point between the Erdtree's golden roots and the Greattree's dark roots is suggestive -- it marks the place where the foreign power meets the native organism.
 
 The underground civilizations corroborate this. The Ancestral Followers in Siofra River worship nature spirits under a false starlit sky, predating the Erdtree entirely. The Nox of Nokron and Nokstella built cities among these deep roots and worshipped the moon and stars -- not the Erdtree, not the Golden Order. These civilizations lived alongside the Greattree's root system before the Erdtree existed. The roots they built among are the Greattree's roots, and those roots are still there, still structurally intact, still a separate layer beneath the golden veneer above.
 
@@ -92,7 +96,9 @@ The confidence level is high. No single piece of evidence contradicts this readi
 
 ## Implications
 
-This verdict reframes the entire game. The Golden Order's claim to divine authority rests on the Erdtree, but the Erdtree is a stolen body. The Omen are persecuted for bearing the tree's own original traits. The underground civilizations were destroyed for remembering what the tree used to be. Morgott died defending a tree that was, in its deepest roots, the same organism whose original nature would have accepted him -- horns and all.
+This verdict reframes the entire game. The Golden Order's claim to divine authority rests on the Erdtree, but the Erdtree is a stolen body. The Omen are persecuted for bearing the tree's own original traits -- horns, tails, and wings that are aspects of the Crucible, the tree's own primordial form. The Omenkiller surgeons who cut these traits from living children are, unknowingly, performing a kind of botanical pruning on behalf of the parasite -- removing the host's original features to better fit the new occupant's aesthetic. The underground civilizations were destroyed for remembering what the tree used to be. The Nox were banished for attempting to create an alternative to the Elden Lord -- a Lord of Night who would serve the stars, not the golden light. Their Fingerslayer Blade, designed to kill the Two Fingers, was an act of resistance against the colonizing power.
+
+Morgott's tragedy becomes almost unbearable under this reading. He died defending a tree that was, in its deepest roots, the same organism whose original nature would have accepted him -- horns and all. The Crucible did not distinguish. The Greattree did not reject. Only the Erdtree -- the colonized version, the golden mask over the old face -- branded Morgott's body as accursed.
 
 Every ending in the game involves the player reaching the Erdtree's core and reconfiguring the Elden Ring. In light of this investigation, that act is not merely political. It is an encounter with the parasite at the heart of the host. The Elden Beast is not the tree's natural guardian -- it is the thing that took the tree over. Killing it does not destroy the tree. It liberates the Greattree from the power that colonized it. What grows after depends on which Mending Rune the player installs -- but the tree itself, the ancient organism rooted in Deeproot Depths, endures.
 

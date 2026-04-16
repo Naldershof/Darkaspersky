@@ -28,6 +28,8 @@ The Remembrance of the Dragonlord states plainly: *"The Dragonlord whose seat li
 
 Two words carry the weight of an entire cosmological epoch: **"was fled."** Not "was killed," not "was overthrown," not "departed." Fled. Something caused a god to run. What was it? And what did the world look like before it left?
 
+This investigation cross-references incantation descriptions, environmental storytelling, remembrances, and the broader pattern of the Greater Will's behavior to reconstruct the pre-Erdtree age and take a position on why the god fled.
+
 ## What We Know About Placidusax
 
 Placidusax is found in the deepest, oldest layer of [Crumbling Farum Azula](../locations/farum-azula.md) -- a hidden arena reached by lying down and being transported backward in time. He originally possessed four or five heads (his model shows two intact and three severed neck stumps), each a mark of his status as Dragonlord. The loss of heads over the eons of waiting suggests a slow physical erosion, as if his vigil is literally diminishing him.
@@ -46,7 +48,8 @@ The pre-Erdtree age was not a void. It was a functioning cosmic order with its o
 - **The Beastmen** -- a pre-human civilization that served the dragons. Their beast clergy rituals, architecture, and social organization prove that intelligent civilization existed before the Erdtree age. They are the janitors of a ruin, priests of an absent god.
 - **The Greattree** -- references to a tree that predated the Erdtree, whose roots ran deep into the earth and whose cycle returned the dead to the ground rather than burning them. The Erdtree may have parasitically co-opted or replaced this older organism.
 - **The Eternal Cities** -- [Nokron and Nokstella](../locations/mohgwyn-palace.md) were cast underground by the Greater Will for the sin of attempting to create a Lord of Night. Their star-worship, lunar theology, and creation of artificial life (Silver Tears, Mimic Tears) suggest a sophisticated civilization that operated outside the Golden Order. Were they contemporaries of Placidusax's age, or remnants who survived the transition?
-- **Dragon Communion** -- the ancient practice of consuming dragon hearts to gain their power. The dragons carry a primordial divine force from the pre-Erdtree age, accessible to those willing to take it by violence.
+- **Dragon Communion** -- the ancient practice of consuming dragon hearts to gain their power. The dragons carry a primordial divine force from the pre-Erdtree age, accessible to those willing to take it by violence. That this force persists in dragon hearts long after the fled god's departure suggests the god's power was distributed through its servants, not held centrally -- a fundamentally different model from the Greater Will's concentrated hierarchy.
+- **The Dragonkin Soldiers** -- found in the underground Eternal Cities, these corrupted draconic beings suggest the Nox had their own relationship with dragon-kind. If the Nox and the dragons coexisted under the fled god's order, the Greater Will's suppression of both makes strategic sense: they were allied remnants of the old regime.
 
 ## The Fled God -- Candidate Analysis
 
