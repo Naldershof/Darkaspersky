@@ -1,180 +1,137 @@
-# Finger Reader Crones — Complete Dialogue
+# Finger Reader Crones — Prophecies and Dialogue
 
 ## Overview
 
-> (The Finger Reader Crones are elderly women found at various locations throughout the Lands Between. They read the player's fingers to offer prophecies and guidance. They are servants of the Two Fingers and the Greater Will.)
-
-[Context: Finger Readers are distinct from the Two Fingers themselves. They interpret the will of the Greater Will and offer cryptic guidance to Tarnished. They appear as hunched, elderly women in dark robes.]
+[Context: Finger Reader Crones are ancient, hunched women found at various locations throughout the Lands Between. They read the player's fingers to deliver prophecies and guidance, interpreting fate through a form of divination connected to the Two Fingers and the Greater Will. Their prophecies are often cryptic but consistently accurate, hinting at what lies ahead.]
 
 ---
 
-## Stormhill — Near the Stormgate
+## Stormhill — Near Stormveil Castle
 
-> "Let me read your fingers, Tarnished."
+> "Let me read your fingers, dear..."
 
-> "Ahh... the path ahead diverges. One leads to the castle, and a throne. The other leads down, into shadow. But both lead to the same end: the Erdtree."
+> "Ahh... I see a castle. Grey stone, stained with blood. A lord who steals the strength of others."
 
-> "The fingers speak. You are guided by grace. Faintly, but truly."
+> "Godrick the Grafted awaits you. A wretched creature. He wears the limbs of the fallen as a crown."
 
-> "Beware the gatekeeper. Margit, the Fell Omen. He will bar your way."
-
-> "The Two Fingers guide you. Trust in their wisdom."
-
-[Context: The first Finger Reader most players encounter. She points toward Stormveil Castle and warns of Margit.]
+> "Beyond him lies the path to the Erdtree. But the road is long, dear. So very long."
 
 ---
 
 ## Liurnia — Near the Academy
 
-> "Your fingers tell a tale, Tarnished."
+> "Your fingers tell a curious tale..."
 
-> "I see a full moon, shrouded in fog. A queen sits alone, cradling an amber egg. She awaits the return of one who will never come. Her love became another's. Tragic, tragic."
+> "A queen who has lost her king. She sits in moonlight, cradling an egg that will never hatch."
 
-> "The Academy of Raya Lucaria stands sealed. Its scholars have locked themselves within."
+> "Rennala, Queen of the Full Moon. Her mind is shattered. Her love, betrayed."
 
-> "A key is needed. A Glintstone Key. Search the environs of the lake."
-
-> "Beyond the Academy gates, the Queen of the Full Moon awaits. Rennala. She holds a Great Rune... of sorts."
-
-[Context: This Finger Reader provides information about Rennala's grief and the sealed Academy. Her description of Rennala is poignant — a queen abandoned by Radagon, lost in madness.]
+> "The Academy she built now worships the moon in madness. And she sits at its heart, dreaming of rebirth."
 
 ---
 
 ## Altus Plateau — Near the Grand Lift
 
-> "The fingers reveal much. You have grown strong, Tarnished."
+> "Ahh, your fingers tremble with what lies ahead..."
 
-> "I see a golden capital, where the Erdtree's roots run deep. But beneath the gold, there is something old and foul. A secret buried in the sewers. A flame that should never be touched."
+> "The capital. Leyndell. Where the Erdtree's roots run deepest."
 
-> "The Altus Plateau. The land of the Erdtree's shadow. Here, the Golden Order holds sway."
+> "A city of gold, ruled by those who call themselves holy. But beneath the gold, there is rot. Beneath the holy, there is horror."
 
-> "But the Order crumbles. The demigods war. The Erdtree's roots rot."
-
-> "Press onward. To the capital. To Leyndell. The seat of the Elden Ring awaits."
-
-[Context: The reference to "something old and foul" in the sewers foreshadows the Three Fingers and the Subterranean Shunning-Grounds beneath Leyndell.]
+> "The Erdtree's thorns will bar your way. Unless you find a flame great enough to burn them."
 
 ---
 
-## Leyndell — Before the Capital
+## Mountaintops of the Giants — Near the Forge
 
-> "Ahh... your fingers are heavy with fate."
+> "I see fire in your fingers, dear. A great fire."
 
-> "Leyndell, the Royal Capital. Seat of the Elden Ring. Home of the Golden Order."
+> "The Forge of the Giants. Where the first flame was lit. Where the Erdtree was born."
 
-> "Morgott guards the throne. The Omen King. He who was shunned by the very Order he defends."
+> "To reach the Erdtree, someone must burn. A sacrifice. A kindling."
 
-> "Two Fingers guide the faithful. Three Fingers beckon the desperate. But all fingers once were one. Remember that, when you stand before them."
+> "Your maiden knows this. She has always known."
 
-> "A tragic figure. But do not let pity stay your hand."
-
-[Context: The mention that "all fingers once were one" is a crucial cosmological detail — the Two Fingers and Three Fingers were originally a single hand, split when the One Great was divided.]
+[Context: This prophecy refers to Melina's planned sacrifice at the Forge of the Giants — she will burn herself to ignite the Erdtree and allow the player access to the Erdtree's interior. The Finger Reader reveals this truth before Melina does.]
 
 ---
 
-## Mountaintops of the Giants — Near the Fire
+## Roundtable Hold
 
-> "The fingers grow cold. The Two Fingers' guidance weakens here."
+> "Your fingers carry the weight of many deaths, dear..."
 
-> "This is the land of the Giants. The sworn enemies of the Erdtree."
+> "You have slain demigods. Collected Great Runes. You draw ever closer to the Elden Ring."
 
-> "I see a forge, burning bright. And a maiden, who will offer herself as kindling. The Erdtree does not wish to burn. But burn it must, if you are to reach what lies within."
+> "But the Ring is broken. And mending it... that is not a simple thing."
 
-> "The Forge of the Giants lies ahead. Its flame can burn the Erdtree."
+> "What you choose to mend it WITH... that will define the age to come."
 
-> "But the cost... the cost is great. A maiden must serve as kindling."
+> "Choose wisely, dear. The world hangs in the balance."
 
-> "Are you prepared to pay that price, Tarnished?"
-
-[Context: The Finger Reader acknowledges the weakening of the Two Fingers' influence in the Giants' domain — these lands predate the Erdtree and resist its power.]
+[Context: The Roundtable Hold Finger Reader comments on the player's progress and foreshadows the ending choice — which Mending Rune the player uses (or whether they use one at all) determines the nature of the new age.]
 
 ---
 
-## Roundtable Hold — The Finger Reader
+## Leyndell — Before the Erdtree
 
-### Early Game
+> "The thorns... the thorns of the Erdtree. They reject you, dear."
 
-> "Welcome, Tarnished. I read the fingers of all who come here."
+> "The Erdtree will not open its doors to the Tarnished. Not willingly."
 
-> "I see the guidance of grace. It points the way for the Tarnished — but grace can be a leash as well as a lantern. Consider who holds the other end."
+> "You must burn your way through. And burning has a cost."
 
-> "The Two Fingers have guided you well. But their guidance grows uncertain."
+> "Marika waits within. Or what remains of her. She and Radagon... they are one."
 
-> "The Ring is shattered. The Order is broken. Even the Fingers do not know what comes next."
-
-### After the Erdtree Burns
-
-> "The Erdtree... burns. The Two Fingers are silent."
-
-> "I can no longer read the fingers clearly. The future is obscured."
-
-> "Whatever comes next... it is beyond the Fingers' sight."
-
-### On the Endings (Late Game)
-
-> "I see many paths before you, Tarnished. Many possible futures."
-
-> "A lord of gold. A lord of stars. A lord of death. A lord of flame. A lord of curses. A lord of order."
-
-> "Which will you choose? The Fingers cannot say. The choice is yours alone."
-
-[Context: The Roundtable Hold Finger Reader's late-game dialogue reflects the Two Fingers' declining influence. As the Erdtree burns and the Golden Order collapses, even the Fingers' servants lose their certainty. The enumeration of possible futures corresponds to the game's six endings.]
+> "But which of them will you face? The queen who shattered? Or the king who tried to repair?"
 
 ---
 
-## Specific Prophecies and Warnings
+## Crumbling Farum Azula
 
-### On the Frenzied Flame
+> "Beyond time itself... that is where you have come."
 
-> "Stay away from the depths, Tarnished. The Three Fingers lurk below."
+> "The ancient seat of the dragons. Where the Dragonlord Placidusax once communed with a god now absent."
 
-> "The Frenzied Flame would consume all. The Erdtree. The Ring. The very world."
+> "Maliketh is here. The Black Blade. Marika's shadow. He guards the Rune of Death."
 
-> "Do not seek the Three Fingers. Their embrace is madness."
-
-### On Ranni's Path
-
-> "There are those who defy the Two Fingers. Who seek an order not of gold, but of stars."
-
-> "The Witch. Ranni. She has cast aside her Fingers and her Great Rune."
-
-> "Hers is a dangerous path. A path that leads away from the Greater Will."
-
-> "The Fingers warn you. Do not follow her."
-
-### On the Demigods
-
-> "Each demigod holds a shard of the Elden Ring. A Great Rune."
-
-> "Claim two, and you may present yourself before the Erdtree."
-
-> "But the demigods will not yield their runes willingly. You must take them."
+> "To claim the rune is to claim the power of true death. But be warned — Destined Death spares no one."
 
 ---
 
-## Finger Reader — After the Two Fingers Die
+## Consecrated Snowfield
 
-> (Late in the game, the Two Fingers at the Roundtable Hold are found dead — petrified, motionless.)
+> "A hidden path. A secret place."
 
-> "The Two Fingers... are gone. Silent. Dead."
+> "You seek the Haligtree? Miquella's sanctuary?"
 
-> "I have nothing left to read. The guidance is gone."
+> "Miquella... the most fearsome Empyrean. Not for his strength, but for his love."
 
-> "I am a reader without a text. A prophet without a god."
+> "He built the Haligtree for those the Erdtree rejected. The Omen. The Albinaurics. The cursed."
 
-> "Go, Tarnished. Whatever you do now... you do alone."
+> "And Malenia waits there. The Blade of Miquella. The Rot incarnate."
 
-[Context: The death of the Two Fingers marks the end of the Greater Will's direct influence. The Finger Readers lose their purpose — they can no longer read the will of a silent god.]
+> "Be careful, dear. She has never known defeat."
 
 ---
 
-## Notes on Finger Reader Crones' Lore Significance
+## After Becoming Elden Lord
 
-- The Finger Readers are mortal servants of the Two Fingers — not divine beings themselves. They interpret the Fingers' will and offer it as guidance.
-- Their prophecies are often accurate but incomplete. They can see the immediate path but not the ultimate destination.
-- The Two Fingers themselves are physical manifestations of the Greater Will's influence — literal giant fingers that twitch and gesture. The Finger Readers "read" these gestures.
-- As the game progresses and the Golden Order weakens, the Finger Readers' prophecies become less certain. Their loss of confidence mirrors the Greater Will's loss of control.
-- The revelation that Two Fingers and Three Fingers "were once one" (five fingers = one hand) ties into the cosmology of the One Great — the primordial unity before the Greater Will imposed division.
-- The Finger Readers at various locations serve as wayfinding NPCs — guiding the player toward the next objective. But their guidance always has the subtext of serving the Greater Will's agenda.
-- The death of the Two Fingers at the Roundtable Hold is a moment of cosmic significance: the Greater Will's instrument in the Lands Between has been silenced. From that point, the Tarnished is truly acting without divine guidance.
-- Multiple sets of Two Fingers exist — each Empyrean has their own pair. Ranni's rejection of her Two Fingers (and their subsequent death at the Cathedral of Manus Celes) is a localized version of this cosmic abandonment.
+> "Ahh... your fingers. They are different now."
+
+> "You have mended the Elden Ring. You sit upon the throne."
+
+> "What kind of lord will you be? What age have you ushered in?"
+
+> "Only time will tell, dear. Only time."
+
+---
+
+## Notes on the Finger Readers' Lore Significance
+
+- Finger Readers serve as the game's oracles, providing prophecy and exposition through the act of reading the player's fingers.
+- Their connection to the Two Fingers (and by extension the Greater Will) gives their prophecies authority, but also raises questions about whether they are providing neutral guidance or steering the player toward the Greater Will's preferred outcome.
+- Their prophecies are consistently accurate, suggesting genuine prescience rather than manipulation.
+- They appear at key transition points in the game, marking the boundary between regions and the escalation of stakes.
+- Their physical appearance — ancient, hunched, blind or near-blind — evokes classical oracle figures across mythology.
+- The act of "reading fingers" connects to the game's pervasive hand/finger imagery: the Two Fingers, the Three Fingers, the Finger Maidens, and the Finger Readers all use hands and fingers as instruments of divine communication.
+- They provide some of the game's most direct exposition, compensating for the typically oblique storytelling of FromSoftware games.

@@ -1,150 +1,143 @@
 # Boc the Seamster — Complete Dialogue
 
-## Limgrave — Disguised as a Tree (First Encounter)
+## Limgrave — The Tree (Transformed)
 
-> (Boc is first encountered disguised as a small tree along the road in Limgrave, near the Coastal Cave. He makes faint pleading sounds. If the player rolls into or strikes the tree, Boc is revealed — a small, hunched demi-human with a battered face.)
+> "...help... please..."
 
-> "Please... help me... I've been turned into a tree by those demi-humans. My mother... she was a demi-human. But I'm nothing like them."
+> "Over here... I'm a tree... no, I'm not a tree. I was turned into a tree."
 
-> "Ah! Oh! You found me! Thank you! I was stuck like that for ages!"
+> "Please, hit me. Strike me! It'll break the spell."
 
-> "I'm Boc. I'm a seamster. Well, I try to be. I alter garments. Adjust fits. That sort of thing."
+[Context: Boc is first encountered as a small tree along the road in Limgrave, near the Coastal Cave. He calls out for help in a faint voice. The player must strike the tree to free him from the transformation.]
 
-> "Those demi-humans... they beat me and turned me into a tree. Because I'm... different."
+### After Being Freed
 
-> "Thank you for freeing me. Truly."
+> "Oh! Thank you! Thank you, kind Tarnished!"
 
-[Context: Boc is a demi-human who was cursed into tree form by his own kin — likely because he is intelligent, gentle, and unlike the typically feral demi-humans. He is small, hunched, and considers himself ugly.]
+> "I am Boc. A humble seamster. I was turned into that tree by those demihumans."
 
----
+> "They stole my sewing needle too. It was my mother's. The only thing I have of hers."
 
-## Limgrave — After Being Freed
+> "If you could retrieve it... it would mean everything to me. The demihumans took it to the Coastal Cave."
 
-> "You really helped me back there. I won't forget it."
-
-> "I'm a seamster! I can alter your garments. Change the look, adjust the fit."
-
-> "Please, let me do this for you. It's the least I can do."
-
-> "My mum taught me to sew. She was the best seamster in all the Lands Between. Or so I like to think."
-
-### On His Mother
-
-> "My mum... she was a demi-human too. But she was kind. Gentle."
-
-> "She made the most beautiful garments. She could take any piece of cloth and turn it into something magnificent."
-
-> "She told me I was beautiful. That I had clever hands. That I could make the world more beautiful, one stitch at a time."
-
-> "She's gone now. But I remember her words. Every one."
-
-### On the Coastal Cave
-
-> "This was my mother's cave. She was a demi-human, but she was kind. She always told me I was beautiful. I miss her. I think... she may have been the only one who ever thought so."
-
-[Context: The Coastal Cave where Boc's mother lived can be cleared by the player. The demi-humans within may have been responsible for turning Boc into a tree.]
+[Context: Boc is a demihuman — one of the small, ape-like creatures found throughout the Lands Between. Unlike the hostile demihumans, Boc is gentle, articulate, and devoted to his craft. He was cast out by his own kind.]
 
 ---
 
-## Liurnia — Near the Lake-Facing Cliffs
+## After Returning the Needle
 
-> "M'lord! I found you again. I hope that's alright."
+> "My needle! My mother's needle! You found it!"
 
-> "I can alter garments, if you'll let me. I... I know I'm not much to look at. But my stitchwork is fine, I promise."
+> "Thank you. I can't repay you enough. This needle... it's all I have of her."
 
-> "I've been thinking... maybe I could be useful. Not just as a seamster, but as a companion."
+> "My mother... she was a seamster too. She taught me everything. How to cut, how to stitch, how to make things beautiful."
 
-> "I know I'm not strong. Not like you. But I can mend things. Fix things. Make them better."
+> "She said I was beautiful. She was the only one who ever said that."
 
-> "That counts for something, right?"
-
-[Context: Boc follows the player through the world, appearing at various Sites of Grace. He is eager to be useful and desperately wants to be valued.]
+[Context: Boc's mother is central to his identity. She affirmed his worth and taught him his craft. Without her, he has no one who accepts him.]
 
 ---
 
-## Altus Plateau — Near the Erdtree
+## Liurnia — Following the Player
 
-> "M'lord! The Erdtree... it's so beautiful up close."
+> "Tarnished! I've been following you. I hope you don't mind."
 
-> "Do you think... do you think someone like me could ever be beautiful?"
+> "I wanted to offer my services. As a seamster. I can alter your garments."
 
-> "I'm ugly. I know that. The other demi-humans told me so. Everyone tells me so."
+> "Change the fit. Adjust the style. Remove the cape, if you like."
 
-> "My mum said I was beautiful. But mums always say that, don't they?"
+> "It's the least I can do, after you saved me."
 
-[Context: Boc's insecurity deepens as he sees the beauty of the Erdtree. His self-loathing is one of the game's most heartfelt emotional threads.]
+[Context: Boc appears at various sites of grace throughout the game, offering to alter the player's armor cosmetically. He removes capes, changes fits, and adjusts appearances — all for free.]
 
----
+### On His Craft
 
-## Roundtable Hold / Leyndell — The Transformation Quest
+> "Sewing is all I know. It's what my mother taught me."
 
-### Boc's Desire
+> "I may not be able to fight like you. But I can make sure you LOOK magnificent while you fight."
 
-> "M'lord, I've been thinking. There's a way to be reborn at the Academy. Born anew, as someone... beautiful."
-
-> "They say Queen Rennala can rebirth you. Change you. Make you into something new."
-
-> "If I were reborn... I could be human. Beautiful. No longer ugly."
-
-> "Do you think I should do it? Would you still want my services if I were different?"
-
-### If the Player Takes Boc to Rennala (Without Intervention)
-
-> "You... you'd give me this? Then I'll do it. I'll be reborn. I'll finally be beautiful, like my mother said."
-
-> "This is it. Rennala's Grand Library. She can rebirth me."
-
-> "I'll be beautiful. Finally. No more ugly Boc."
-
-> "Thank you. For bringing me here. For believing in me."
-
-> (Boc undergoes Rennala's rebirth. He is transformed into a larval husk — the same fate as all of Rennala's imperfect rebirths. He effectively dies, losing his identity and consciousness.)
-
-[Context: If the player gives Boc a Larval Tear and allows the rebirth to proceed, he is destroyed. Rennala's rebirth is imperfect for all but the player character — she cannot create true rebirths since Radagon left. Everyone else becomes a mindless larval form. This is one of the game's cruelest possible outcomes for a kind NPC.]
-
-### If the Player Uses the "You're Beautiful" Prattling Pate
-
-> (The Prattling Pate "You're Beautiful" is found in the Hermit Village on Mt. Gelmir. If used near Boc before he undergoes rebirth:)
-
-> "You... you think so? Beautiful... just like my mother said."
-
-> "Thank you, m'lord. I think... I think I'll stay as I am. My mother was right all along."
-
-> "I don't need to be reborn, do I? I don't need to change."
-
-> "My mum loved me as I was. And you... you see me the same way."
-
-> "Thank you. I'll stay as I am. Ugly old Boc. But... beautiful, too."
-
-> "I'll keep sewing. Keep altering. Make the world more beautiful, one stitch at a time. Just like mum taught me."
-
-[Context: Using the "You're Beautiful" Prattling Pate near Boc echoes his mother's words and convinces him to accept himself. This is the only way to save Boc from the fatal rebirth. It is one of the game's most hidden and most emotionally rewarding interactions.]
+> "A warrior should look the part, don't you think?"
 
 ---
 
-## Boc — After Being Saved
+## On Being a Demihuman
 
-> "M'lord, I'll keep altering garments for you. I'm happy as I am. My mother was right all along."
+> "I know what I am. A demihuman. Ugly. Unwanted."
 
-> "I've decided to stay. As I am."
+> "The other demihumans cast me out. They said I was different. Wrong."
 
-> "I'm Boc the Seamster. And I'm beautiful."
+> "And humans... humans see a demihuman and reach for their weapons."
 
-> "Bring me your garments, and I'll make them shine. That's my gift. That's my purpose."
+> "You're the first person who didn't. The first person who helped me."
 
-> "Thank you. For seeing me."
+> "Sometimes I wonder... if I were human, would things be different? Would people see me differently?"
 
-[Context: A saved Boc remains at his post throughout the game, content and grateful. He continues to offer garment alteration for free.]
+---
+
+## The Wish to Be Reborn
+
+> "I've heard of a way to be reborn. To change what you are."
+
+> "Rennala, the Queen of the Full Moon. She can rebirth you. Give you a new form."
+
+> "If I could be reborn... as a human... I wouldn't be ugly anymore. People wouldn't look away."
+
+> "I found something. A Larval Tear. They say it's needed for the rebirth."
+
+> "Would you... would you think less of me? If I asked to be reborn?"
+
+[Context: Boc obtains a Larval Tear and contemplates using it to be reborn as a human through Rennala's rebirth mechanic. This is a critical moment in his quest — his self-loathing has driven him to consider fundamentally changing what he is.]
+
+---
+
+## The Choice — Larval Tear Path
+
+### If the Player Lets Boc Be Reborn (or Does Not Intervene)
+
+> "I'm going to do it. I'm going to be reborn. As a human."
+
+> "When we meet again... I'll be beautiful. You'll see."
+
+[Context: If Boc uses the Larval Tear and is reborn by Rennala, he dies. The rebirth kills him — demihumans cannot survive the process. His body is found in Rennala's chamber, crumpled and lifeless. He died trying to become something he was never meant to be.]
+
+### If the Player Uses the Prattling Pate "You're Beautiful"
+
+> "What... what did you say?"
+
+> "You're... beautiful? Me?"
+
+> "...My mother used to say that. 'You're beautiful, Boc.' She was the only one."
+
+> "And now you. You said it too."
+
+> "...Maybe I don't need to be reborn. Maybe I'm already... enough."
+
+> "Thank you. You sound just like my mum."
+
+> "I'll stay as I am. Boc the Seamster. Ugly, maybe. But a damn fine seamster."
+
+[Context: Using the "You're Beautiful" Prattling Pate near Boc convinces him not to seek rebirth. The simple affirmation — the same words his mother used — is enough to save his life. He abandons the rebirth plan and continues as the player's seamster, at peace with himself.]
+
+---
+
+## After Being Saved from Rebirth
+
+> "I've been thinking about what you said. About being beautiful."
+
+> "Maybe beauty isn't about what you look like. Maybe it's about what you do. What you make."
+
+> "My stitching is beautiful. My alterations are beautiful. And my mother... she was beautiful."
+
+> "I am Boc. A demihuman. A seamster. And that's enough."
 
 ---
 
 ## Notes on Boc's Lore Significance
 
-- Boc is a rare intelligent demi-human. Demi-humans are typically feral, hostile creatures in the Lands Between. Boc's intelligence and gentleness make him an outcast among his own kind.
-- His quest is about self-acceptance in a world that values only strength and beauty. The Lands Between is full of beings who transform themselves to gain power (Godrick's grafting, Rykard's serpent, Rennala's rebirth). Boc's quest shows the human cost of that desire.
-- Rennala's rebirth is imperfect — she lost her ability to create true rebirth when Radagon left. Her "children" are all larval husks, doomed to an incomplete existence. Boc's fate, if reborn, is the same.
-- The "You're Beautiful" Prattling Pate is a direct counter to the game's themes of transformation and power-seeking. Sometimes the answer is not to change, but to accept.
-- Boc's mother is implied to have been exceptional among demi-humans — gentle, skilled, and loving. Her influence made Boc who he is.
-- The sewing/garment alteration mechanic is the game's method of changing armor appearance without changing stats. Boc provides this service for free — a reflection of his generous nature.
-- Boc's story is one of the game's most easily missable — he can be left as a tree forever, or killed accidentally, or sent to a death he doesn't understand. Saving him requires finding an obscure item (the Prattling Pate on Mt. Gelmir) and using it at the right moment.
-- His repeated use of "M'lord" shows his deference and desire to serve — he finds identity through being useful to someone who values him.
+- Boc's quest is one of the game's most emotionally direct: a gentle creature hated for what he is, who must learn to accept himself.
+- The Larval Tear path is a trap — rebirth kills Boc, punishing the player for not intervening. It teaches that changing who you are to please others can be fatal.
+- The "You're Beautiful" Prattling Pate is one of the game's most obscure quest solutions and one of its most powerful — a single phrase saving a life.
+- Boc's demihuman identity connects to the game's themes of persecution: like the Omen, the Albinaurics, and the merchants, demihumans are marginalized by the Golden Order's hierarchy.
+- His mother's needle is both a practical tool and an emotional anchor — the last connection to the only person who loved him unconditionally.
+- His willingness to alter armor for free (when every other service in the game costs runes) reflects genuine gratitude and generosity.
+- Boc represents the power of small kindnesses in a world of grand violence: being freed from a tree, having a needle returned, being told you're beautiful — these tiny acts save his life.

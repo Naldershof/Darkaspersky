@@ -1,150 +1,131 @@
-# Nomadic Merchants — Dialogue and Lore
+# Nomadic Merchants — Complete Dialogue
 
-## Generic Merchant Dialogue
+## General Merchant Dialogue
 
 ### Greeting
 
-> "What do you want? If you're buying, browse my wares. If not, move along."
+> "Ahh, a customer. You are welcome here."
 
-> "Another customer? Very well. Have a look."
+> "Come, see my wares. I have all manner of goods."
 
-> "Ah, a Tarnished. I have wares that may interest you."
+[Context: Nomadic merchants are found throughout the Lands Between, typically sitting by campfires with a donkey nearby. They sell various items, crafting materials, and sometimes unique weapons or notes. They all share similar dialogue patterns but have distinct inventories based on their location.]
 
 ### When Purchasing
 
-> "A fine choice. I hope it serves you well."
+> "A fine choice. Use it well."
 
-> "Pleasure doing business."
+> "Thank you for your patronage."
 
-### When Leaving Without Purchasing
+### When Leaving
 
-> "Changed your mind? Suit yourself."
+> "Travel safely. The roads are treacherous."
 
-> "Come back when you've got the coin."
+> "Come again, if you've a need."
 
-### When Attacked
+### If Attacked
 
-> "Why?! What did I do to deserve this?!"
+> "Why? Why would you do this?"
 
-> "You'd kill a merchant? For what?"
+> "We have done nothing to you! Nothing!"
 
-[Context: Nomadic Merchants are found throughout the Lands Between, each selling unique goods. They are solitary figures, often found near ruins or roads, playing mournful music on their instruments.]
+> "We only wished to trade. To live in peace."
 
----
-
-## Merchant Kale — Church of Elleh (Limgrave)
-
-### First Meeting
-
-> "Ahh, you look hungry. I'm a merchant. Kale's the name. I've a nose for business."
-
-> "I've set up shop here. At the Church of Elleh. A good spot — plenty of Tarnished passing through."
-
-> "Have a look at my wares. I've got everything a budding Tarnished needs."
-
-### On the Howling in the Mistwood
-
-> "You've heard the howling, have you? In the Mistwood?"
-
-> "That's no wolf. Well, not an ordinary one. That's Blaidd. A half-wolf."
-
-> "He's a good sort. If you want to meet him, try snapping your fingers when you hear his howl."
-
-> "Here, I'll teach you the gesture. The Finger Snap."
-
-[Context: Kale is the first merchant most players encounter. He provides the Finger Snap gesture that allows the player to summon Blaidd down from the Mistwood Ruins. Kale seems to know Blaidd personally, hinting at connections between the merchants and those who operate outside the Golden Order.]
-
-### On Being a Merchant
-
-> "We merchants are travelers. Nomads. We go where the roads take us."
-
-> "We were not always so scattered. Once, we were a great caravan. The Great Caravan. Hundreds of us, travelling the Lands Between."
-
-> "But that was long ago. Before the persecution."
-
-> "Now we wander alone. Each to our own patch of road."
+[Context: Attacking merchants causes them to become hostile. They fight back with their saw-blade weapons. The player's violence against these peaceful traders mirrors the persecution the merchants suffered historically.]
 
 ---
 
-## The Merchant's Note — The Great Caravan
+## The Merchant's Song
 
-> (Found as an item: the Note on the Great Caravan, sold by a merchant or found in the world.)
-
-> "The Great Caravan was a traveling community. Merchants, performers, artisans. We moved from city to city, selling our wares and sharing our songs."
-
-> "But the Golden Order deemed us heretics. They said our music summoned the Frenzied Flame. That our songs were prayers to the Three Fingers."
-
-> "They rounded us up. Every man, woman, and child. And they sealed us underground. In the Subterranean Shunning-Grounds, beneath Leyndell."
-
-> "Left to die in the dark. Surrounded by madness. By the very flame they accused us of worshipping."
-
-> "Some of us escaped. Scattered to the winds. But most did not."
-
-> "The song you hear us play... it is a lament. For the Great Caravan. For those who were buried alive."
-
-[Context: This is one of the game's most important lore documents. The merchants were persecuted by the Golden Order and sealed underground, where many of them were indeed driven to the Frenzied Flame. The Three Fingers' chamber lies in the deepest part of the same dungeon where the merchants were imprisoned.]
+[Context: At night, some nomadic merchants play a mournful tune on a two-stringed instrument. This haunting melody is one of the game's most atmospheric ambient sounds. The song is never given lyrics in-game, but its tone is unmistakably one of grief and longing. It is a lament for the Great Caravan — the merchant community that was buried alive beneath the capital.]
 
 ---
 
-## Subterranean Shunning-Grounds — The Merchant's Song
+## The Nomadic Merchant's Note
 
-> (Deep in the sewers beneath Leyndell, in a hidden chamber, the player finds the bodies of dozens of merchants. They are dead, seated in circles, their instruments still in their hands. A mournful song echoes from nowhere.)
+> "The Great Caravan once traversed the Lands Between. We were travellers. Traders. We brought goods from one end of the world to the other."
 
-> (Nearby, a merchant's note reads:)
+> "But the Golden Order despised us. Called us heretics. Said our wandering was a rejection of the Erdtree's grace."
 
-> "We were innocent. We played our songs. We traded our wares. We harmed no one."
+> "They rounded up the Great Caravan. Thousands of us. And they sealed us underground. Beneath the capital. In the Subterranean Shunning-Grounds."
 
-> "But the Golden Order feared what they could not control. And so they destroyed us."
+> "Buried alive. Left to rot in the dark."
 
-> "If any find this place... know that we were real. We lived. We laughed. We sang."
+> "And there, in the depths, driven mad by suffering and darkness, the Frenzied Flame found us."
 
-> "And they buried us alive."
+> "Or perhaps we found it. Perhaps our agony gave it voice."
 
-[Context: The mass grave of the Great Caravan is one of the game's most haunting locations. The merchants were sealed underground by the Golden Order — and their suffering and despair drew the attention of the Three Fingers, which took root in the depths beneath them. The Golden Order's persecution CREATED the very threat they feared.]
-
----
-
-## Nomadic Merchant — Isolated Merchant (Caelid)
-
-> "Don't come any closer. I'm not... I'm not well."
-
-> "The rot... it's in the air here. In the water. In everything."
-
-> "I came to Caelid to trade. A foolish decision. Now I can't leave."
-
-> "Buy something, if you want. It might be the last transaction I ever make."
-
-[Context: Merchants in Caelid reflect the devastation of the Scarlet Rot. They are sick, desperate, and trapped.]
+[Context: This note, found on a merchant's corpse or purchased from certain merchants, reveals the origin of the nomadic merchants' persecution and their connection to the Frenzied Flame. The Great Caravan was a massive merchant community that the Golden Order buried alive beneath Leyndell. Their collective suffering attracted — or perhaps created — the Frenzied Flame.]
 
 ---
 
-## Nomadic Merchant — Isolated Merchant (Mountaintops)
+## Additional Merchant Notes
 
-> "Cold... so cold."
+### On the Buried Merchants
 
-> "I should never have come this far. But the wares up here... they fetch a high price."
+> "We who remain on the surface are the scattered remnants. Those who were not present when the Caravan was sealed."
 
-> "Greed will be the death of me. Literally."
+> "We carry the memory. The song. The grief."
+
+> "Our kin lie beneath the earth. Their screams gave birth to something terrible."
+
+> "The Three Fingers. The Frenzied Flame. Born of our suffering."
+
+### On the Frenzied Flame
+
+> "They say a flame burns in the deepest depths. A flame born of madness and grief."
+
+> "Our people lit that flame. Not by choice. By suffering."
+
+> "The flame of frenzy is our curse. Our legacy. The Golden Order buried us, and from that burial, a power emerged that would burn the world."
 
 ---
 
-## Nomadic Merchant — Isolated Merchant (Weeping Peninsula)
+## Kale — The Merchant at Church of Elleh
 
-> "The ruins here... they were once part of a great castle. Before the Shattering."
+> "Ah, hello. I am Kale. A nomadic merchant."
 
-> "I find things in the rubble sometimes. Relics of a better age."
+> "You're a Tarnished, aren't you? Fresh off the boat, by the look of you."
 
-> "Buy something, won't you? It's lonely out here."
+> "Buy something, if you like. I've got a fair selection."
+
+[Context: Kale is the first merchant most players encounter, found at the Church of Elleh near the start of the game. He is friendlier and more talkative than most merchants.]
+
+### On the Howling in Mistwood
+
+> "That howling... you've heard it too? In the Mistwood?"
+
+> "I know that howl. It belongs to a friend of mine. A half-wolf by the name of Blaidd."
+
+> "Here, take this. The Finger Snap. It's a gesture. Use it near the howling, and he'll come to you."
+
+> "Tell him Kale sent you. He can be... prickly. But he's a good sort."
+
+[Context: Kale gives the player the Finger Snap gesture and information about Blaidd. His familiarity with Blaidd suggests connections between the nomadic merchants and those who live outside the Golden Order's influence.]
+
+### On Life as a Merchant
+
+> "We merchants... we don't have a home. Haven't for a long time."
+
+> "We wander. We trade. We survive."
+
+> "The Golden Order doesn't care for our kind. Never has."
+
+> "But we endure. That's what we do. We endure."
 
 ---
 
-## Notes on Nomadic Merchant Lore Significance
+## Cut Content — Kale's Expanded Role
 
-- The Nomadic Merchants are descendants (or survivors) of the Great Caravan — a community persecuted and sealed underground by the Golden Order.
-- Their persecution is one of the Golden Order's greatest atrocities. The merchants were accused of summoning the Frenzied Flame through their music, but it was actually their imprisonment and suffering underground that drew the Three Fingers.
-- The irony is central: the Golden Order's fear of the Frenzied Flame led them to create the conditions for its manifestation. The self-fulfilling prophecy is a recurring theme in Elden Ring.
-- The merchants' mournful music (played on their instruments when the player is nearby) is a lament for the Great Caravan — a song of grief and remembrance.
-- Merchant Kale's knowledge of Blaidd suggests connections between the merchants and the Carian faction (Ranni's people). Both operate outside the Golden Order's sanction.
-- Killing a merchant drops their Bell Bearing, which can be given to the Twin Maiden Husks at the Roundtable Hold to access their inventory. This mechanic implies the merchants' wares persist even after death — their trade carries on.
-- The mass grave in the Subterranean Shunning-Grounds is directly above the Three Fingers' chamber, reinforcing the causal link between the merchants' suffering and the Frenzied Flame's emergence.
-- In the DLC cut content, Kale was originally planned to have a larger role involving the discovery of the merchant genocide. This was cut but the lore remains in the base game.
+[Context: In cut content discovered through datamining, Kale had a significantly expanded role. He would have been the player's primary connection to the merchant lore, eventually revealing the full story of the Great Caravan and guiding the player to the Subterranean Shunning-Grounds. His questline would have directly connected the merchant persecution to the Frenzied Flame, making the player's choice to accept or reject the flame a matter of historical justice versus nihilistic destruction. While this content was cut, the merchant notes and environmental storytelling preserve the core narrative.]
+
+---
+
+## Notes on Merchant Lore Significance
+
+- The nomadic merchants are survivors of a genocide. The Great Caravan was buried alive by the Golden Order, and the scattered merchants who remain are refugees carrying the memory of that atrocity.
+- The Frenzied Flame was born from — or attracted to — the merchants' suffering in the depths beneath Leyndell. This makes the Frenzied Flame a product of the Golden Order's own cruelty.
+- The merchant's song, played at night on their instruments, is a lament for the buried. It is one of the game's most evocative environmental storytelling elements.
+- Kale's connection to Blaidd hints at a network of outcasts and exiles who support each other outside the Golden Order's reach.
+- The merchants' saw-blade weapons and fighting style suggest a martial tradition born of necessity — wanderers who learned to defend themselves against a hostile world.
+- The merchants' persecution by the Golden Order adds moral complexity to every ending: the Order that claims to protect the world committed genocide against an entire people.
+- The connection between the merchants and the Frenzied Flame creates one of the game's deepest moral dilemmas: is the flame justified as vengeance for an atrocity, or is its nihilistic destruction a second atrocity born from the first?
