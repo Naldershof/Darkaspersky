@@ -2,151 +2,140 @@
 
 ## Roundtable Hold — Smithing
 
-### Initial Meeting
+### Initial Greeting
 
-> "I am Hewg. The smithing master of this place."
+> "I am Hewg. A smith. I strengthen weapons."
 
-> "I can strengthen your armaments. Bring me the materials, and I will see it done."
+> "Bring me your armaments and I will improve them. That is my purpose. My sole purpose."
 
-> "That is my purpose. To smith. To strengthen. To forge weapons fit for a lord."
+[Context: Master Hewg is the blacksmith at the Roundtable Hold. He is an Omen — horns sawn off, chained to his smithing area. He is gruff, focused, and utterly dedicated to his craft.]
 
-[Context: Master Hewg is the blacksmith at the Roundtable Hold. He is an ancient, weathered Misbegotten — one of the twisted beings typically found as enemies. He sits in chains before his anvil, permanently bound to the Hold.]
+### On Smithing
 
-### On His Craft
+> "Lay out your arms, then. I'll improve them."
 
-> "Smithing is simple work. You bring me stone, I hammer it into the weapon. Strengthen the steel, hone the edge."
+> "A weapon is only as good as the hand that wields it and the smith that forges it. I intend to do my part."
 
-> "But there is an art to it too. Every weapon has a soul. A purpose. I merely bring it out."
+> "Smithing stones. Somber smithing stones. Bring them to me, and I'll put them to use."
 
-> "I've smithed weapons for longer than I can remember. Longer than anyone remembers."
+### When Upgrading Weapons
+
+> "Hmm. A fine armament. It will serve you well, once I've finished with it."
+
+> "There. Improved. Take it and put it to good use."
 
 ---
 
 ## On His Chains
 
-> "These chains? They bind me to this place. To this anvil."
+> "These chains? They bind me to this place. To this work."
 
-> "I was imprisoned here long ago. Bound by the Greater Will — or its servants. I cannot leave."
+> "I am an Omen. You know what that means, don't you? Born with horns. Born cursed."
 
-> "But I do not struggle against them. Not anymore. The chains give me purpose. Without them, I would be... nothing."
+> "They sawed off my horns. Chained me here. Gave me a hammer and told me to smith."
 
-> "A Misbegotten, unchained. What would that be? A beast. A monster. The chains make me a smith."
+> "But I do not resent the chains. They give me purpose. Without them, I would be nothing."
 
-[Context: Hewg is chained to the Roundtable Hold, forced to work as its blacksmith. He is a Misbegotten — a race created to serve, considered lesser beings by the Golden Order. His chains are both literal imprisonment and, in his mind, the only thing giving his existence meaning.]
-
-### On Being Misbegotten
-
-> "I know what I am. A Misbegotten. Born to serve. Born less than human."
-
-> "The Golden Order has no place for my kind, except in chains or in the ground."
-
-> "But at this anvil, I am more than what they made me. I am a master smith. That, they cannot take from me."
+[Context: Hewg is an Omen, one of the cursed beings born with vestigial horns and tails. The Golden Order considers them abominations. His horns were removed and he was chained to the Roundtable Hold to serve as its smith. Despite this, he has found meaning in his craft.]
 
 ---
 
-## His Mission — The God-Slaying Weapon
+## On His Mission — A God-Slaying Weapon
 
-> "I was given a task. Long ago. A task I have not yet completed."
+> "I was given a task. A task that consumes me."
 
-> "To forge a weapon that can slay a god."
+> "To forge a weapon capable of slaying a god."
 
-> "Every weapon I strengthen, every armament I improve — I study it. I learn from it. I search for the secret. The formula. The method."
+> "That is why I smith. Why I study every armament you bring me. Why I sharpen and temper without rest."
 
-> "A weapon to slay a god. That is my obsession. My reason for being."
+> "Somewhere, in all the weapons of this world, there is the secret. The key to making something that can kill a god."
 
-> "Marika... Queen Marika herself tasked me. Or so I believe. My memory is not what it was."
+> "Queen Marika herself tasked me. She said... she said she wanted a weapon that could slay a god. Even her."
 
-[Context: Hewg's ultimate purpose is to forge a god-slaying weapon. This connects directly to Marika's hidden agenda — she wanted the Elden Ring shattered and the Golden Order challenged, and a god-slaying weapon would be essential for a Tarnished to confront the Elden Beast. Hewg's mission, though he barely remembers it, is part of Marika's long game.]
+[Context: Hewg's ultimate purpose is revealed: Queen Marika ordered him to forge a god-slaying weapon. This is extraordinary — Marika, the god of the Erdtree, commissioned a weapon to kill HERSELF. This connects to Marika's complex plan: she shattered the Elden Ring, knowing that a Tarnished would need to eventually challenge and potentially slay the vessel of the Elden Ring to rebuild the world.]
 
-### On Marika
+### On the Progress
 
-> "Marika... I remember her. Or I think I do. A woman of light. Of purpose."
+> "I have not yet succeeded. But I am close. I can feel it."
 
-> "She came to me. Told me to forge. To keep forging until I found the answer."
+> "Every weapon I improve brings me closer to understanding. The nature of divine flesh. The weakness in a god's defences."
 
-> "I have been forging ever since. How long? I cannot say. The days blur together."
-
----
-
-## Hewg — Memory Fading
-
-### Mid-Game
-
-> "Sometimes I forget why I'm here. The chains remind me. The anvil reminds me."
-
-> "But the details... the faces... they slip away."
-
-> "Did I have a name before Hewg? I don't remember. Did I have a home? I don't remember."
-
-> "All I know is the anvil. The hammer. The fire."
-
-### Late Game
-
-> "Who are you? ...Ah, yes. The Tarnished. Forgive me. My memory fails."
-
-> "I know you. I've strengthened your weapons. Many times."
-
-> "But sometimes... I look at you and see a stranger. Then I look again and remember."
-
-> "The years weigh on me. The chains grow heavy. But I cannot stop. Not until the weapon is complete."
+> "Your weapons... when I work on them, I learn. You are helping me more than you know."
 
 ---
 
 ## On Roderika
 
-> "The girl? Roderika?"
+> "The girl? Roderika? She has a gift. Spirit tuning."
 
-> "She has a gift. Spirit tuning. A rare talent."
+> "I told her she should pursue it. She has the talent. More talent than she knows."
 
-> "I was... reluctant. To take her under my wing. What good is a master who cannot remember his own lessons?"
+> "...Don't read too much into it. I simply recognise skill when I see it."
 
-> "But she is persistent. And kind. She reminds me of... someone. I cannot remember who."
+> "She reminds me... well. Never mind. Just see that she's taken care of."
 
-> "She calls me Master Hewg. No one has called me master in... a very long time."
-
-[Context: Hewg initially resists Roderika's presence but gradually warms to her. Their relationship is one of the game's most touching — an ancient, forgotten craftsman and a frightened young woman, finding purpose in each other's company.]
-
-### On Roderika's Progress
-
-> "She learns quickly. Spirit tuning is not unlike smithing — you must understand the material. The spirit. Its nature."
-
-> "I am... proud of her. Is that strange? A Misbegotten, proud of a Tarnished?"
+[Context: Hewg develops a gruff fondness for Roderika, encouraging her to develop her spirit tuning abilities. Their relationship is one of the game's quietest and most touching — the old smith and the frightened young woman, both finding purpose at the Roundtable Hold.]
 
 ---
 
-## Hewg — Endgame (The Erdtree Burns)
+## As the Game Progresses — Memory Fading
 
-> "The Erdtree... it burns. The world is ending."
+> "I... what was I doing? Ah, yes. Smithing. Always smithing."
 
-> "And still I smith. Still I search for the answer. The god-slaying weapon."
+> "Forgive me. My memory... it fades. The details blur."
 
-> "Perhaps I have already forged it. Perhaps it is in your hands right now, and I simply do not recognize it."
+> "But the work remains clear. The hammer. The anvil. The weapon. I must forge a weapon to slay a god."
 
-> "Take your weapons, Tarnished. Go. Do what must be done."
+> "That I remember. That I will ALWAYS remember."
 
-> "I will be here. At my anvil. Until the end."
+[Context: As the game progresses, Hewg's memory begins to deteriorate. He forgets conversations, forgets faces, but never forgets his mission. This deterioration may be connected to the Roundtable Hold's declining power as the Erdtree weakens.]
 
-### Final Words (As the Hold Crumbles)
+### Later Still
 
-> "Who... who are you? Where am I?"
+> "Who are you? Have we met?"
 
-> "This anvil... I know this anvil. But why am I here?"
+> "...Ah. Yes. You bring weapons. I improve them. That is the arrangement."
 
-> "I must... forge something. Something important. But I cannot remember what."
+> "My apologies. The memory... it comes and goes. But the smithing — the smithing never falters."
 
-> "...Roderika. Where is Roderika? She was here. Just now."
+---
 
-> "I must keep forging. I must..."
+## Endgame — The Erdtree Burns
 
-[Context: In the final stages of the game, as the Roundtable Hold burns, Hewg's memory has almost entirely failed. He no longer remembers the player, his mission, or Roderika. He knows only the anvil and the hammer. His final moments are spent doing the only thing he remembers — smithing. It is one of the game's most quietly devastating scenes.]
+> "The Erdtree... it burns. I can feel it. Even here."
+
+> "This place... the Roundtable Hold... it is ending."
+
+> "But the weapon. YOUR weapon. It is ready. It has always been ready."
+
+> "Every time I improved your arms, I was building toward this. A weapon worthy of slaying a god."
+
+> "Take it. Go. Do what must be done."
+
+> "I... I may not remember you when you return. But know this — I am proud. Proud of the work. Proud of the weapon."
+
+> "Now go, Tarnished. Go and slay a god."
+
+[Context: In the endgame, as the Roundtable Hold begins to crumble, Hewg delivers his most emotional dialogue. He acknowledges that the player's weapon — whatever it is — has become the god-slaying instrument he spent his life trying to forge. His pride in the work transcends his fading memory.]
+
+### Final State
+
+> "Marika... is that you? Have I done it? Is the weapon complete?"
+
+> "I... I can't remember. But I think... yes. I think I've done it."
+
+> "A weapon to slay a god. At last."
+
+[Context: In his final state, Hewg is nearly gone — his memory reduced to fragments. He mistakes the player for Marika and believes his task is complete. The Roundtable Hold is abandoned around him, but he remains at his anvil, chained and content.]
 
 ---
 
 ## Notes on Hewg's Lore Significance
 
-- Hewg's mission to forge a god-slaying weapon connects directly to Marika's hidden plan to shatter the Elden Ring and challenge the Greater Will.
-- His fading memory mirrors the decay of the world itself — as the Lands Between crumble, so does the mind of its greatest smith.
-- His identity as a Misbegotten in chains highlights the Golden Order's caste system — even the most skilled craftsman is still a prisoner if he is born wrong.
-- His relationship with Roderika is one of the game's few purely positive NPC interactions — a mentor-student bond untainted by schemes or betrayal.
-- The ambiguity of whether Hewg ever achieved his goal is deliberate. Every weapon the player uses was strengthened by Hewg. If the player slays the Elden Beast, then Hewg succeeded — he just doesn't remember.
-- His final scene, confused and alone in the burning Hold, is a meditation on the cruelty of time and the dignity of purpose, even when that purpose is forgotten.
+- Hewg's mission — forging a god-slaying weapon on Marika's own orders — is one of the game's most significant lore revelations. It proves that Marika planned her own potential destruction.
+- His status as a chained Omen reflects the systematic oppression of the Omen by the Golden Order. Even in service, they are treated as prisoners.
+- His fading memory is a poignant tragedy: the one thing he cannot forget is his purpose, even as everything else slips away.
+- His relationship with Roderika is one of the game's few genuine emotional connections — two broken people finding warmth in a crumbling world.
+- The fact that he remains at his anvil even as the world ends speaks to the dignity of craft and purpose, even under chains.
+- His confusion of the player with Marika in his final moments suggests either the player has attained a godlike status, or his mind has fully retreated to the moment he received his mission.
+- Hewg represents the game's theme of purpose versus freedom: he finds meaning in his chains, but that meaning was imposed on him. Is he fulfilled or merely conditioned?
