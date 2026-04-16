@@ -8,6 +8,22 @@ Chronological record of ingests, queries, and maintenance passes.
 
 ---
 
+## 2026-04-16 — Investigations: Empyreans, Marika, and the Death Cycle
+
+**Scope:** Three new deep investigations into foundational lore questions.
+
+**Created:**
+- `docs/investigations/what-is-an-empyrean.md` — Defines the Empyrean system as a succession mechanism with embedded surveillance (shadows). Key finding: the system has a 100% rebellion/failure rate.
+- `docs/investigations/marikas-true-motivation.md` — Synthesizes the rebel/mother/manipulator debate. Verdict: she is all three, and the Radagon duality is the key.
+- `docs/investigations/death-and-the-erdtree-cycle.md` — Maps how death works in the Lands Between and what Marika broke by removing Destined Death.
+
+**Key findings:**
+1. Empyreans are vessels *prepared* for godhood, not honored with it. The shadow system exists to destroy them if they rebel. Every Empyrean in history has either rebelled, been corrupted, or attempted independent ascension.
+2. Marika's actions form a coherent timeline when read as a decades-long plan: exile Godfrey → remove Destined Death → co-conspire the Night of Black Knives → shatter the Ring. But the Radagon half of her genuinely tried to stop it.
+3. The removal of Destined Death is the original sin — without it, Godwyn's half-death corrupted the entire root system, creating Deathroot and Those Who Live in Death.
+
+---
+
 ## 2026-04-16 — Investigation: The Moral Weight of Every Ending
 
 **Scope:** Full moral analysis of all six endings plus DLC context.

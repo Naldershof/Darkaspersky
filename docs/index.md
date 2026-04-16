@@ -124,6 +124,9 @@ Deep dives into the biggest unsolved questions — cross-referencing all evidenc
 | [The Erdtree vs the Greattree](investigations/erdtree-greattree-identity.md) | The Erdtree is the Greattree colonized and repurposed by the Greater Will |
 | [The Morality of Every Ending](investigations/endings-morality.md) | Age of Duskborn is the most restorative; no ending is without harm |
 | [The Gloam-Eyed Queen](lore-concepts/the-gloam-eyed-queen.md) | Near-conclusive evidence linking her to Melina |
+| [What Is an Empyrean?](investigations/what-is-an-empyrean.md) | A vessel for godhood, monitored by shadows — the system has a 100% failure rate |
+| [Marika's True Motivation](investigations/marikas-true-motivation.md) | Rebel AND mother AND manipulator — the duality is the answer |
+| [Death and the Erdtree Cycle](investigations/death-and-the-erdtree-cycle.md) | What broke when Marika removed death, and which ending fixes it |
 
 ---
 

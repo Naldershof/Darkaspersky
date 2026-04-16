@@ -19,6 +19,9 @@ Unlike the wiki pages (which catalog what is known), investigations take positio
 | [Placidusax's Fled God](placidusax-fled-god.md) | Who was the Dragonlord's god, and what happened to the pre-Erdtree age? | **The Greater Will displaced an earlier cosmic order, and Placidusax's god was driven out rather than leaving voluntarily** |
 | [The Erdtree and the Greattree](erdtree-greattree-identity.md) | Is the Erdtree the same organism as the ancient Greattree, or a parasite? | **The Erdtree is the Greattree colonized by the Greater Will — a living organism repurposed as a control mechanism** |
 | [The Morality of Every Ending](endings-morality.md) | Which ending is "best"? What are the moral costs of each? | **Age of Duskborn is the most restorative; no ending is without harm. The ranking depends on your moral framework — and Miyazaki designed it that way.** |
+| [What Is an Empyrean?](what-is-an-empyrean.md) | What makes someone an Empyrean? Why does the system create rebels? | **A body prepared for godhood — a vessel for the Elden Ring. The shadow system is surveillance, not favor. The system has a 100% failure rate.** |
+| [Marika's True Motivation](marikas-true-motivation.md) | Rebel, grieving mother, or cold manipulator? | **All three simultaneously. The Radagon duality is the key — she contains contradictions because she literally is two people.** |
+| [Death and the Erdtree Cycle](death-and-the-erdtree-cycle.md) | What happens when you die? What broke and why? | **Marika's removal of Destined Death corrupted the entire cycle. Godwyn's half-death is the proof. Fia's ending is the cure.** |
 
 ## How Investigations Work
 
