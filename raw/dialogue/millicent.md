@@ -60,6 +60,18 @@
 
 ---
 
+## Windmill Village — After the Godskin Apostle
+
+> "This village... the women here dance and celebrate. They celebrate the skinning of the gods."
+
+> "It is a strange place. But they were kind to me. They did not flinch from my rot."
+
+> "I must press on. To the Haligtree."
+
+[Context: Millicent can be found at the Windmill Village on the Altus Plateau after the player defeats the Godskin Apostle there. The village's inhabitants celebrate with eerie, ecstatic dances.]
+
+---
+
 ## Miquella's Haligtree — Before the Choice
 
 > "I made it. The Haligtree. Miquella's sanctuary."

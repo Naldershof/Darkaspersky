@@ -1,147 +1,113 @@
-# Elden Ring — Loading Screen Text (Lore-Relevant Excerpts)
+# Loading Screen Texts — Lore-Relevant Entries
 
-## The Erdtree and the Golden Order
+## The Lands Between and the Erdtree
 
-> "The Erdtree is the source of the Erdtree's bounty. It bestows grace upon all who dwell beneath its boughs."
+> "The Lands Between, governed by Queen Marika the Eternal, are blessed by the Erdtree and the Elden Ring which it houses. Grace guides the Tarnished to the path of the Elden Ring."
 
-Establishes the Erdtree as a divine provider. The conditional phrasing ("all who dwell beneath its boughs") implies those outside its reach receive nothing. The Erdtree's grace is not universal; it is territorial.
+> "The Golden Order is the governing principle of the Erdtree and the Elden Ring. All life in the Lands Between is blessed by its Grace."
 
-> "The Elden Ring, the source of the Erdtree, was shattered. And its shards, the Great Runes, were claimed by Queen Marika's offspring."
+> "The Erdtree is the source of the Golden Order, nourishing all life in the Lands Between. Its roots extend deep underground, and its branches cover the sky."
 
-Defines the central premise: the Elden Ring (cosmic law) was broken, and its fragments (Great Runes) were taken by the demigods. The Elden Ring is described as the "source" of the Erdtree, establishing a hierarchy: Ring creates Tree, Tree creates Order.
+> "Sites of Grace are vestiges of the Erdtree's power, scattered throughout the Lands Between. They provide guidance and rest to the Tarnished."
 
-> "The Golden Order is founded on the principle that the Erdtree grants life to all who return to it in death. Salvation lies in the cycle of rebirth."
+## The Shattering
 
-Explicitly states the Golden Order's theological core: the Erdtree recycles souls. Death is not an end but a return. This is what Marika disrupted by removing Destined Death, and what the Age of Duskborn ending restores.
+> "Queen Marika shattered the Elden Ring and the Golden Order was broken. This event is known as the Shattering."
 
-> "Sites of Grace are vestiges of the guidance of grace, lost to the Tarnished long ago."
+> "The Shattering led to a war among the demigods for the shards of the Elden Ring, known as Great Runes. None proved victorious."
 
-Implies the Tarnished once had grace and lost it (their exile/banishment). The Sites of Grace are remnants, not gifts. The Tarnished have been recalled but not fully forgiven.
+> "In the wake of the Shattering, the demigods who inherited shards of the Elden Ring each retreated to their domains, where they continue to war or fester."
 
-## The Tarnished and Grace
-
-> "Those who lost the grace of the Erdtree are called the Tarnished. They are branded with a mark that dulls the eyes."
-
-Defines "Tarnished" literally: those whose golden eyes (sign of grace) have dimmed. The Tarnished are the graceless, the exiled, the rejected.
-
-> "Guided by grace, the Tarnished journeyed to the Lands Between. To stand before the Elden Ring, and become the Elden Lord."
-
-The mission statement. Grace guides the Tarnished toward a specific goal: reassemble the Ring, become Lord. Whether this is truly the Greater Will's desire, Marika's plan, or something else entirely is the game's central question.
-
-> "The guidance of grace, once lost, has been restored to the Tarnished. But not all Tarnished can see it. Those who cannot are said to have lost their way."
-
-Not all recalled Tarnished can see the golden trails of grace. Those who can't are "lost." This creates a hierarchy even among the recalled: some are chosen, some are merely present. The player can always see grace; other Tarnished NPCs may not.
-
-> "The Roundtable Hold is a gathering place for Tarnished, guided to a purpose. But purpose does not ensure unity."
-
-Acknowledges the Hold's dysfunction. The Tarnished are gathered but not united. This loading screen practically warns the player that the NPCs in the Hold may not be trustworthy.
+> "The Tarnished are warriors who lost the grace of the Erdtree and were exiled from the Lands Between. Now, grace calls to them once more."
 
 ## The Demigods
 
-> "Queen Marika the Eternal is the vessel of the Elden Ring, chosen by the Greater Will. She is the god of the Lands Between."
+> "The demigods are the children of Queen Marika and her consorts, Godfrey the first Elden Lord and Radagon of the Golden Order. Each inherited a shard of the Elden Ring."
 
-Establishes Marika's role: vessel, chosen, god. Three distinct functions that may be in tension. A vessel is a container, not an agent. Being chosen implies a chooser with its own agenda. Being god implies sovereignty. These cannot all be true simultaneously, and the game's plot arises from their contradiction.
+> "Godrick the Grafted, a distant descendant of the Golden Lineage, grafts the limbs of fallen warriors and heroes onto his own body in a desperate bid for power."
 
-> "The demigods are the offspring of Queen Marika. Each claimed a shard of the Elden Ring known as a Great Rune."
+> "Rennala, Queen of the Full Moon, was granted an amber egg by Radagon upon his departure. She remains in the Grand Library of Raya Lucaria, lost in sorrow and rebirth."
 
-Simplifies for gameplay purposes but conceals the complexity: some demigods are Marika's children with Godfrey (Morgott, Mohg, Godwyn), others with Radagon (Ranni, Radahn, Rykard, Malenia, Miquella). Since Radagon IS Marika, the second group's parentage is a paradox.
+> "General Radahn, mightiest of the demigod offspring, studied gravitational magic under an Alabaster Lord. He holds the stars in check, preventing the fate they portend."
 
-> "The shardbearers warred for the Great Runes, and the war, known as the Shattering, reduced the Lands Between to ruin."
+> "Praetor Rykard offered his body to the God-Devouring Serpent. Together, they seek to devour the gods themselves."
 
-The Shattering is named and defined: a war between demigods for the fragments of cosmic law. The outcome is universal ruin. No winner. The game begins in the aftermath.
+> "Morgott, the Omen King, is the last king to defend Leyndell from the Tarnished. Born an Omen, he was shunned by the Golden Order he chose to protect."
 
-## The Night of the Black Knives
+> "Malenia, Blade of Miquella, bears the affliction of the Scarlet Rot. She and Starscourge Radahn fought to a standstill, devastating Caelid with the rot she unleashed."
 
-> "On the night of the Black Knives, the assassins murdered Godwyn the Golden. It was the first recorded death of a demigod."
+> "Miquella the Unalloyed, most fearsome of the Empyreans, embedded himself in the Haligtree. His fate after being stolen by Mohg remains shrouded in mystery."
 
-"First recorded death" implies the possibility of unrecorded prior deaths. Godwyn's murder is the inciting incident, but the emphasis on it being "first" suggests it broke a rule that held until that moment. The Rune of Death had been removed; this shouldn't have been possible.
+## The Golden Order and Grace
 
-> "The assassins of the Black Knives are women said to be Numen, from beyond the Lands Between."
+> "The Two Fingers serve as emissaries of the Greater Will, an outer god who bestowed the Elden Ring upon the Lands Between. They guide the Tarnished through Finger Readers."
 
-Connects the assassins to the Numen, Marika's own people. This raises the question of whether Marika was involved in her own son's assassination. The answer, based on Ranni's questline and various item descriptions, appears to be yes.
+> "Grace is the golden light that guides the Tarnished. Its guiding rays point the way forward, though not all who are Tarnished can see them."
 
-## Gameplay Mechanics and Lore
+> "The Roundtable Hold is a gathering place for Tarnished, existing outside the physical realm. It is maintained by the guidance of the Two Fingers."
 
-> "Runes are the currency of the Lands Between. They are fragments of the Elden Ring, and the grace of the Erdtree."
+> "Great Runes are the fragments of the Elden Ring, claimed by the demigods after the Shattering. Each carries a portion of the Ring's power and must be restored at a Divine Tower."
 
-Even the currency is divine. Runes (the XP/money system) are literally fragments of cosmic law. The player accumulates divine power by killing creatures who contain it. The entire economy is built on harvesting the shattered divine.
+## The Tarnished and Their Purpose
 
-> "A Great Rune is a shard of the Elden Ring itself. To activate its power, seek the Divine Tower."
+> "The Tarnished were exiled from the Lands Between after losing the grace of the Erdtree. In death, they are called back by grace to seek the Elden Ring."
 
-Connects the Great Runes to the Divine Towers, the tall isolated structures found throughout the map. Each tower activates one Great Rune, suggesting the towers were built (or repurposed) specifically for this post-Shattering function.
+> "To become Elden Lord, a Tarnished must collect Great Runes, mend the Elden Ring, and present themselves before the Erdtree."
 
-> "Summoning spirits is a power granted to those who walk alongside the spirit tuner. Ashes of the dead, given new purpose."
+> "Finger Maidens accompany the Tarnished, allowing them to convert runes into strength. A Tarnished without a maiden cannot channel the power of runes."
 
-Spirit summoning is explicitly necromantic: the ashes of dead warriors/creatures given new purpose. This is technically a violation of the Golden Order's principles (the dead should return to the Erdtree, not fight for the Tarnished).
+> "Many Tarnished have attempted to reach the Erdtree and become Elden Lord. Most have failed, their bodies littering the paths of the Lands Between."
 
-> "Those who have lost their grace may yet find guidance. The Sites of Grace glow faintly, marking the path forward."
+## War and History
 
-Reinforces grace as guidance. The Sites of Grace are not just save points; they are divine waypoints, marking the path the Greater Will (or whatever grants grace) wants the Tarnished to follow.
+> "The war against the Giants was waged by Queen Marika and her first Elden Lord, Godfrey. The Giants were all but exterminated, and their Flame of Ruin was sealed."
 
-## Regional Descriptions
+> "The Night of the Black Knives saw the assassination of Godwyn the Golden, the first of the demigods to die. His killers wielded fragments of the Rune of Death."
 
-> "Limgrave, the domain of Godrick the Grafted. He claims lordship of all that is golden, though few acknowledge his right."
+> "Godfrey, first Elden Lord, was stripped of his grace after the war with the Giants and exiled from the Lands Between. He became the first of the Tarnished."
 
-Directly undermines Godrick's authority. The loading screen itself says his claim is unrecognized. The game's own UI is mocking him.
+> "The Academy of Raya Lucaria was once the premier institution of glintstone sorcery. It sealed itself behind a barrier after the Shattering, refusing entry to all."
 
-> "Liurnia of the Lakes, domain of the Carian royal family. Once, the Academy of Raya Lucaria served the Carian throne. No more."
+## Locations
 
-Summarizes Liurnia's entire political situation in two sentences. The Academy rebelled. The Carians lost control.
+> "Limgrave is the first region encountered by Tarnished arriving in the Lands Between. Stormveil Castle, seat of Godrick the Grafted, overlooks the region from its northern cliffs."
 
-> "Caelid, the land ravaged by the Scarlet Rot. General Radahn and Malenia, Blade of Miquella, clashed here, and neither emerged victorious."
+> "Liurnia of the Lakes is a region dominated by shallow lakes and the Academy of Raya Lucaria. Rennala, Queen of the Full Moon, resides within the Academy."
 
-Confirms the mutual destruction narrative. Neither won. Both lost. Caelid paid the price.
+> "Caelid is a region blighted by the Scarlet Rot, unleashed during the battle between Malenia and Radahn. Its red sky and decayed landscape mark it as cursed."
 
-> "The Altus Plateau, heartland of the Golden Order. The royal capital of Leyndell awaits at its center."
+> "The Altus Plateau is the elevated heartland of the Lands Between, home to Leyndell, the Royal Capital. It is accessed via the Grand Lift of Dectus or through a cave."
 
-Positions the Altus Plateau as the Golden Order's core territory and Leyndell as the goal.
+> "The Mountaintops of the Giants is a frozen wasteland once home to the Fire Giants. The Forge of the Giants, where their flame is sealed, crowns its heights."
 
-> "The Mountaintops of the Giants, where the Fire Giants once dwelt. They were defeated by Queen Marika and the first Elden Lord."
+> "Crumbling Farum Azula is a floating ruin caught in a perpetual storm, existing outside normal time. It was the seat of the ancient dragon civilization."
 
-Names both Marika and Godfrey (first Elden Lord) as the Giants' conquerors, establishing this as a joint military campaign early in the Golden Order's expansion.
+## Death and Undeath
 
-## Death and the Undead
+> "Destined Death was once part of the Elden Ring, governing the natural cycle of life and death. Queen Marika removed it, entrusting it to Maliketh."
 
-> "Those Who Live in Death are an affront to the Golden Order. The Order commands that the dead return to the Erdtree."
+> "Those Who Live in Death are beings neither truly alive nor truly dead, created by the influence of Deathroot — the corruption spreading from Godwyn's soulless corpse."
 
-Explicitly states the Golden Order's position on the undead: they are heretical because they exist outside the Erdtree's recycling system. This loading screen provides the theological justification for D's witch-hunting.
+> "The Golden Order considers Those Who Live in Death to be abominations. Hunters of the Dead, like D, are tasked with destroying them wherever they are found."
 
-> "Deathroot is a corruption that sprouts from the roots of the Erdtree. It is tied to the death of the demigod Godwyn."
+## Outer Gods and Other Powers
 
-Links Deathroot directly to Godwyn's half-death. The Erdtree is being corrupted from within by a demigod whose body lives but whose soul is dead.
+> "The Greater Will is an outer god whose influence is channeled through the Elden Ring and the Erdtree. Its emissaries are the Two Fingers, found throughout the Lands Between."
 
-## Outer Gods and Cosmic Powers
+> "The Formless Mother is an outer god associated with blood and wounds. She empowers Mohg, Lord of Blood, through the medium of bloodflame."
 
-> "The Greater Will is a distant god that controls the Lands Between through the medium of the Elden Ring and the Two Fingers."
+> "The Scarlet Rot is the influence of a sealed outer god, imprisoned beneath the Lands Between. Malenia serves as its unwilling vessel."
 
-Defines the Greater Will's relationship to the world: distant, controlling through intermediaries. The Greater Will is not present; it acts through tools (the Ring) and agents (the Fingers).
+> "The Frenzied Flame is the will of the Three Fingers, seeking the dissolution of all order and the return to a primordial, undifferentiated chaos."
 
-> "The Scarlet Rot is said to be the curse of an Outer God. Its influence eats away at body and mind alike."
+> "The Full Moon of Raya Lucaria is associated with Rennala and the Carian royal family. Some scholars believe it represents an outer god distinct from the Greater Will."
 
-Identifies the Scarlet Rot as an Outer God's curse, not a natural disease. Malenia is the victim of a cosmic parasite, not an illness.
+## Miscellaneous Lore
 
-> "The Frenzied Flame wishes to consume all that divides and distinguishes. It is the will to return everything to one."
+> "Spirit Ashes are the remnants of the dead, preserved in a form that allows them to be summoned. The Spirit Calling Bell attunes the summoner to the spirits' frequency."
 
-The most concise description of the Frenzied Flame's philosophy: annihilation of individuality and distinction. Not destruction for destruction's sake but dissolution back to primordial unity.
+> "The Albinaurics are artificial beings, created rather than born. The first generation walks on two legs but suffers degeneration. The second generation is more bestial."
 
-## Miscellaneous Lore-Relevant Loading Screens
+> "The Misbegotten are beings born with animalistic features, considered cursed by the Golden Order. Many are enslaved or cast out. Some find refuge in hidden places."
 
-> "The Two Fingers serve as envoy of the Greater Will. They guide the Tarnished toward their destiny."
-
-Positions the Two Fingers as guides, not commanders. They "guide" rather than "command." The distinction matters for understanding the Tarnished's degree of free will.
-
-> "Spirit ashes are the remains of the dead, condensed into a form that allows summoning. They fight for their summoner, bound by the spirit caller's bell."
-
-Spirit summoning is binding: the spirits are "bound" to serve. This raises ethical questions about whether summoning spirits is slavery or service.
-
-> "The Erdtree casts its golden shade across the Lands Between, a symbol of grace and prosperity. Yet for many, its shade brings no comfort."
-
-The most politically loaded loading screen. The Erdtree's grace has limits, and the game acknowledges that "many" are excluded.
-
-> "The Lands Between exist in a state of broken grace. What was once a paradise sustained by the Erdtree is now a land of conflict and decay."
-
-Describes the pre-Shattering world as "paradise" while the current state is "broken grace." Whether the paradise was real or a function of authoritarian control (the Golden Order suppressing dissent through divine mandate) is left to the player.
-
-> "Every victory marks a step closer to the Elden Ring, and the title of Elden Lord. But what manner of Lord will you be?"
-
-One of the few loading screens that directly addresses the player's agency. The game's multiple endings are implied here: the title is coming, but its meaning depends on choice.
+> "The Omen are beings born with horns, tails, and other protrusions. The Golden Order surgically removes their horns in a painful process, or casts them into the sewers."
