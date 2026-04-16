@@ -1,63 +1,63 @@
 # Mountaintops of the Giants — Environmental Observations
 
+## The Fire Giant and His Chains
+
+The Fire Giant is the last of his race, a sole survivor of the war Marika waged against the Giants to seal the Flame of Ruin. He is found in a vast snowy arena near the Forge of the Giants, chained to the mountainside by enormous links of metal. The chains are ancient, rusted, corroded by centuries of ice and fire. Despite their age, they still bind him, limiting his range.
+
+The chains were not placed by the Fire Giant himself. They are a remnant of the curse Marika placed upon the last Giant: he was kept alive deliberately, forced to tend the Forge's flame eternally. Marika did not simply defeat the Giants — she turned the last one into a prisoner and a custodian. The Fire Giant could not die, could not leave, and could not stop fueling the very flame that could destroy the Erdtree. This is either strategic insurance (keeping the flame available as a last resort) or gratuitous cruelty. Given what we know of Marika, it may be both.
+
+The Fire Giant's second phase reveals a face in his torso — a vestige of the Fell God, the fire deity the Giants worshipped. When the Fire Giant rips off his own leg and the Fell God's face ignites, the implication is that the Giant's body was always a vessel for something greater. The Fell God's power was sealed inside the last Giant's flesh, contained but never extinguished.
+
+[Context: The boss arena in the southern Mountaintops of the Giants, near the chain bridge leading to the Forge.]
+
 ## The Forge of the Giants
 
-The Forge of the Giants is a massive stone cauldron at the highest point of the Mountaintops, burning with the Flame of Ruin. The forge is surrounded by enormous chains and anchored into the mountain as though meant to contain the flame rather than fuel it. The interior glows with an ancient fire that predates the Erdtree.
+The Forge itself is a massive stone cauldron at the summit of the Mountaintops, accessible only after defeating the Fire Giant. It burns with a perpetual flame that is visually distinct from the Erdtree's golden light — this fire is red-orange, primal, and ancient. The Forge predates the Erdtree era entirely, belonging to the civilization of Giants who worshipped the Fell God.
 
-The forge's purpose is to burn the Erdtree. Specifically, burning the Erdtree's thorns requires a fire that the Erdtree itself cannot suppress, and the Flame of Ruin is the only such fire. This is why Marika and the Golden Order waged war on the Giants: the Giants maintained the only power that could threaten the Erdtree. The Golden Order did not merely conquer the Giants for territory; they attempted to extinguish the existential threat the flame represented.
+When Melina sacrifices herself here (or the player uses the Frenzied Flame), the Forge's fire is directed at the Erdtree, burning away the thorns that sealed it. The Forge was always capable of this — it was specifically designed or empowered to burn the Erdtree, which is why Marika made war on the Giants in the first place. The Giants possessed the one weapon that could threaten her divine tree.
 
-They failed to fully extinguish it. The forge still burns. The flame was contained but not destroyed, kept in the mountaintop prison rather than eliminated. Whether this was because the flame cannot be destroyed or because someone (perhaps Marika herself) chose to preserve it as a failsafe is one of the game's key ambiguities.
+The surrounding area features Giant corpses, some half-buried in snow, some propped against rock formations. These are the remnants of the war — Giants who fell fighting Marika's forces and were simply left where they died. No burial, no honor. The snow gradually covered them, but their bones still protrude from the mountainside. The scale of these corpses dwarfs even the Fire Giant, suggesting the ancient Giants were even larger, or that the Fire Giant has diminished over his long captivity.
 
-Melina's sacrifice here (if the player does not take the Frenzied Flame) involves her casting herself into the forge to kindle the flame sufficiently to burn the Erdtree's thorns. Her willingness to die for this purpose, and her statement that this is "the purpose given to me by my mother inside the Erdtree," implies that Marika planned for this contingency, giving Melina the purpose of being a kindling maiden should the Erdtree need to be breached.
+[Context: The summit of the Mountaintops of the Giants, the final destination before Crumbling Farum Azula.]
 
-[Context: The summit of the Mountaintops of the Giants, the massive forge structure accessible after defeating the Fire Giant.]
+## Giant Corpses and the Battlefield
 
-## The Fire Giant
+The path through the Mountaintops is littered with evidence of the ancient war. Enormous Giant corpses are visible throughout the landscape: some collapsed against cliff faces, others partially embedded in glaciers, one forming a natural bridge the player crosses. Their weapons — massive stone clubs, crude axes — lie scattered nearby, frozen in place.
 
-The Fire Giant is the last of his kind, a colossal being chained and confined to the mountaintop. His body is scarred and mutilated: one leg is broken and bound with rope, his face is partially destroyed, and a vestigial face on his torso (revealed in his second phase) opens to channel the Flame of Ruin directly. He is simultaneously a jailer (keeping the flame contained) and a prisoner (bound to this duty by the curse placed on him by the Golden Order).
+The battlefield's preservation in ice creates an eerie time capsule. The war ended long ago, but the evidence looks fresh, locked in perpetual winter. Fire Monks and Fire Prelates patrol these areas, descendants of those who once served the Giants' flame or were tasked with guarding the sealed Forge. Their presence indicates that a human community grew up around the Giants' legacy, preserving their fire worship in diminished form.
 
-The Fire Giant's red hair and massive stature identify him with the Giant race that once ruled these mountains. Their civilization is evidenced by the enormous structures, gravestones, and stone coffins scattered across the mountaintops. The Giants were a culture of fire-worship, revering the Fell God (represented by a one-eyed flame deity whose image appears on the Giant's torso). The Golden Order, led by Godfrey (then Hoarah Loux) and Marika, crushed the Giant civilization specifically to neutralize the Flame of Ruin.
+The Flame of the Fell God incantation describes the Giants' god as a being of catastrophic fire. The scattered Giant corpses show wounds consistent with golden weapons and magic, confirming they were killed by Erdtree-aligned forces. Some Giants appear to have been bound or executed rather than killed in open combat, suggesting the war ended with systematic extermination rather than a single decisive battle.
 
-The Fire Giant was cursed to maintain the flame eternally, his people destroyed around him. His is one of the most tragic existences in the game: the last survivor of a genocide, cursed to guard the very weapon that could have saved his people, forever alone on a frozen mountain.
+[Context: Throughout the Mountaintops region, particularly along the main paths between the Grand Lift of Rold and the Forge.]
 
-[Context: The Fire Giant boss arena in the upper Mountaintops, a snowfield near the Forge of the Giants.]
+## Castle Sol and the Eclipse
 
-## The Flame of Ruin and What the Giants Protected
+Castle Sol sits in the northern Mountaintops, a fortress permanently wreathed in spectral moonlight and an artificial eclipse. The castle is guarded by Commander Niall, a warrior who summons spectral soldiers to fight alongside him. The atmosphere within is haunted: ghostly soldiers patrol the walls alongside living ones, the boundary between alive and dead blurred by whatever power sustains the eclipse.
 
-The Flame of Ruin is an ancient power associated with the Fell God, a fire deity that predates the Erdtree. The Giants served as its custodians, and their entire civilization was oriented around protecting and venerating this flame. The Golden Order's genocide of the Giants was fundamentally about eliminating a rival theology that possessed a genuine threat to the Erdtree.
+The eclipse is the key environmental detail. Castle Sol was dedicated to an attempt to revive or commune with the dead — specifically, to achieve an eclipse that would bring about the return of the soulless demigod. The Mausoleum Soldier ashes and the eclipse imagery connect to the Walking Mausoleums: both are attempts to find a body for a demigod who exists only as a soul, or to restore life to a demigod who died.
 
-The relationship between the Flame of Ruin and the Frenzied Flame (the Three Fingers' chaotic fire) is ambiguous but connected. Both are fire-based powers that oppose the Erdtree, but the Flame of Ruin appears to be a focused, purposeful force (maintained by the Giants in their forge) while the Frenzied Flame is entropy and dissolution. The Fire Giant's flame burns; the Frenzied Flame consumes all existence.
+The most likely candidate for this project is Miquella, who was attempting to cure his sister Malenia and may have needed the eclipse's power. Alternatively, the eclipse may relate to Godwyn, whose soul died while his body persists. The Eclipse Shotel's description states that the eclipse "weights the scales of life and death," and the castle's entire purpose seems oriented toward tipping that balance.
 
-That the Giants protected the flame rather than weaponizing it against the Erdtree (they were apparently peaceful custodians until attacked) reframes the Golden Order's war against them. The Giants were not aggressors. They simply possessed something dangerous, and the Golden Order chose preemptive destruction over coexistence.
+The spectral soldiers who aid Niall are bound to the castle by this same power. They died but were not released, trapped in service to a cause that may never be fulfilled. Their existence is a smaller-scale version of the Lands Between's central problem: death is broken, and the dead cannot rest.
 
-[Context: Thematic observation about the fire-related lore centered on the Mountaintops region.]
+[Context: Castle Sol, located in the northeastern Mountaintops of the Giants, accessible via a bridge from the snow fields.]
 
-## The Frozen Landscape and Giant Architecture
+## The Flame of Ruin and Fire Worship
 
-The Mountaintops are a frozen wasteland, perpetually covered in snow and buffeted by freezing winds. The environment itself is hostile: cold, barren, with near-zero visibility in blizzards. The traversal of this region is punishing, with no settlements, no merchants, and minimal shelter.
+Throughout the Mountaintops, Fire Monks and Fire Prelates guard shrines, patrol paths, and protect relics of the Giants' fire worship. Their red robes, flame incantations, and massive censers mark them as members of a religious order devoted to the Fell God's fire. The Fire Monks are not Giants — they are human-sized — but they have adopted the Giants' faith and maintain their traditions.
 
-Giant architectural remains are everywhere: enormous stone structures too large for human use, massive gravestones taller than buildings, and the ruins of what appears to have been a sophisticated mountain civilization. The scale of these structures communicates the Giants' physical size (they were far larger than humans) and their cultural development (these are not crude structures but deliberately designed buildings and monuments).
+The Guardians' Garrison and the Giant-Conquering Hero's Grave both contain evidence of the war and its aftermath. The Hero's Grave celebrates the human warriors who helped Marika defeat the Giants, while the Fire Monks outside represent those who preserved the Giants' legacy despite the Golden Order's victory. This coexistence of conquerors' monuments and conquered peoples' faith suggests the Mountaintops exist in a state of unresolved tension.
 
-The Guardian's Garrison and Castle Sol are two major fortifications in the region. Castle Sol, guarded by Commander Niall, is a functioning military outpost that still defends the path to the Consecrated Snowfield. Its soldiers are spectral, summoned by Niall to maintain a garrison long after the living defenders have died. The castle protects one half of the Haligtree Secret Medallion, connecting the Mountaintops to the hidden path to Miquella's sanctuary.
+The Giant's Forge flame is described as the "Flame of Ruin" — ruin not as incidental destruction but as purposeful unmaking. The Giants' fire was antithetical to the Erdtree because it could unmake what the Erdtree had ordered. This is why it was sealed rather than extinguished: true unmaking cannot itself be unmade. It can only be contained. The Forge, the Fire Giant, and the Flame of Ruin together represent an existential threat to the Golden Order that was imprisoned rather than resolved.
 
-The Zamor Ruins represent a separate but related civilization, the Zamor knights being ice-wielding warriors whose homeland was consumed by the same cold that defines the mountaintops. Their curved swords and flowing combat style suggest a martial tradition distinct from both the Giants and the Golden Order.
+[Context: Throughout the Mountaintops, particularly around Fire Monk encampments and Giant-related ruins.]
 
-[Context: The general landscape and architectural features of the Mountaintops of the Giants region.]
+## The Frozen Landscape and Isolation
 
-## The Consecrated Snowfield
+The Mountaintops are the most inhospitable overworld region. The terrain is snow-covered, visibility is often limited by blizzard conditions, and the enemies are stronger and more sparse than in lower regions. The sense of isolation is deliberate: the player has left civilization behind. There are no friendly NPCs in the open world here (aside from Shabriri at the church, and he is far from friendly). The Sites of Grace are sparse. The landscape is vertical and treacherous.
 
-Beyond the Mountaintops, accessible via the Grand Lift of Rold using the secret Haligtree Medallion, lies the Consecrated Snowfield. This area is shrouded in perpetual blizzard, reducing visibility to near zero. The snowfield contains Ordina, Liturgical Town, a frozen settlement where spectral enemies and assassins lurk. The town must be navigated in an Evergaol state to light four fires and break the seal to the Haligtree.
+This environmental hostility mirrors the narrative position: the player is approaching the endgame, and the world itself resists their progress. The Mountaintops were the Giants' domain, and even after the Giants' defeat, the land remains hostile to those aligned with the Erdtree. The cold, the altitude, and the desolation all communicate that this place belongs to an older power that the Golden Order conquered but never tamed.
 
-The Consecrated Snowfield is hidden by design. The secret medallion requirement, the blinding blizzard, and the town's puzzle-lock all serve to conceal the path to the Haligtree. This extreme secrecy reflects Miquella's need to hide his sanctuary from the Golden Order and other hostile forces.
+The Zamor Ruins contain the remains of a civilization that predated or coexisted with the Giants — the Zamor people, whose ice-based warriors suggest yet another culture crushed by the expansion of the Erdtree's influence. Layer upon layer of displaced peoples mark the Mountaintops as a graveyard of civilizations.
 
-The snowfield also contains the entrance to Mohgwyn Palace (via a teleporter from a blood-marked area), creating a geographic overlap between two of the game's most hidden locations. The proximity of Miquella's refuge and Mohg's abduction site suggests that Mohg found Miquella precisely because the Haligtree's location was not as secret as intended.
-
-[Context: The hidden snowfield beyond the Mountaintops, accessible via the secret medallion at the Grand Lift of Rold.]
-
-## The Giants' Graveyard
-
-The area surrounding the Fire Giant's arena is dotted with massive stone coffins and burial markers, forming a graveyard for the Giant race. The coffins are sized for beings far larger than the Fire Giant himself, suggesting that some Giants were even more massive, or that the coffins were built with ceremonial excess.
-
-This graveyard is where the Fire Giant lives, patrols, and ultimately fights. He exists among the graves of his people. The environmental pathos is intense: the last Giant wanders his people's cemetery, guarding their sacred flame, unable to die until someone strong enough comes to kill him. The Mountaintops are not just a frozen wasteland; they are a memorial to genocide, and the Fire Giant is both the last mourner and the final monument.
-
-[Context: The broad snowfield area where the Fire Giant boss encounter takes place, surrounded by giant-scale burial structures.]
+[Context: General observations about the Mountaintops of the Giants region as a whole.]
