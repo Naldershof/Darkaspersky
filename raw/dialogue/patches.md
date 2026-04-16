@@ -66,7 +66,7 @@
 
 ---
 
-## Shaded Castle — Patches' Betrayal
+## Shaded Castle — Patches' Warning
 
 > "Tarnished! There you are! Listen, I've found something incredible. A treasure beyond measure."
 
@@ -74,7 +74,7 @@
 
 > "...What? Would I lie to you? Perish the thought!"
 
-[Context: Patches sends the player toward a dangerous encounter. If approached from certain angles, this leads to an ambush. Patches is never where he says he'll be when trouble arrives.]
+[Context: Patches sends the player toward a dangerous encounter. His consistent pattern of luring people into traps makes every direction he gives inherently suspicious.]
 
 ---
 
