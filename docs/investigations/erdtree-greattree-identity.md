@@ -80,6 +80,8 @@ The Haligtree and the Scadutree provide the final confirmation. Miquella grew th
 
 Dragonlord Placidusax adds a temporal anchor: he *"is said to have been Elden Lord in the age before the Erdtree. Once his god was fled, the lord continued to await its return."* The Erdtree did not exist during Placidusax's reign. But the Greattree almost certainly did -- the Crucible's age of abundance had to precede both the dragons' era and the Greater Will's arrival. The Greattree was the Lands Between's native sacred tree. The Greater Will was an interloper that arrived after Placidusax's god departed, found an existing tree, and claimed it.
 
+The DLC's revelation about Metyr, Mother of Fingers, strengthens the case for the Greater Will as colonizer. Metyr is described as *"a vassal of the Greater Will who descended upon the Lands Between in a bygone age"* -- the same language used for the Elden Beast. The Greater Will sent multiple vassals. It did not grow organically from the land. It arrived, installed agents, and took control of existing structures. The Erdtree is the largest and most important of those claimed structures.
+
 ## Proposed Theory
 
 The Erdtree and the Greattree are the same organism. The Erdtree is what the Greattree became after the Greater Will's Elden Beast entered it and the Elden Ring's power transformed its surface expression. The golden light, the burning of the dead, the distribution of grace -- these are the Greater Will's modifications, overlaid on an older living structure whose root system remains intact underground. The Greattree was not destroyed. It was colonized.
